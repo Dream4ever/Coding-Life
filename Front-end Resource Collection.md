@@ -1,4 +1,6 @@
-# 精华文章
+# 学习指导
+
+## 精华文章
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831/answer/61429937)：文章超长，但是干货超级多，值得反复精读！
 
@@ -14,35 +16,7 @@
 
 [前后端分离后的前端时代](https://mp.weixin.qq.com/s/_N9RKbTOGcohmrJXg9rqEg)
 
-# 网络原理
-
-[互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
-
-[DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)
-
-[理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
-
-# 网页设计
-
-关键字：web design
-
-[站酷](http://www.zcool.com.cn/)
-
-[交互设计&视觉设计的网站&书](https://www.zhihu.com/question/19652509)
-
-[LogoMoose](https://www.logomoose.com/)
-
-# 原型设计
-
-知乎关键字：原型设计 → 精华内容
-
-[如何设计出色的网站后台原型？](https://www.zhihu.com/question/31859504)
-
-[如何快速学会 Axure 呢？](https://www.zhihu.com/question/19818520)
-
-[如何学习使用 Axure？](https://www.zhihu.com/question/19892861)
-
-# 前端学习
+## 前端学习
 
 [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.yiycyp21r)
 
@@ -56,15 +30,53 @@
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)
 
-# 开发流程
+# 前端资讯
 
-[Web开发流程参考](http://www.jianshu.com/p/f822c470b1f1)
+[小胡子哥 » 博客](http://www.barretlee.com/entry/)
 
-[现在大型网站的开发流程是怎么样的？](http://www.guokr.com/question/490663/)
+[Jerry Qu](https://imququ.com/)
 
-13年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
+# 语言
 
-# 开发规范
+## CSS
+
+[CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
+
+[前端精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
+[Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+
+[移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+
+[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+[cssreference.io](http://cssreference.io/)
+
+[一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
+
+### 浏览器兼容性
+
+[不同浏览器兼容性——常用的CSS Hack技术集锦](http://www.imooc.com/article/3513)
+
+[html5shiv](https://github.com/aFarkas/html5shiv)
+
+[CSS3 PIE](http://css3pie.com/)
+
+## JS
+
+[jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)
+
+[How To Create An Animated Scroll To Top Button With jQuery](https://paulund.co.uk/how-to-create-an-animated-scroll-to-top-with-jquery)
+
+[实现图片懒加载(lazyload)](https://segmentfault.com/a/1190000007635063)：lazyload提升页面加载速度，节流函数限制页面滚动时绑定函数的触发次数
+
+[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
+
+[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
+
+[异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
+
+## 开发规范
 
 [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 
@@ -80,7 +92,23 @@ front-end code standards & best practices - Google Search
 
 [界面设计必备！全方位科普常用的字体规范（附神器）](http://www.uisdc.com/font-use-of-standard)
 
-# 前端框架
+# 库/框架
+
+## Jquery
+
+[Effective Event Binding with jQuery](https://www.sitepoint.com/effective-event-binding-jquery/)：简单高效地实现jQuery中的事件绑定，实在太特么酷了！
+
+## Vue
+
+[Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026nSmSxkHsYaHtIq00c09T#rd)
+
+[饿了么Element：网站快速成型工具](http://element.eleme.io/#/zh-CN)
+
+[基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](http://www.vue-js.com/topic/58abbd21a9c1282817afc28d)
+
+[Vue2 后台管理系统解决方案](http://www.vue-js.com/topic/58bd2e52b011a6b41c025faa)
+
+[vue生态大指南](http://www.vue-js.com/topic/58750c15a9c1282817afbfb7)
 
 ## 框架优选
 
@@ -134,18 +162,6 @@ SegmentFault 技术周刊系列文章
 
 开发指引：[Web版](https://design.alipay.com/develop/web/react/introduce)，[H5版](https://design.alipay.com/develop/mobile/introduce)
 
-## Vue
-
-[Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026nSmSxkHsYaHtIq00c09T#rd)
-
-[饿了么Element：网站快速成型工具](http://element.eleme.io/#/zh-CN)
-
-[基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](http://www.vue-js.com/topic/58abbd21a9c1282817afc28d)
-
-[Vue2 后台管理系统解决方案](http://www.vue-js.com/topic/58bd2e52b011a6b41c025faa)
-
-[vue生态大指南](http://www.vue-js.com/topic/58750c15a9c1282817afbfb7)
-
 ## 其它框架
 
 [FrozenUI - 专注于移动web的UI框架](http://frozenui.github.io/)
@@ -154,47 +170,21 @@ SegmentFault 技术周刊系列文章
 
 关键字：移动端组件库
 
-# CSS
+# 网络原理
 
-[CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
+[互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 
-[前端精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+[DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
-[Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+[理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 
-[移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+# 开发流程
 
-[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+[Web开发流程参考](http://www.jianshu.com/p/f822c470b1f1)
 
-[cssreference.io](http://cssreference.io/)
+[现在大型网站的开发流程是怎么样的？](http://www.guokr.com/question/490663/)
 
-[一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
-
-## 浏览器兼容性
-
-[不同浏览器兼容性——常用的CSS Hack技术集锦](http://www.imooc.com/article/3513)
-
-[html5shiv](https://github.com/aFarkas/html5shiv)
-
-[CSS3 PIE](http://css3pie.com/)
-
-# JS
-
-[jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)
-
-[How To Create An Animated Scroll To Top Button With jQuery](https://paulund.co.uk/how-to-create-an-animated-scroll-to-top-with-jquery)
-
-[实现图片懒加载(lazyload)](https://segmentfault.com/a/1190000007635063)：lazyload提升页面加载速度，节流函数限制页面滚动时绑定函数的触发次数
-
-[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
-
-[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
-
-[异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
-
-## Jquery
-
-[Effective Event Binding with jQuery](https://www.sitepoint.com/effective-event-binding-jquery/)：简单高效地实现jQuery中的事件绑定，实在太特么酷了！
+13年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
 
 # 功能实现
 
@@ -346,12 +336,28 @@ Github 关键字：danmu
 
 [移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 
-# 前端博客
-
-[小胡子哥 » 博客](http://www.barretlee.com/entry/)
-
-[Jerry Qu](https://imququ.com/)
-
 # 前端安全
 
 [如何让前端更安全？——XSS攻击和防御详解](http://k.21cn.com/share/2017/0217/19/7411f5433cffa5feec365716.shtml)
+
+# 设计
+
+## 网页设计
+
+关键字：web design
+
+[站酷](http://www.zcool.com.cn/)
+
+[交互设计&视觉设计的网站&书](https://www.zhihu.com/question/19652509)
+
+[LogoMoose](https://www.logomoose.com/)
+
+## 原型设计
+
+知乎关键字：原型设计 → 精华内容
+
+[如何设计出色的网站后台原型？](https://www.zhihu.com/question/31859504)
+
+[如何快速学会 Axure 呢？](https://www.zhihu.com/question/19818520)
+
+[如何学习使用 Axure？](https://www.zhihu.com/question/19892861)

@@ -30,11 +30,19 @@
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)
 
-# 前端资讯
+## 前端资讯
 
 [小胡子哥 » 博客](http://www.barretlee.com/entry/)
 
 [Jerry Qu](https://imququ.com/)
+
+## 网络原理
+
+[互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+
+[DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)
+
+[理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 
 # 语言
 
@@ -205,14 +213,6 @@ SegmentFault 技术周刊系列文章
 - [JMUI(Based on JM) | Spirit](http://alloyteam.github.io/Spirit/modules/JMUI/demo.html)
 
 [移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
-
-# 网络原理
-
-[互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
-
-[DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)
-
-[理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 
 # 开发流程
 

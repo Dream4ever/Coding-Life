@@ -170,6 +170,42 @@ SegmentFault 技术周刊系列文章
 
 关键字：移动端组件库
 
+# 移动开发
+
+## 页面适配
+
+[从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
+
+[如何让页面适配各种机型](i.jakeyu.top/2016/04/18/如何让页面适配各种机型/)：采用rem实现页面适配各种手机型号
+
+[移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+
+[移动端适配方案(下)](http://web.jobbole.com/90084/)
+
+[使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+
+[了解真实的『REM』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md) 
+
+## 常见大坑
+
+[移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)：部分定位的布局实现，fixed与input，iOS非直接输入相关
+
+[移动端视频播放 - Prismplayer - 阿里云](https://help.aliyun.com/document_detail/43549.html?spm=5176.doc42441.2.3.Sw5Llz)
+
+[移动端页面、图片合理宽度](https://www.zhihu.com/question/22938382)
+
+## Spirit - 腾讯移动Web整体解决方案
+
+[Spirit](http://alloyteam.github.io/Spirit/)
+
+- [移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
+
+- [JM(JavaScript Mobile) | Spirit](http://alloyteam.github.io/Spirit/modules/JM/index.html)
+
+- [JMUI(Based on JM) | Spirit](http://alloyteam.github.io/Spirit/modules/JMUI/demo.html)
+
+[移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
+
 # 网络原理
 
 [互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
@@ -299,42 +335,6 @@ Github 关键字：danmu
 # Wiki系统
 
 [SmartWiki](https://github.com/lifei6671/SmartWiki)：国人出品的一款Wiki系统，从16年12月份开始开发，上次更新日期：2017年3月29日
-
-# 移动Web
-
-## 页面适配
-
-[从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
-
-[如何让页面适配各种机型](i.jakeyu.top/2016/04/18/如何让页面适配各种机型/)：采用rem实现页面适配各种手机型号
-
-[移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
-
-[移动端适配方案(下)](http://web.jobbole.com/90084/)
-
-[使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
-
-[了解真实的『REM』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md) 
-
-## 常见大坑
-
-[移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)：部分定位的布局实现，fixed与input，iOS非直接输入相关
-
-[移动端视频播放 - Prismplayer - 阿里云](https://help.aliyun.com/document_detail/43549.html?spm=5176.doc42441.2.3.Sw5Llz)
-
-[移动端页面、图片合理宽度](https://www.zhihu.com/question/22938382)
-
-# Spirit - 腾讯移动Web整体解决方案
-
-[Spirit](http://alloyteam.github.io/Spirit/)
-
-- [移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
-
-- [JM(JavaScript Mobile) | Spirit](http://alloyteam.github.io/Spirit/modules/JM/index.html)
-
-- [JMUI(Based on JM) | Spirit](http://alloyteam.github.io/Spirit/modules/JMUI/demo.html)
-
-[移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 
 # 前端安全
 

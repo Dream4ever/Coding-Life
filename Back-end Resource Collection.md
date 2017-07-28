@@ -8,13 +8,19 @@
 
 [Secure Coding Guidelines](https://msdn.microsoft.com/en-us/library/8a3x2b7f.aspx)
 
-# PHP
+## Node.JS
 
-## 编码规范
+### 库/框架
+
+[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载
+
+## PHP
+
+### 编码规范
 
 [PHP Standards Recommendations - PHP-FIG](http://www.php-fig.org/psr/)：目前最普遍采用的PHP编码规范
 
-## 代码安全
+### 代码安全
 
 [PHP安全编码 - 枪与玫瑰](https://www.mudoom.com/php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81/)
 

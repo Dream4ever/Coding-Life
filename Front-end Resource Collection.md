@@ -44,7 +44,7 @@
 
 [理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 
-# 语言
+# 语言基础
 
 ## CSS
 
@@ -178,6 +178,74 @@ SegmentFault 技术周刊系列文章
 
 关键字：移动端组件库
 
+# 业务实战
+
+## 开发流程
+
+[Web开发流程参考](http://www.jianshu.com/p/f822c470b1f1)
+
+[现在大型网站的开发流程是怎么样的？](http://www.guokr.com/question/490663/)
+
+13年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
+
+## 功能实现
+
+### 用户注册
+
+[前后端分离模式下前端开发的一些疑问，关于注册登陆](https://segmentfault.com/q/1010000003723616)
+
+### 用户登录
+
+[关于登陆模块的设计](https://segmentfault.com/q/1010000004568256)
+
+- 启用验证码
+
+- 连续登录失败三次锁定帐号十分钟
+
+- 设置session有效期，存储/验证/清除session
+
+### 字符串校验
+
+[validator.js](https://github.com/chriso/validator.js)
+
+### 表单验证
+
+[探索两种优雅的表单验证——策略设计模式和ES6的Proxy代理模式](https://github.com/jawil/blog/issues/19)
+
+### 复制到剪贴板
+
+[clipboard.js](https://github.com/zenorocha/clipboard.js)
+
+### 视频播放
+
+[播放器插件videojs在ie8下无法播放？](https://segmentfault.com/q/1010000002972281)
+
+[videojs: Customizing Player Appearance - Luna Skin](https://docs.brightcove.com/en/perform/brightcove-player/guides/customize-appearance.html)
+
+#### 进度栏标记
+
+[spchuang/videojs-markers](https://github.com/spchuang/videojs-markers)
+
+#### 视频弹幕
+
+[实时弹幕系统的设计与实现](https://cnodejs.org/topic/54fd8d4a1e9291e16a7b3598)
+
+[jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5)
+
+Github 关键字：danmu
+
+## 性能优化
+
+[前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)
+
+[性能魔方mmTrix](http://www.mmtrix.com/index)
+
+[打造亚秒级页面加载速度网店实践经验](http://www.infoq.com/cn/articles/practice-of-create-a-sub-page-loading-speed-shop)
+
+[如何计算出自己网站的需要的流量、带宽等信息](https://segmentfault.com/q/1010000000486655/a-1020000000486740)：介绍如何计算网站所需流量、带宽的实例，从运维及代码两方面给出了很中肯的建议
+
+[如何做好H5性能优化？](https://mp.weixin.qq.com/s/6Jdq4wn03i_flM0s0TeDaw)
+
 # 移动开发
 
 ## 页面适配
@@ -214,74 +282,6 @@ SegmentFault 技术周刊系列文章
 
 [移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 
-# 开发流程
-
-[Web开发流程参考](http://www.jianshu.com/p/f822c470b1f1)
-
-[现在大型网站的开发流程是怎么样的？](http://www.guokr.com/question/490663/)
-
-13年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
-
-# 功能实现
-
-## 用户注册
-
-[前后端分离模式下前端开发的一些疑问，关于注册登陆](https://segmentfault.com/q/1010000003723616)
-
-## 用户登录
-
-[关于登陆模块的设计](https://segmentfault.com/q/1010000004568256)
-
-- 启用验证码
-
-- 连续登录失败三次锁定帐号十分钟
-
-- 设置session有效期，存储/验证/清除session
-
-## 字符串校验
-
-[validator.js](https://github.com/chriso/validator.js)
-
-## 表单验证
-
-[探索两种优雅的表单验证——策略设计模式和ES6的Proxy代理模式](https://github.com/jawil/blog/issues/19)
-
-## 复制到剪贴板
-
-[clipboard.js](https://github.com/zenorocha/clipboard.js)
-
-## 视频播放
-
-[播放器插件videojs在ie8下无法播放？](https://segmentfault.com/q/1010000002972281)
-
-[videojs: Customizing Player Appearance - Luna Skin](https://docs.brightcove.com/en/perform/brightcove-player/guides/customize-appearance.html)
-
-### 进度栏标记
-
-[spchuang/videojs-markers](https://github.com/spchuang/videojs-markers)
-
-### 视频弹幕
-
-[实时弹幕系统的设计与实现](https://cnodejs.org/topic/54fd8d4a1e9291e16a7b3598)
-
-[jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5)
-
-Github 关键字：danmu
-
-# 浏览器
-
-[SegmentFault 技术周刊 Vol.15 - “一天精通 Chrome 开发”](https://segmentfault.com/p/1210000007720473)
-
-# 实用工具
-
-[Control character — Unicode® character table](http://unicode-table.com/en/#007C)
-
-[Text to HTML Converter](http://4html.net/online-html-editor-text-to-html-converter-853.html)
-
-# 接口测试
-
-[RAP](https://github.com/thx/RAP)：阿里巴巴团队的Web接口管理工具
-
 # 前端工程化
 
 [技术周刊 Vol.3 - 前后端分离与前端工程化](https://segmentfault.com/a/1190000006751300)
@@ -302,23 +302,27 @@ Github 关键字：danmu
 
 [WebPack Task Runner - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner)
 
-# 性能优化
+## 接口测试
 
-[前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)
+[RAP](https://github.com/thx/RAP)：阿里巴巴团队的Web接口管理工具
 
-[性能魔方mmTrix](http://www.mmtrix.com/index)
+# 其它
 
-[打造亚秒级页面加载速度网店实践经验](http://www.infoq.com/cn/articles/practice-of-create-a-sub-page-loading-speed-shop)
+## 浏览器
 
-[如何计算出自己网站的需要的流量、带宽等信息](https://segmentfault.com/q/1010000000486655/a-1020000000486740)：介绍如何计算网站所需流量、带宽的实例，从运维及代码两方面给出了很中肯的建议
+[SegmentFault 技术周刊 Vol.15 - “一天精通 Chrome 开发”](https://segmentfault.com/p/1210000007720473)
 
-[如何做好H5性能优化？](https://mp.weixin.qq.com/s/6Jdq4wn03i_flM0s0TeDaw)
+## 实用工具
 
-# 前后端交互
+[Control character — Unicode® character table](http://unicode-table.com/en/#007C)
+
+[Text to HTML Converter](http://4html.net/online-html-editor-text-to-html-converter-853.html)
+
+## 前后端交互
 
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
 
-# 资源收集
+## 资源收集
 
 [Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
 
@@ -332,17 +336,17 @@ Github 关键字：danmu
 
 [Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
 
-# Wiki系统
+## Wiki系统
 
 [SmartWiki](https://github.com/lifei6671/SmartWiki)：国人出品的一款Wiki系统，从16年12月份开始开发，上次更新日期：2017年3月29日
 
-# 前端安全
+## 前端安全
 
 [如何让前端更安全？——XSS攻击和防御详解](http://k.21cn.com/share/2017/0217/19/7411f5433cffa5feec365716.shtml)
 
-# 设计
+## 设计
 
-## 网页设计
+### 网页设计
 
 关键字：web design
 
@@ -352,7 +356,7 @@ Github 关键字：danmu
 
 [LogoMoose](https://www.logomoose.com/)
 
-## 原型设计
+### 原型设计
 
 知乎关键字：原型设计 → 精华内容
 

@@ -1,3 +1,4 @@
+# 精华文章
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831/answer/61429937)：文章超长，但是干货超级多，值得反复精读！
 
@@ -12,8 +13,6 @@
 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
 
 [前后端分离后的前端时代](https://mp.weixin.qq.com/s/_N9RKbTOGcohmrJXg9rqEg)
-
-[]()
 
 # 网络原理
 

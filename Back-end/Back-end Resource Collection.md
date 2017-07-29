@@ -4,9 +4,9 @@
 
 ### 编码规范
 
-[C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+[C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)：MSDN官方的C#编程规范
 
-[Secure Coding Guidelines](https://msdn.microsoft.com/en-us/library/8a3x2b7f.aspx)
+[Secure Coding Guidelines](https://msdn.microsoft.com/en-us/library/8a3x2b7f.aspx)：MSDN上的安全编码规范
 
 ## Node.JS
 

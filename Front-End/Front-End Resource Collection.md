@@ -88,6 +88,8 @@
 
 [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 [JavaScript Standard Style](https://github.com/standard/standard)
 
 [Methodology / BEM](https://en.bem.info/methodology/)

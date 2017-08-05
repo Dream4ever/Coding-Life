@@ -120,15 +120,9 @@ front-end code standards & best practices - Google Search
 
 [vue生态大指南](http://www.vue-js.com/topic/58750c15a9c1282817afbfb7)
 
-## 框架优选
-
-[去哪儿网前端架构师司徒正美：如何挑选适合的前端框架？](http://blog.csdn.net/kevin_1025745654/article/details/45815109)
-
-[如果要用前端框架，开发流程是怎样的？](https://segmentfault.com/q/1010000004221774)：首答干货十足
-
-[前端UI框架集合](https://segmentfault.com/a/1190000007699297)
-
 ## React
+
+[React.js 小书](http://huziketang.com/books/react/)：从实战的角度出发，有重点地、深入浅出地讲解React，需掌握ES6
 
 [Facebook官方Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 
@@ -179,6 +173,14 @@ SegmentFault 技术周刊系列文章
 [Weex - 移动端跨平台UI框架](https://github.com/alibaba/weex)
 
 关键字：移动端组件库
+
+## 框架优选
+
+[去哪儿网前端架构师司徒正美：如何挑选适合的前端框架？](http://blog.csdn.net/kevin_1025745654/article/details/45815109)
+
+[如果要用前端框架，开发流程是怎样的？](https://segmentfault.com/q/1010000004221774)：首答干货十足
+
+[前端UI框架集合](https://segmentfault.com/a/1190000007699297)
 
 # 业务实战
 

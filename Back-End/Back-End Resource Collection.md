@@ -38,6 +38,10 @@
 
 # 框架
 
+## MVC
+
+[Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
+
 ## ASP.NET
 
 ### 开发规范

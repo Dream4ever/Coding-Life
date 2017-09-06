@@ -100,6 +100,8 @@
 
 [jQuery: Return data after ajax call success [duplicate]](https://stackoverflow.com/a/5316755/2667665)
 
+[ES6 异步编程](https://github.com/dai-siki/Blog/issues/1)
+
 Google: `promise async await example`
 
 ### 开发规范

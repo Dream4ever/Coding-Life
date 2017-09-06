@@ -84,6 +84,24 @@
 
 [异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
 
+### 回调
+
+[Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+
+[JavaScript：彻底理解同步、异步和事件循环(Event Loop)](https://segmentfault.com/a/1190000004322358)
+
+### 异步
+
+[Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
+
+[JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
+
+[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+
+[jQuery: Return data after ajax call success [duplicate]](https://stackoverflow.com/a/5316755/2667665)
+
+Google: `promise async await example`
+
 ## 开发规范
 
 [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)

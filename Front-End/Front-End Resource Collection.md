@@ -122,7 +122,7 @@ front-end code standards & best practices - Google Search
 
 [界面设计必备！全方位科普常用的字体规范（附神器）](http://www.uisdc.com/font-use-of-standard)
 
-## 库/框架
+## 库 & 框架
 
 ### Jquery
 

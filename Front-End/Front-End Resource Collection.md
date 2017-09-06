@@ -2,6 +2,8 @@
 
 ## 学习指导
 
+> “精华文章”和“前端学习”这两部分，把里面的文章再仔细地读一遍，然后再考虑是保持目前的结构，还是将两部分合并起来。
+
 ### 精华文章
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831/answer/61429937)：文章超长，但是干货超级多，值得反复精读！
@@ -79,10 +81,6 @@
 [How To Create An Animated Scroll To Top Button With jQuery](https://paulund.co.uk/how-to-create-an-animated-scroll-to-top-with-jquery)
 
 [实现图片懒加载(lazyload)](https://segmentfault.com/a/1190000007635063)：lazyload提升页面加载速度，节流函数限制页面滚动时绑定函数的触发次数
-
-[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
-
-[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
 
 [异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
 
@@ -347,6 +345,12 @@ Github 关键字：danmu
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
 
 ### 资源收集
+
+[ThemeForest](https://themeforest.net/)
+
+[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
+
+[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
 
 [Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
 

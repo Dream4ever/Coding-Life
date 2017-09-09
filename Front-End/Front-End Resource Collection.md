@@ -42,6 +42,8 @@
 
 ### 网络原理
 
+[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+
 [互联网协议入门（一） - 阮一峰](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 
 [DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)

@@ -4,4 +4,6 @@
 
 ## [Back-End](https://github.com/Dream4ever/Coding-Life/blob/master/Back-End/Back-End%20Resource%20Collection.md) 后端开发
 
-## [C# & ASP.NET](https://github.com/Dream4ever/Coding-Life/blob/master/C%23%20&%20ASP.NET/01.%20C%23%20Basics%20for%20Beginners.md)
+## [C# & ASP.NET](https://github.com/Dream4ever/Coding-Life/blob/master/C%23%20&%20ASP.NET/01.%20C%23%20Basics%20for%20Beginners.md) C# 及 ASP.NET 学习笔记
+
+## [Misc](https://github.com/Dream4ever/Coding-Life/blob/master/Misc.md) 其它方面资料的收集整理

@@ -268,6 +268,10 @@ SegmentFault 技术周刊系列文章
 
 Github 关键字：danmu
 
+#### 图片加载
+
+Google 关键字：medium image lazy load，实现medium依次加载模糊图和高清图的效果。
+
 ### 性能优化
 
 [前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)

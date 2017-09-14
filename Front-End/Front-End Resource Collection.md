@@ -98,15 +98,19 @@
 
 #### 异步
 
-[Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
-
-[JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
-
 [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
 
 [jQuery: Return data after ajax call success [duplicate]](https://stackoverflow.com/a/5316755/2667665)
 
 [ES6 异步编程](https://github.com/dai-siki/Blog/issues/1)
+
+#### Promises
+
+[JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)：所看过的几篇讲解Promises的文章里面，最通俗易懂的一篇，从这篇入门，了解Promises即可。
+
+[Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
+
+[JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 
 Google: `promise async await example`
 

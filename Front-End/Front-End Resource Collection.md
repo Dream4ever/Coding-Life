@@ -90,6 +90,10 @@
 
 [异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
 
+#### ES6
+
+[Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/)
+
 #### 回调
 
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)

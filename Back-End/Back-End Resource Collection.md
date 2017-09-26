@@ -54,6 +54,12 @@
 
 [the-best-way-to-learn-aspnet--net-22404](https://code.tutsplus.com/tutorials/the-best-way-to-learn-aspnet--net-22404)，讲述ASP.NET的学习路线，推荐了几本书籍和大体的学习方法。
 
+[C#开发REST WEB API有哪些方法？](https://segmentfault.com/q/1010000011128866)
+
+  [ASP.NET Web API 2 - MSDN](https://msdn.microsoft.com/en-us/library/dn448365%28v=vs.118%29.aspx?f=255&MSPPError=-2147217396)
+  
+  [ASP.NET MVC Web API Post FromBody（Web API 如何正确 Post）](http://www.cnblogs.com/xishuai/p/aspnet_mvc_web_api_httpclient_json_frombody_post.html)
+
 [ASP_NET_MVC3_请求处理流程(1) MVC请求入口](http://blog.csdn.net/a497785609/article/details/50097451)
 
 #### 微信SDK

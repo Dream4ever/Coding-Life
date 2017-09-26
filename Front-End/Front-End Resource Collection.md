@@ -110,7 +110,7 @@
 
 #### Promises
 
-[JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)：所看过的几篇讲解Promises的文章里面，最通俗易懂的一篇，从这篇入门，了解Promises即可。
+[JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)：所看过的几篇讲解Promises的文章里面，最通俗易懂的一篇，可以从这篇入门了解Promises。
 
 [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
 
@@ -366,23 +366,25 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 ### 资源收集
 
-[ThemeForest](https://themeforest.net/)
+#### JS库/插件
 
 [Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
 
 [推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
 
-[Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
+[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
+
+#### 主题，UI，图标等视觉相关
+
+[ThemeForest](https://themeforest.net/)
 
 [jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
-
-[Ant Design - 一个 UI 设计语言](https://ant.design/)
-
-[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
 
 [uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台？前台应该也可以
 
 [Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
+
+[Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
 
 ### Wiki系统
 

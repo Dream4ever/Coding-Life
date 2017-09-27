@@ -36,6 +36,8 @@
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)
 
+[当你一个人想做一个web项目的时候你该怎么做](https://zhuanlan.zhihu.com/p/20575952)
+
 ### 前端资讯
 
 [小胡子哥 » 博客](http://www.barretlee.com/entry/)

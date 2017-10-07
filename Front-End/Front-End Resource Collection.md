@@ -354,6 +354,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [RAP](https://github.com/thx/RAP)：阿里巴巴团队的Web接口管理工具
 
+## 理论升华
+
+[你应该知道的4种JavaScript设计模式](https://glassysky.github.io/2017/03/12/4-javascript-design-patterns-you-should-know/)
+
 ## 其它
 
 ### 浏览器

@@ -386,15 +386,17 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
 
-##### Lazy Load
+[jQuery插件库](http://www.jq22.com/)
+
+#### Lazy Load
 
 [Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
 
-##### Validator
+#### Validator
 
 [WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
 
-##### Progress Bar
+#### Progress Bar
 
 [NProgress.js](http://ricostacruz.com/nprogress/)
 
@@ -402,11 +404,21 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [网页加载的进度条是什么原理？用javascript做。](https://segmentfault.com/q/1010000002673409)
 
-##### error monitoring and analytics
+#### error monitoring and analytics
 
 [Rollbar - Error Tracking](https://rollbar.com/)
 
 [FunDebug - 全栈JavaScript错误监控](https://fundebug.com/)
+
+#### 照片墙
+
+[hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
+
+[jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014
+
+[photoWall.js: A lightweight Google-esque jQuery plugin for displaying photos](https://github.com/jeremyjcpaul/photowall)：Latest commit on 15 Dec 2015
+
+[vue-gallery](https://www.npmjs.com/package/vue-gallery)
 
 #### 主题，UI，图标等视觉相关
 

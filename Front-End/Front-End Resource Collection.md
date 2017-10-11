@@ -364,6 +364,62 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [你应该知道的4种JavaScript设计模式](https://glassysky.github.io/2017/03/12/4-javascript-design-patterns-you-should-know/)
 
+## 资源收集
+
+### JS库/插件
+
+[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
+
+[jQuery插件库](http://www.jq22.com/)
+
+### Lazy Load
+
+[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
+
+### Validator
+
+[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
+
+### Progress Bar
+
+[NProgress.js](http://ricostacruz.com/nprogress/)
+
+[pace: An automatic web page progress bar](https://github.com/HubSpot/pace/)
+
+[网页加载的进度条是什么原理？用javascript做。](https://segmentfault.com/q/1010000002673409)
+
+### error monitoring and analytics
+
+[Rollbar - Error Tracking](https://rollbar.com/)
+
+[FunDebug - 全栈JavaScript错误监控](https://fundebug.com/)
+
+### 照片墙
+
+[hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
+
+[jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014
+
+[photoWall.js: A lightweight Google-esque jQuery plugin for displaying photos](https://github.com/jeremyjcpaul/photowall)：Latest commit on 15 Dec 2015
+
+[vue-gallery](https://www.npmjs.com/package/vue-gallery)
+
+### 主题，UI，图标等视觉相关
+
+[ThemeForest](https://themeforest.net/)
+
+[jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
+
+[uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台？前台应该也可以
+
+[Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
+
+[Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
+
+### CSS
+
+[CSS参考手册](http://css.doyoe.com/)
+
 ## 其它
 
 ### 浏览器
@@ -379,62 +435,6 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 ### 前后端交互
 
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
-
-### 资源收集
-
-#### JS库/插件
-
-[推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
-
-[jQuery插件库](http://www.jq22.com/)
-
-#### Lazy Load
-
-[Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
-
-#### Validator
-
-[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
-
-#### Progress Bar
-
-[NProgress.js](http://ricostacruz.com/nprogress/)
-
-[pace: An automatic web page progress bar](https://github.com/HubSpot/pace/)
-
-[网页加载的进度条是什么原理？用javascript做。](https://segmentfault.com/q/1010000002673409)
-
-#### error monitoring and analytics
-
-[Rollbar - Error Tracking](https://rollbar.com/)
-
-[FunDebug - 全栈JavaScript错误监控](https://fundebug.com/)
-
-#### 照片墙
-
-[hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
-
-[jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014
-
-[photoWall.js: A lightweight Google-esque jQuery plugin for displaying photos](https://github.com/jeremyjcpaul/photowall)：Latest commit on 15 Dec 2015
-
-[vue-gallery](https://www.npmjs.com/package/vue-gallery)
-
-#### 主题，UI，图标等视觉相关
-
-[ThemeForest](https://themeforest.net/)
-
-[jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
-
-[uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台？前台应该也可以
-
-[Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
-
-[Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
-
-#### CSS
-
-[CSS参考手册](http://css.doyoe.com/)
 
 ### Wiki系统
 

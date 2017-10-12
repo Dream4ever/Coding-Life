@@ -5,3 +5,9 @@
 [关于 Alan Kay 的“面向对象”一词的探讨](https://softwareengineering.stackexchange.com/q/46592/121517)
 
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
+
+## CentOS 查看内存占用
+
+[Centos 7 查看内存占用情况相关命令](http://blog.csdn.net/anxpp/article/details/52453134)
+
+[Linux Used内存到底哪里去了？](http://blog.yufeng.info/archives/2456)

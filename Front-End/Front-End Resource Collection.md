@@ -438,6 +438,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Text to HTML Converter](http://4html.net/online-html-editor-text-to-html-converter-853.html)
 
+[TinyPNG](https://tinypng.com/)：在线的PNG压缩工具，能够显著减小PNG文件体积。
+
 ### 前后端交互
 
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)

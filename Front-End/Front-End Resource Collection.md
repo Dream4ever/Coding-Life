@@ -60,6 +60,10 @@
 
 ## 语言基础
 
+### HTML
+
+[网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？](https://www.zhihu.com/question/20797118)
+
 ### CSS
 
 [CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理

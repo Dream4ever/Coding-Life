@@ -422,7 +422,13 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
 
+[iconfinder](https://www.iconfinder.com/)：icon素材
+
+[iconfont](http://www.iconfont.cn/plus)：阿里妈妈MUX倾力打造的矢量图标管理、交流平台。
+
 [Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
+
+[Freepik](http://www.freepik.com/)：是一个可以下载免费矢量素材的网站，同时也可以找到 icon、PSD、和图片等资源。
 
 ### CSS
 

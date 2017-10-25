@@ -416,6 +416,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [ThemeForest](https://themeforest.net/)
 
+[Froala Design Blocks](https://www.froala.com/design-blocks)：基于Bootstrap的响应式设计样例大合集。
+
 [jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
 
 [uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台？前台应该也可以

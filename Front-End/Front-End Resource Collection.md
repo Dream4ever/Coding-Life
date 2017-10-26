@@ -160,6 +160,8 @@ front-end code standards & best practices - Google Search
 
 [Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026nSmSxkHsYaHtIq00c09T#rd)
 
+[滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)
+
 [饿了么Element：网站快速成型工具](http://element.eleme.io/#/zh-CN)
 
 [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](http://www.vue-js.com/topic/58abbd21a9c1282817afc28d)

@@ -440,6 +440,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [CSS参考手册](http://css.doyoe.com/)
 
+[CSS3 box-shadow实现纸张的曲线投影效果](http://www.zhangxinxu.com/wordpress/?p=1322)
+
 ## 其它
 
 ### 浏览器

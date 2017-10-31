@@ -442,6 +442,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [CSS3 box-shadow实现纸张的曲线投影效果](http://www.zhangxinxu.com/wordpress/?p=1322)
 
+[How to Create CSS3 Paper Curls Without Images](https://www.sitepoint.com/pure-css3-paper-curls/)
+
 ## 其它
 
 ### 浏览器

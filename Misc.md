@@ -6,6 +6,8 @@
 
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
+[photoshop制作逼真漂亮的木板刻字文字特效](http://www.jb51.net/photoshop/83720.html)
+
 ## CentOS 查看内存占用
 
 [Centos 7 查看内存占用情况相关命令](http://blog.csdn.net/anxpp/article/details/52453134)

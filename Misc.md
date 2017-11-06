@@ -8,6 +8,8 @@
 
 [photoshop制作逼真漂亮的木板刻字文字特效](http://www.jb51.net/photoshop/83720.html)
 
+[Photoshop制作简单的木板浮雕字](http://www.68ps.com/jc/big_ps_wz.asp?id=5498)
+
 ## CentOS 查看内存占用
 
 [Centos 7 查看内存占用情况相关命令](http://blog.csdn.net/anxpp/article/details/52453134)

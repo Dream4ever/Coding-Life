@@ -382,6 +382,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [jQuery插件库](http://www.jq22.com/)
 
+### Carousel
+
+[kenwheeler/slick: the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
+
 ### Lazy Load
 
 [Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)

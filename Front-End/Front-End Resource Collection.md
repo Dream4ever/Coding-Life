@@ -420,6 +420,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [24 CSS GALLERY](http://freefrontend.com/css-gallery/)
 
+[20 Free jQuery Image Gallery & Lightbox Plugins](https://speckyboy.com/free-jquery-image-gallery-lightbox-plugins/)
+
 [hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
 
 [jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014

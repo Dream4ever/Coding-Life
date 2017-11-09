@@ -448,6 +448,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [How to Create CSS3 Paper Curls Without Images](https://www.sitepoint.com/pure-css3-paper-curls/)
 
+[CSS技巧收集——毛玻璃效果](http://www.cnblogs.com/ghost-xyx/p/5677168.html)
+
 ## 其它
 
 ### 浏览器

@@ -386,6 +386,14 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [kenwheeler/slick: the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 
+[jedrzejchalubek/glidejs: responsive and touch-friendly jQuery slider](https://github.com/jedrzejchalubek/glidejs)：在实际项目应用中，上面的 slick 略有瑕疵，最终采用的是这个 Glide。
+
+### Gallery
+
+[dimsemenov/PhotoSwipe](https://github.com/dimsemenov/photoswipe)：点击缩略图可显示大图，功能很完善。
+
+[magnific-popup](https://github.com/dimsemenov/Magnific-Popup)：上面的 PhotoSwipe 的迷你版本。
+
 ### Lazy Load
 
 [Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)

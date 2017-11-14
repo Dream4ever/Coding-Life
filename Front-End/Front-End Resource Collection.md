@@ -390,9 +390,29 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 ### Gallery
 
+Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流……
+
 [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/photoswipe)：点击缩略图可显示大图，功能很完善。
 
 [magnific-popup](https://github.com/dimsemenov/Magnific-Popup)：上面的 PhotoSwipe 的迷你版本。
+
+### 照片墙
+
+[24 CSS GALLERY](http://freefrontend.com/css-gallery/)
+
+[20 Free jQuery Image Gallery & Lightbox Plugins](https://speckyboy.com/free-jquery-image-gallery-lightbox-plugins/)
+
+[hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
+
+[jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014
+
+[photoWall.js: A lightweight Google-esque jQuery plugin for displaying photos](https://github.com/jeremyjcpaul/photowall)：Latest commit on 15 Dec 2015
+
+[vue-gallery](https://www.npmjs.com/package/vue-gallery)
+
+### 瀑布流
+
+[desandro/masonry](https://github.com/desandro/masonry)
 
 ### Lazy Load
 
@@ -415,20 +435,6 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 [Rollbar - Error Tracking](https://rollbar.com/)
 
 [FunDebug - 全栈JavaScript错误监控](https://fundebug.com/)
-
-### 照片墙
-
-[24 CSS GALLERY](http://freefrontend.com/css-gallery/)
-
-[20 Free jQuery Image Gallery & Lightbox Plugins](https://speckyboy.com/free-jquery-image-gallery-lightbox-plugins/)
-
-[hotopile JS – jQuery照片堆叠效果插件](http://www.dowebok.com/94.html)
-
-[jQuery photo wall gallery plugin (like at google)](https://github.com/creotiv/jquery-photowall)：Latest commit on 8 Dec 2014
-
-[photoWall.js: A lightweight Google-esque jQuery plugin for displaying photos](https://github.com/jeremyjcpaul/photowall)：Latest commit on 15 Dec 2015
-
-[vue-gallery](https://www.npmjs.com/package/vue-gallery)
 
 ### 主题，UI，图标等视觉相关
 

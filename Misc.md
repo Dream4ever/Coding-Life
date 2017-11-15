@@ -10,6 +10,8 @@
 
 [Photoshop制作简单的木板浮雕字](http://www.68ps.com/jc/big_ps_wz.asp?id=5498)
 
+[GitHub可识别的编程语言列表](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)：在写 markdown 的时候，代码块的语言标记就从这里查询即可。
+
 ## CentOS 查看内存占用
 
 [Centos 7 查看内存占用情况相关命令](http://blog.csdn.net/anxpp/article/details/52453134)

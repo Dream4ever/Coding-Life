@@ -84,6 +84,14 @@
 
 [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 
+#### 自定义滚动条样式
+
+[CSS customized scroll bar in div](https://stackoverflow.com/a/14150577)
+
+[scrollbar | CSS-Tricks](https://css-tricks.com/almanac/properties/s/scrollbar/)
+
+[Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
+
 #### 浏览器兼容性
 
 [不同浏览器兼容性——常用的CSS Hack技术集锦](http://www.imooc.com/article/3513)

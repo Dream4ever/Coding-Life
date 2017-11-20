@@ -324,7 +324,7 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
 
-[如何让页面适配各种机型](i.jakeyu.top/2016/04/18/如何让页面适配各种机型/)：采用rem实现页面适配各种手机型号
+[如何让页面适配各种机型](https://i.jakeyu.top/2016/04/18/%E5%A6%82%E4%BD%95%E8%AE%A9%E9%A1%B5%E9%9D%A2%E9%80%82%E9%85%8D%E5%90%84%E7%A7%8D%E6%9C%BA%E5%9E%8B/)：采用rem实现页面适配各种手机型号
 
 [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
 

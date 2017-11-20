@@ -84,6 +84,10 @@
 
 [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 
+#### 文字处理
+
+[如何用 css 实现古代人读的竖排的文字](https://juejin.im/entry/58aab75d8d6d810058b7ebda)
+
 #### 自定义滚动条样式
 
 [CSS customized scroll bar in div](https://stackoverflow.com/a/14150577)

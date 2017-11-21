@@ -484,6 +484,8 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [CSS技巧收集——毛玻璃效果](http://www.cnblogs.com/ghost-xyx/p/5677168.html)
 
+[Vue.js中动态绑定背景图片的语法](https://github.com/vuejs/vue-loader/issues/646#issuecomment-314270847)
+
 ## 其它
 
 ### 浏览器

@@ -314,13 +314,15 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)
 
-[性能魔方mmTrix](http://www.mmtrix.com/index)
-
 [打造亚秒级页面加载速度网店实践经验](http://www.infoq.com/cn/articles/practice-of-create-a-sub-page-loading-speed-shop)
+
+[如何打造一个全满分网站](https://www.fengerzh.com/full-score-website/)：介绍了网站性能检测的工具，可优化的指标，并附有实操文章
 
 [如何计算出自己网站的需要的流量、带宽等信息](https://segmentfault.com/q/1010000000486655/a-1020000000486740)：介绍如何计算网站所需流量、带宽的实例，从运维及代码两方面给出了很中肯的建议
 
 [如何做好H5性能优化？](https://mp.weixin.qq.com/s/6Jdq4wn03i_flM0s0TeDaw)
+
+[性能魔方mmTrix](http://www.mmtrix.com/index)
 
 ## 移动开发
 

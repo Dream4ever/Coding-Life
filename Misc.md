@@ -10,6 +10,8 @@
 
 [Photoshop制作简单的木板浮雕字](http://www.68ps.com/jc/big_ps_wz.asp?id=5498)
 
+[ASCIIFlow Infinity](http://asciiflow.com/)：用 ASCII 码来绘制图表，挺好玩的。
+
 [GitHub可识别的编程语言列表](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)：在写 markdown 的时候，代码块的语言标记就从这里查询即可。
 
 [有哪些IT初学者（新人）成长为技术大牛的真实经历？](https://www.zhihu.com/question/40662462)：大牛们的成长路线，背后的思想值得借鉴。

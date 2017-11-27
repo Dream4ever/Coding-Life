@@ -2,6 +2,10 @@
 
 [技术团队管理经验(10人以内)](http://hongyitong.github.io/2017/09/02/JIRA/)
 
+[程序员跳槽全攻略](http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc)
+
+[Web 开发并不难](http://ftqq.com/%E6%96%B9%E7%B3%96Web%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/README.adoc)
+
 [关于 Alan Kay 的“面向对象”一词的探讨](https://softwareengineering.stackexchange.com/q/46592/121517)
 
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)

@@ -400,6 +400,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [jQuery插件库](http://www.jq22.com/)
 
+[打造自己的JS库](https://segmentfault.com/a/1190000011966867)：后面还讲到了如何将自己编写的库封装、测试、发布、调用。
+
 ### LightBox
 
 [fancyapps/fancybox](https://github.com/fancyapps/fancybox)

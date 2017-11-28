@@ -2,6 +2,8 @@
 
 [技术团队管理经验(10人以内)](http://hongyitong.github.io/2017/09/02/JIRA/)
 
+[项目研发规范流程](https://raw.githubusercontent.com/Dream4ever/Pics/master/project-develop-process.png)
+
 [程序员跳槽全攻略](http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc)
 
 [Web 开发并不难](http://ftqq.com/%E6%96%B9%E7%B3%96Web%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/README.adoc)

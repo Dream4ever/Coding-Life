@@ -10,12 +10,6 @@
 
 [Secure Coding Guidelines](https://msdn.microsoft.com/en-us/library/8a3x2b7f.aspx)：MSDN上的安全编码规范
 
-### Node.JS
-
-#### 库 & 框架
-
-[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载
-
 ### PHP
 
 #### 编码规范
@@ -39,6 +33,16 @@
 [Data Encoding: A Guide to UTF-8 for PHP and MySQL](https://www.toptal.com/php/a-utf-8-primer-for-php-and-mysql)
 
 ## 框架
+
+### Node.JS
+
+#### 编码规范
+
+[Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+
+#### 库 & 框架
+
+[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载
 
 ### MVC
 

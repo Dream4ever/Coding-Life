@@ -12,6 +12,8 @@
 
 [关于 Alan Kay 的“面向对象”一词的探讨](https://softwareengineering.stackexchange.com/q/46592/121517)
 
+[Keeping user data safe](https://github.com/collections/protect-user-data)
+
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
 [photoshop制作逼真漂亮的木板刻字文字特效](http://www.jb51.net/photoshop/83720.html)

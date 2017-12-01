@@ -492,6 +492,8 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [CSS秘密花园:磨砂玻璃效果](https://www.w3cplus.com/css3/css-secrets/frosted-glass-effect.html)：一步步细致地讲解如何实现毛玻璃效果，但是这里有一点要注意：如果在需要实现毛玻璃效果的元素和背景图片之间，还有其它的内容，这种方法就不适合了。因为文章里的方法，只能实现背景图片的毛玻璃效果。
 
+[用PS做纸质感的图片](https://www.zhihu.com/question/21084084/answer/112364879)
+
 [Vue.js中动态绑定背景图片的语法](https://github.com/vuejs/vue-loader/issues/646#issuecomment-314270847)
 
 ## 其它

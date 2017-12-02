@@ -156,6 +156,8 @@ Google: `promise async await example`
 
 [Methodology / BEM](https://en.bem.info/methodology/)
 
+[Top 10 bugs and their bug fixing](https://www.kuoll.com/top-10-bugs-and-their-bug-fixing/)：JS 中 10 种常见的 bug 及对应的修复方式，涨姿势了。
+
 front-end code standards & best practices - Google Search
 
 [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)

@@ -112,6 +112,8 @@
 
 [CSS3 PIE](http://css3pie.com/)
 
+[background-size polyfill](https://github.com/louisremi/background-size-polyfill)：让 IE8 支持 `background-size` 属性的 `cover` 和 `contain` 两个值的表现的方法。
+
 ### JS
 
 [jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)

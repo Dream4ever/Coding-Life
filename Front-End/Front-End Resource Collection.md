@@ -114,6 +114,8 @@
 
 [background-size polyfill](https://github.com/louisremi/background-size-polyfill)：让 IE8 支持 `background-size` 属性的 `cover` 和 `contain` 两个值的表现的方法。
 
+[Negative top margin not working in IE 8 or 9](https://stackoverflow.com/questions/5506844/negative-top-margin-not-working-in-ie-8-or-9)：IE8、9 中 `margin-top` 的等效方法。
+
 ### JS
 
 [jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)

@@ -82,6 +82,10 @@
 
 [前端CSS求助:请帮我看下这个demo是怎么回事？](https://segmentfault.com/q/1010000011744771)：一个很好的问题，弄懂了这里的概念，能够对 float 的原理有进一步的理解。
 
+#### 纵向居中
+
+[How to vertically center a div for all browsers?](https://stackoverflow.com/a/6182661)：各浏览器通用的方法，表格大法
+
 #### Flex 布局
 
 [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)

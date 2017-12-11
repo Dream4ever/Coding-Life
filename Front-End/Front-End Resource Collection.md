@@ -324,11 +324,15 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [引入服务层](https://kenberkeley.github.io/vue-demo/docs/_book/zh-cn/development/Service-layer.html)
 
+#### 检测移动端的 User Agent
+
+[What is the best way to detect a mobile device in jQuery?](https://stackoverflow.com/a/24600597/2667665)：链接里的回答是原生JS实现的方法，没有用到ES6，所有浏览器均支持。
+
 #### Cookies
 
 [Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)：设置 session-only cookies，使其在浏览器关闭后自动清除。
 
-[Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试在 IE 下可用。
+[Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试在 IE 下可用。一行代码 `/Mobi/i.test(navigator.userAgent) || /Android/i.test(navigator.userAgent)` 解决所有烦恼。
 
 #### JS脚本非阻塞式加载
 

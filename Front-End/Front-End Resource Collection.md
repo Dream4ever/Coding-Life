@@ -326,7 +326,7 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 #### Session-only cookies
 
-[Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)
+[Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)：设置 session-only cookies，使其在浏览器关闭后自动清除。
 
 ### 性能优化
 

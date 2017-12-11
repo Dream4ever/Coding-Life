@@ -324,6 +324,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [引入服务层](https://kenberkeley.github.io/vue-demo/docs/_book/zh-cn/development/Service-layer.html)
 
+#### Session-only cookies
+
+[Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)
+
 ### 性能优化
 
 [前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)

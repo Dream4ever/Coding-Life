@@ -324,9 +324,11 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [引入服务层](https://kenberkeley.github.io/vue-demo/docs/_book/zh-cn/development/Service-layer.html)
 
-#### Session-only cookies
+#### Cookies
 
 [Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)：设置 session-only cookies，使其在浏览器关闭后自动清除。
+
+[Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试在 IE 下可用。
 
 ### 性能优化
 

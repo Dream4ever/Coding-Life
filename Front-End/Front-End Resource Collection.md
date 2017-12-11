@@ -116,6 +116,8 @@
 
 [Negative top margin not working in IE 8 or 9](https://stackoverflow.com/questions/5506844/negative-top-margin-not-working-in-ie-8-or-9)：IE8、9 中 `margin-top` 的等效方法。
 
+[煦涵说Webpack-IE低版本兼容指南](https://github.com/zuojj/fedlab/issues/5)：介绍了在应用 Webpack 开发时，IE 低版本中遇到的一些问题。
+
 ### JS
 
 [jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)

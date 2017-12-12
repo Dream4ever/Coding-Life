@@ -344,6 +344,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [高性能Javascript--脚本的无阻塞加载策略](http://www.cnblogs.com/coco1s/p/4010310.html)：解释了脚本阻塞的原理，并介绍了几种实现非阻塞脚本的方法。
 
+#### JS动态加载CSS
+
+[Dynamically add css to page via javascript](https://stackoverflow.com/a/13883978/2667665)：通过原生JS动态加载内联CSS或CSS文件。
+
 ### 性能优化
 
 [前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)

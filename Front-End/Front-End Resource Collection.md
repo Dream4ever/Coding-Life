@@ -66,6 +66,10 @@
 
 [网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？](https://www.zhihu.com/question/20797118)
 
+####
+
+[How can I force a site to scale to fix for mobile (Iphone android..)](https://stackoverflow.com/a/8194745/2667665)：在 `meta` 标签的 `viewport` 属性中，增加 `content="user-scalable=yes"` 这一条，就可使网页适应设备宽度。
+
 ### CSS
 
 [CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理

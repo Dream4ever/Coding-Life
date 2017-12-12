@@ -108,6 +108,10 @@
 
 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
+#### 根据手机方向加载不同的CSS
+
+[Detect viewport orientation, if orientation is Portrait display alert message advising user of instructions](https://stackoverflow.com/a/16232129/2667665)：利用媒体查询，实现手机在横屏或竖屏状态下加载对应的CSS。
+
 #### 浏览器兼容性
 
 [不同浏览器兼容性——常用的CSS Hack技术集锦](http://www.imooc.com/article/3513)

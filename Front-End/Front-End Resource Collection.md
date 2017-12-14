@@ -48,6 +48,8 @@
 
 [Heero's Blog](http://heeroluo.net/)：一些文章还是很有干货的。
 
+[fouber/blog](https://github.com/fouber/blog)：张云龙的前端博客，主要是前端工程方面的文章。
+
 ### 网络原理
 
 [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)：深入到了最底层，可以算非常完善的讲解了，但是不太适合小白们阅读，估计会一脸懵。

@@ -410,6 +410,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [技术周刊 Vol.3 - 前后端分离与前端工程化](https://segmentfault.com/a/1190000006751300)
 
+[前端自动化测试探索](http://fex.baidu.com/blog/2015/07/front-end-test/)：介绍了前端自动化测试的相关工具，干货满满。
+
 ### fis3
 
 [fis3 - 百度出品的前端工程构建系统](https://github.com/fex-team/fis3)

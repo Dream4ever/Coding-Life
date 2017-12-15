@@ -514,13 +514,11 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
 
-[uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台？前台应该也可以
+[uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台，前台应该也可以。
 
-[Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用
+[Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用。
 
-[iconfinder](https://www.iconfinder.com/)：icon素材
-
-[iconfont](http://www.iconfont.cn/plus)：阿里妈妈MUX倾力打造的矢量图标管理、交流平台。
+[还在手工绘制图标？不如去这些网站寻找资源](https://sspai.com/post/42236)：汇总了几个大的图标网站。
 
 [Preloaders.net - Loading GIF & APNG (AJAX loaders) generator](http://preloaders.net/)
 

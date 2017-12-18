@@ -166,6 +166,10 @@
 
 Google: `promise async await example`
 
+#### 浏览器兼容
+
+[Browser Support | jQuery](https://jquery.com/browser-support/)：要想兼容 IE6~8，jQuery 的版本最高只能是 1.12。
+
 ### 开发规范
 
 [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)

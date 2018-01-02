@@ -216,6 +216,8 @@ front-end code standards & best practices - Google Search
 
 [vue生态大指南](http://www.vue-js.com/topic/58750c15a9c1282817afbfb7)
 
+[Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)：剖析源码的思路值得学习。
+
 ### React
 
 [React.js 小书](http://huziketang.com/books/react/)：从实战的角度出发，有重点地、深入浅出地讲解React，需掌握ES6

@@ -382,6 +382,8 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 ### 页面适配
 
+[一篇真正教会你开发移动端页面的文章(二)](http://hcysun.me/2015/10/19/%E4%B8%80%E7%AF%87%E7%9C%9F%E6%AD%A3%E6%95%99%E4%BC%9A%E4%BD%A0%E5%BC%80%E5%8F%91%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%96%87%E7%AB%A0-%E4%BA%8C/)
+
 [从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
 
 [如何让页面适配各种机型](https://i.jakeyu.top/2016/04/18/%E5%A6%82%E4%BD%95%E8%AE%A9%E9%A1%B5%E9%9D%A2%E9%80%82%E9%85%8D%E5%90%84%E7%A7%8D%E6%9C%BA%E5%9E%8B/)：采用rem实现页面适配各种手机型号
@@ -433,10 +435,6 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 [webpack 从入门到上线](https://segmentfault.com/a/1190000006649986)
 
 [webpack多页应用架构系列（一）：一步一步解决架构痛点](https://segmentfault.com/a/1190000006843916)
-
-[How-To: Integrate Webpack into Visual Studio 2015](http://www.sochix.ru/how-to-integrate-webpack-into-visual-studio-2015/)
-
-[WebPack Task Runner - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner)
 
 ### 接口测试
 
@@ -587,13 +585,3 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 [LogoMoose](https://www.logomoose.com/)
 
 [Ant Design 推荐的各类色彩](https://ant.design/docs/spec/colors-cn)
-
-#### 原型设计
-
-知乎关键字：原型设计 → 精华内容
-
-[如何设计出色的网站后台原型？](https://www.zhihu.com/question/31859504)
-
-[如何快速学会 Axure 呢？](https://www.zhihu.com/question/19818520)
-
-[如何学习使用 Axure？](https://www.zhihu.com/question/19892861)

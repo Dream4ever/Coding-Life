@@ -172,6 +172,8 @@ Google: `promise async await example`
 
 [Browser Support | jQuery](https://jquery.com/browser-support/)：要想兼容 IE6~8，jQuery 的版本最高只能是 1.12。
 
+[nuxt.js中如何判断是不是ie浏览器](https://zhuanlan.zhihu.com/p/28786420)：评论中所用的方法更巧妙，检查浏览器是否有 `ActiveXObject` 这个对象。
+
 ### 开发规范
 
 [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)

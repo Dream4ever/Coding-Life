@@ -534,6 +534,8 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [Freepik](http://www.freepik.com/)：是一个可以下载免费矢量素材的网站，同时也可以找到 icon、PSD、和图片等资源。
 
+[你可能知道给截图套壳，但你知道怎样给动图套壳吗？](https://sspai.com/post/42447)
+
 ### CSS
 
 [CSS参考手册](http://css.doyoe.com/)

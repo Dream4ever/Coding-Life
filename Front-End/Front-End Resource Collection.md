@@ -22,6 +22,8 @@
 
 [前后端分离后的前端时代](https://mp.weixin.qq.com/s/_N9RKbTOGcohmrJXg9rqEg)
 
+[Electron，从玩玩具的心态开始，到打造出一款越来越优秀的桌面客户端产品](https://segmentfault.com/a/1190000011699304)：学习的是什么技术不重要，关键的是有没有一个好的方法论可以让自己高效地学习！个人认为精华部分是该文章的第三节：三、该怎么去阅读和学习 Electron 的文档。
+
 ### 前端学习
 
 [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.yiycyp21r)

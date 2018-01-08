@@ -62,6 +62,21 @@
 
 #### WebAPI
 
+2018年1月8日新增
+
+[前后端分离的思考与实践（一）](http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/)
+
+[Getting Started with ASP.NET Web API 2 (C#)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+
+Google: `前端vue 后端asp.net`
+
+[asp.net mvc 项目中怎么用react redux,vue 等前端框架？](https://www.zhihu.com/question/57766078)
+
+[ASP.NET Core + Vue.js 开发记录系列文章](http://www.wangziwen.vip/2017/11/04/aspnet-core-vuejs-kf01/)
+
+[Is Node.js declining already?](https://www.quora.com/Is-Node-js-declining-already)
+---
+
 [C#开发REST WEB API有哪些方法？](https://segmentfault.com/q/1010000011128866)
 
 [ASP.NET Web API 2 - MSDN](https://msdn.microsoft.com/en-us/library/dn448365%28v=vs.118%29.aspx?f=255&MSPPError=-2147217396)

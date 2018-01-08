@@ -119,6 +119,10 @@ Google: `前端vue 后端asp.net`
 
 ## 数据库
 
+### 安装参考
+
+[How To Install SQL 2008 R2 on Windows Server 2008 R2 SP1 For Use With SCVMM 2008 R2 SP1](https://blogs.technet.microsoft.com/danstolts/2011/04/how-to-install-sql-2008-r2-on-windows-server-2008-r2-sp1-for-use-with-scvmm-2008-r2-sp1/)
+
 ### 安全
 
 [Gitlab从删库到恢复 - 数据库备份\恢复\容灾\HA的靠谱姿势](https://yq.aliyun.com/articles/69179)

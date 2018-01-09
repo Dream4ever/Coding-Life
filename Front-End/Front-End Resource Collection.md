@@ -556,6 +556,12 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 ## 其它
 
+### 网站统计
+
+[在墙内使用Google Analytics的可行性](http://maxket.com/google-analytics-in-china/)：分享了一些实用的经验，干货满满！
+[google analytics可以用于国内应用吗？](https://www.zhihu.com/question/41416472)：只要把用于统计的JS文件放在国内服务器上，就是可以正常使用的。
+[百度统计与CNZZ统计横向评测](http://www.williamlong.info/archives/2278.html)：要不要同时使用几家的统计？
+
 ### 浏览器
 
 [SegmentFault 技术周刊 Vol.15 - “一天精通 Chrome 开发”](https://segmentfault.com/p/1210000007720473)

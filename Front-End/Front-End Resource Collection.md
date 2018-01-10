@@ -346,6 +346,8 @@ Github 关键字：danmu
 
 ##### 禁止全屏播放
 
+[微信内置浏览器 如何小窗不全屏播放视频？](https://www.zhihu.com/question/36423771/)：较新的方法提到了在 `video` 标签中添加属性以实现窗口化播放。另外还提到了安卓上用的 H5/X5 同层播放器，但尚未测试。
+
 [Enable/Disable fullscreen option video.js HTML5](https://stackoverflow.com/a/47205072/2667665)：Video.js 插件，检测视频是否全屏播放，是的话则自动退出全屏。
 
 #### 图片加载
@@ -420,6 +422,14 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
 
 [了解真实的『REM』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md) 
+
+### 真机调试
+
+Google: `安卓 微信 调试`
+
+[Android手机上Webview页面以及微信/QQ浏览器真机调试](https://www.jianshu.com/p/a06b5b8dc6b2)：介绍了使用Chrome和TBS Studio分别进行真机调试的方法。
+
+[【第一季】TBS开发调试利器——TBS Studio开篇](http://bbs.mb.qq.com/thread-1416936-1-1.html)：介绍TBS Studio这款调试工具。
 
 ### 常见大坑
 

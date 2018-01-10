@@ -354,7 +354,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 #### 修改伪类元素的属性
 
-[Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)：直接修改似乎不奏效，最后用添加类标签的方式变相实现了。
+直接修改似乎不奏效，最后用添加类标签的方式变相实现了。
+
+[How change content value of pseudo :before element by Javascript](https://stackoverflow.com/questions/10495243/how-change-content-value-of-pseudo-before-element-by-javascript)
+[Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)：
 
 #### 组件化/模块化/业务分层
 

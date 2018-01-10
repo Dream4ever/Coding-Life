@@ -114,6 +114,10 @@
 
 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
+#### 点击穿透指定元素
+
+[Click through a DIV to underlying elements](https://stackoverflow.com/questions/3680429/click-through-a-div-to-underlying-elements)：通过将元素的 `pointer-events` 属性的值设置为 `none`，实现点击穿透的效果。
+
 #### 根据手机方向加载不同的CSS
 
 [Detect viewport orientation, if orientation is Portrait display alert message advising user of instructions](https://stackoverflow.com/a/16232129/2667665)：利用媒体查询，实现手机在横屏或竖屏状态下加载对应的CSS。
@@ -340,9 +344,17 @@ SegmentFault 技术周刊系列文章
 
 Github 关键字：danmu
 
+##### 禁止全屏播放
+
+[Enable/Disable fullscreen option video.js HTML5](https://stackoverflow.com/a/47205072/2667665)：Video.js 插件，检测视频是否全屏播放，是的话则自动退出全屏。
+
 #### 图片加载
 
 Google 关键字：medium image lazy load，实现medium依次加载模糊图和高清图的效果。
+
+#### 修改伪类元素的属性
+
+[Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)：直接修改似乎不奏效，最后用添加类标签的方式变相实现了。
 
 #### 组件化/模块化/业务分层
 

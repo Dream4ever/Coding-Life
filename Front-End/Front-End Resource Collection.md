@@ -360,6 +360,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试在 IE 下可用。一行代码 `/Mobi/i.test(navigator.userAgent) || /Android/i.test(navigator.userAgent)` 解决所有烦恼。
 
+#### 获取元素当前的 transform 属性值
+
+[Get the current matrix transformation of an SVG element](https://stackoverflow.com/questions/46434687/get-the-current-matrix-transformation-of-an-svg-element)
+
 #### JS脚本非阻塞式加载
 
 [高性能Javascript--脚本的无阻塞加载策略](http://www.cnblogs.com/coco1s/p/4010310.html)：解释了脚本阻塞的原理，并介绍了几种实现非阻塞脚本的方法。

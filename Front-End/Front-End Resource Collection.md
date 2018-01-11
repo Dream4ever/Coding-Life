@@ -192,7 +192,7 @@ Google: `promise async await example`
 
 [Top 10 bugs and their bug fixing](https://www.kuoll.com/top-10-bugs-and-their-bug-fixing/)：JS 中 10 种常见的 bug 及对应的修复方式，涨姿势了。
 
-front-end code standards & best practices - Google Search
+Google: front-end code standards & best practice
 
 [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 
@@ -296,7 +296,7 @@ SegmentFault 技术周刊系列文章
 
 [现在大型网站的开发流程是怎么样的？](http://www.guokr.com/question/490663/)
 
-13年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
+2013年的问答 - [Website Development Process: Full Guide in 7 Steps](http://www.guokr.com/question/490663/)
 
 ### 功能实现
 
@@ -359,6 +359,7 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 直接修改似乎不奏效，最后用添加类标签的方式变相实现了。
 
 [How change content value of pseudo :before element by Javascript](https://stackoverflow.com/questions/10495243/how-change-content-value-of-pseudo-before-element-by-javascript)
+
 [Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)：
 
 #### 组件化/模块化/业务分层
@@ -379,11 +380,14 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 #### 获取元素当前的 transform 属性值
 
+[Get Value of CSS Rotation through JavaScript](https://css-tricks.com/get-value-of-css-rotation-through-javascript/)
+
 [Get the current matrix transformation of an SVG element](https://stackoverflow.com/questions/46434687/get-the-current-matrix-transformation-of-an-svg-element)
 
 #### 修改现有的样式规则
 
 [modify a css rule object with javascript](https://stackoverflow.com/questions/13528512/modify-a-css-rule-object-with-javascript)
+
 [Changing a CSS rule-set from Javascript](https://stackoverflow.com/questions/1409225/changing-a-css-rule-set-from-javascript)
 
 #### JS脚本非阻塞式加载
@@ -593,7 +597,9 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 ### 网站统计
 
 [在墙内使用Google Analytics的可行性](http://maxket.com/google-analytics-in-china/)：分享了一些实用的经验，干货满满！
+
 [google analytics可以用于国内应用吗？](https://www.zhihu.com/question/41416472)：只要把用于统计的JS文件放在国内服务器上，就是可以正常使用的。
+
 [百度统计与CNZZ统计横向评测](http://www.williamlong.info/archives/2278.html)：要不要同时使用几家的统计？
 
 ### 浏览器

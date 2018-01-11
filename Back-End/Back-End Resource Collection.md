@@ -196,3 +196,42 @@ Google: `前端vue 后端asp.net`
 [Configure Web Server Security (IIS 7)](https://technet.microsoft.com/en-us/library/cc731278%28v=ws.10%29.aspx?f=255&MSPPError=-2147217396)
 
 [Apache Security Tips](https://httpd.apache.org/docs/2.4/misc/security_tips.html)：注意Apache版本
+
+---
+
+## ASP.NET 系统学习
+
+### 学习资源
+
+建议按顺序学习，2017年5月16日，目前的价格是每门课10美元。
+
+1.  [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/csharp-tutorial-for-beginners/) 
+1.  [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/) 
+1.  [C# Advanced Topics: Take Your C# Skills to the Next Level](https://www.udemy.com/csharp-advanced/) 
+1.  [Entity Framework in Depth: The Complete Guide](https://www.udemy.com/entity-framework-tutorial/) 
+1.  [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/the-complete-aspnet-mvc-5-course/) 
+1. 06_Become a Full-stack .NET Developer
+1. 07_Become a Full-stack .NET Developer - Advanced Topics
+1. 08_Become a Full-stack .NET Developer - Architecture and Testing
+
+### 最佳实践
+
+- Google： `asp.net mvc best practise`
+
+### 话题探讨
+
+- Google关键字： `asp net mvc code first vs database first`
+
+### **学习路线**
+
+#### 重新规划
+
+- [ASP.NET MVC | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/mvc/)
+- [ASP.NET MVC - 教程 | W3School](http://www.w3school.com.cn/aspnet/mvc_intro.asp)
+- Google: `asp.net mvc 教程`
+- Google: `asp.net mvc 入门`
+
+#### 过往资料
+
+- [What is the best (and fastest) way to learn ASP.NET MVC?](https://www.danylkoweb.com/Blog/what-is-the-best-and-fastest-way-to-learn-aspnet-mvc-8V)
+- [What are the best resources to learn asp.net MVC?](https://www.quora.com/What-are-the-best-resources-to-learn-asp-net-MVC)

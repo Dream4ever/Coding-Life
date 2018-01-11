@@ -390,6 +390,16 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Changing a CSS rule-set from Javascript](https://stackoverflow.com/questions/1409225/changing-a-css-rule-set-from-javascript)
 
+#### 微信分享
+
+[微信自定义分享链接信息](https://www.jianshu.com/p/b428bcbbce09)：根据文章中的说法，分享出去的链接，标题就是网页中的 `title` 属性；描述则必须通过微信 JS-SDK 自定义，并不会读取网页中的 `description` 属性；图片为网页中的第一张尺寸至少为 `300*300` 的图片，这张图片可以设置为 `display: none`，这样就只用于分享时显示，并不在页面中显示。
+
+[微信 JS-SDK：获取“分享给朋友”按钮点击状态及自定义分享内容接口](https://mp.weixin.qq.com/wiki?action=doc&id=mp1421141115&t=0.3213874055726007#12)
+
+[]()
+
+[]()
+
 #### JS脚本非阻塞式加载
 
 [高性能Javascript--脚本的无阻塞加载策略](http://www.cnblogs.com/coco1s/p/4010310.html)：解释了脚本阻塞的原理，并介绍了几种实现非阻塞脚本的方法。

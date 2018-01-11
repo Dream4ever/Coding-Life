@@ -54,6 +54,8 @@
 
 #### 开发规范
 
+[Best Practices For ASP.NET MVC Application](http://www.c-sharpcorner.com/article/best-practices-for-asp-net-mvc-application/)：ASP.NET MVC 应用最佳实践
+
 [ASP.NET MVC开发：Web项目开发必备知识点](http://www.cnblogs.com/lixiaobin/p/MvcWebLearn.html)
 
 #### 知识学习
@@ -75,6 +77,7 @@ Google: `前端vue 后端asp.net`
 [ASP.NET Core + Vue.js 开发记录系列文章](http://www.wangziwen.vip/2017/11/04/aspnet-core-vuejs-kf01/)
 
 [Is Node.js declining already?](https://www.quora.com/Is-Node-js-declining-already)
+
 ---
 
 [C#开发REST WEB API有哪些方法？](https://segmentfault.com/q/1010000011128866)
@@ -93,7 +96,7 @@ Google: `前端vue 后端asp.net`
 
 #### 性能优化
 
-[提高 ASP.NET Web 应用性能的 24 种方法和技巧](https://segmentfault.com/a/1190000004352989)，讲的都是具体的技术实现方面的细节。
+[提高 ASP.NET Web 应用性能的 24 种方法和技巧](https://segmentfault.com/a/1190000004352989)：讲的都是具体的技术实现方面的细节。
 
 #### 上传功能
  

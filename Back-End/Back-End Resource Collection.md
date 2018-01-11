@@ -46,11 +46,13 @@
 
 ### MVC
 
+[ASP.NET Routing | MSDN](https://msdn.microsoft.com/en-us/library/cc668201.aspx)：非常适合入门学习 Route 部分。精炼地介绍了 Route 中的各个知识点，并有实际代码辅助理解，真是官方的良心文档！
+
+[Controllers and Action Methods in ASP.NET MVC Applications](https://msdn.microsoft.com/en-us/library/dd410269(v=vs.100).aspx)：很简单地介绍了 Controller 和其中的 Action Methods，真的是很简单……
+
 [Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
 
 [ASP_NET_MVC3_请求处理流程(1) MVC请求入口](http://blog.csdn.net/a497785609/article/details/50097451)
-
-[ASP.NET Routing | MSDN](https://msdn.microsoft.com/en-us/library/cc668201.aspx)：精炼地介绍了 Route 中的各个知识点，并有实际代码辅助理解，真是官方的良心文档！
 
 ### ASP.NET
 

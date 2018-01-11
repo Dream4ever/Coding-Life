@@ -50,6 +50,8 @@
 
 [ASP_NET_MVC3_请求处理流程(1) MVC请求入口](http://blog.csdn.net/a497785609/article/details/50097451)
 
+[ASP.NET Routing | MSDN](https://msdn.microsoft.com/en-us/library/cc668201.aspx)：精炼地介绍了 Route 中的各个知识点，并有实际代码辅助理解，真是官方的良心文档！
+
 ### ASP.NET
 
 #### 业务实现

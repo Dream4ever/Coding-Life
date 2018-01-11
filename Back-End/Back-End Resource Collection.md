@@ -68,6 +68,25 @@ routes.MapRoute(
 );
 ```
 
+##### 从 Controller 向 View 传数据
+
+Google: `asp.net mvc pass parameter from controller to view`
+
+[Various Ways to Pass Data From Controller to View in MVC](http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/various-ways-to-pass-data-from-controller-to-view-in-mvc/)：在 Controller 中，为 `ViewBag` 这个实例添加属性并赋值，然后在 View 中使用属性即可。
+
+```cs
+// TestController.cs
+string Id = (string)this.RouteData.Values["id"];
+ViewBag.Id = Id;
+
+// Index.cshtml
+@{
+    var src = "/tspt/xztxyy3b/audio/" + ViewBag.Id + ".mp3";
+}
+...
+<source src=@src type="audio/mp3">
+```
+
 #### 开发规范
 
 [Best Practices For ASP.NET MVC Application](http://www.c-sharpcorner.com/article/best-practices-for-asp-net-mvc-application/)：ASP.NET MVC 应用最佳实践

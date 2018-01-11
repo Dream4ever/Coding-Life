@@ -56,6 +56,8 @@
 
 [Best Practices For ASP.NET MVC Application](http://www.c-sharpcorner.com/article/best-practices-for-asp-net-mvc-application/)：ASP.NET MVC 应用最佳实践
 
+[ASP.NET MVC Solution Architecture – Best Practices](https://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/)：第一次大致看了一遍，应该是自底向上把每一层该如何设计都大致讲了一下，配套的源码就在 GitHub 上：[mvcarchitecture](https://github.com/chsakell/mvcarchitecture)。
+
 [ASP.NET MVC开发：Web项目开发必备知识点](http://www.cnblogs.com/lixiaobin/p/MvcWebLearn.html)
 
 #### 知识学习

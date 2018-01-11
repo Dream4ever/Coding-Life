@@ -52,6 +52,22 @@
 
 ### ASP.NET
 
+#### 业务实现
+
+##### Controller 中获取 Route 中的参数
+
+Google: `asp.net mvc controller get data from route`
+
+[Get Route Parameter Value in Controller](https://forums.asp.net/t/1386372.aspx?Get+Route+Parameter+Value+in+Controller)：在 Controller 中，用 `string Id = (string)this.RouteData.Values["id"];` 这样的语句即可，不过在 Route 中，需要声明 `id` 这个变量：
+
+```cs
+routes.MapRoute(
+    name: "Test",
+    url: "Test/tspt/{bookName}/{id}.html",
+    defaults: new { controller = "Test", action = "Index", id = UrlParameter.Optional }
+);
+```
+
 #### 开发规范
 
 [Best Practices For ASP.NET MVC Application](http://www.c-sharpcorner.com/article/best-practices-for-asp-net-mvc-application/)：ASP.NET MVC 应用最佳实践

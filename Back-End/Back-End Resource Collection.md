@@ -52,8 +52,6 @@
 
 [Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
 
-[ASP_NET_MVC3_请求处理流程(1) MVC请求入口](http://blog.csdn.net/a497785609/article/details/50097451)
-
 ### ASP.NET
 
 #### 业务实现

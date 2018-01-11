@@ -56,9 +56,9 @@
 
 ##### Controller 中获取 Route 中的参数
 
-Google: `asp.net mvc controller get data from route`
+- Google: `asp.net mvc controller get data from route`
 
-[Get Route Parameter Value in Controller](https://forums.asp.net/t/1386372.aspx?Get+Route+Parameter+Value+in+Controller)：在 Controller 中，用 `string Id = (string)this.RouteData.Values["id"];` 这样的语句即可，不过在 Route 中，需要声明 `id` 这个变量：
+- [Get Route Parameter Value in Controller](https://forums.asp.net/t/1386372.aspx?Get+Route+Parameter+Value+in+Controller)：在 Controller 中，用 `string Id = (string)this.RouteData.Values["id"];` 这样的语句即可，不过在 Route 中，需要声明 `id` 这个变量：
 
 ```cs
 routes.MapRoute(
@@ -70,9 +70,9 @@ routes.MapRoute(
 
 ##### 从 Controller 向 View 传数据
 
-Google: `asp.net mvc pass parameter from controller to view`
+- Google: `asp.net mvc pass parameter from controller to view`
 
-[Various Ways to Pass Data From Controller to View in MVC](http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/various-ways-to-pass-data-from-controller-to-view-in-mvc/)：在 Controller 中，为 `ViewBag` 这个实例添加属性并赋值，然后在 View 中使用属性即可。
+- [Various Ways to Pass Data From Controller to View in MVC](http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/various-ways-to-pass-data-from-controller-to-view-in-mvc/)：在 Controller 中，为 `ViewBag` 这个实例添加属性并赋值，然后在 View 中使用属性即可。
 
 ```cs
 // TestController.cs

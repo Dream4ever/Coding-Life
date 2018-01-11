@@ -381,6 +381,11 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Get the current matrix transformation of an SVG element](https://stackoverflow.com/questions/46434687/get-the-current-matrix-transformation-of-an-svg-element)
 
+#### 修改现有的样式规则
+
+[modify a css rule object with javascript](https://stackoverflow.com/questions/13528512/modify-a-css-rule-object-with-javascript)
+[Changing a CSS rule-set from Javascript](https://stackoverflow.com/questions/1409225/changing-a-css-rule-set-from-javascript)
+
 #### JS脚本非阻塞式加载
 
 [高性能Javascript--脚本的无阻塞加载策略](http://www.cnblogs.com/coco1s/p/4010310.html)：解释了脚本阻塞的原理，并介绍了几种实现非阻塞脚本的方法。

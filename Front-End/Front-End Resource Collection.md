@@ -26,6 +26,8 @@
 
 ### 前端学习
 
+[前端开发者指南（2017）](https://github.com/xitu/front-end-handbook-2017)
+
 [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.yiycyp21r)
 
 [前端网老姚浅谈：怎么学JavaScript？](https://zhuanlan.zhihu.com/p/23265155)

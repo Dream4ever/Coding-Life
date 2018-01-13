@@ -8,7 +8,7 @@
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831/answer/61429937)：文章超长，但是干货超级多，值得反复精读！
 
-[听说2017你想写前端？](https://segmentfault.com/a/1190000011001037)：适合于已经度过了小白阶段，达到初级水平的前端开发者。留言区的干货也很多。
+[听说2017你想写前端？](https://segmentfault.com/a/1190000011001037)：适合于已经度过了小白阶段，达到初级水平的前端开发者。留言区的干货也很多。关键字：项目工程化，铁三角（HTML、CSS、JS）的新写法（pug、SCSS+postCSS、TS/ES6），MVC（Vue/React），发展方向（交互方向：WebGL，数据方向：D3.js）。
 
 [Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188#articleHeader42)
 

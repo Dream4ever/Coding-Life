@@ -356,6 +356,10 @@ Github 关键字：danmu
 
 Google 关键字：medium image lazy load，实现medium依次加载模糊图和高清图的效果。
 
+#### 文件上传
+
+[前端本地文件操作与上传](https://fed.renren.com/2017/11/25/local-file-manage-upload/)：这篇文章探讨了在前端页面的几种文件上传方式，及其背后的原理，很值得一读。
+
 #### 修改伪类元素的属性
 
 直接修改似乎不奏效，最后用添加类标签的方式变相实现了。

@@ -368,13 +368,7 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [How change content value of pseudo :before element by Javascript](https://stackoverflow.com/questions/10495243/how-change-content-value-of-pseudo-before-element-by-javascript)
 
-[Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)：
-
-#### 组件化/模块化/业务分层
-
-[这样的vue组件如何更加优雅?](https://segmentfault.com/q/1010000011330728)
-
-[引入服务层](https://kenberkeley.github.io/vue-demo/docs/_book/zh-cn/development/Service-layer.html)
+[Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery](https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin)
 
 #### 检测移动端的 User Agent
 
@@ -398,6 +392,16 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [Changing a CSS rule-set from Javascript](https://stackoverflow.com/questions/1409225/changing-a-css-rule-set-from-javascript)
 
+#### 禁止 iOS Safari 底部菜单栏自动隐藏
+
+先是 Google：`why js will show ios safari bar`
+
+然后看到一个搜索结果：[iOS - Prevent Mobile Safari from presenting toolbar when bottom of viewport is tapped](https://stackoverflow.com/questions/21715917/prevent-mobile-safari-from-presenting-toolbar-when-bottom-of-viewport-is-tapped)，在其中一个低分回答里面，找到了禁止 iOS Safari 禁止隐藏底部菜单栏的方法，就是下面两个链接，高票回答都是同一个人。
+
+[iOS - How might one force-show the mobile Safari bottom nav bar to show programmatically?](https://stackoverflow.com/a/34644080/2667665)
+
+[html - Buttons aligned to bottom of page conflict with mobile Safari's menu bar](https://stackoverflow.com/questions/23657943/buttons-aligned-to-bottom-of-page-conflict-with-mobile-safaris-menu-bar)
+
 #### 微信分享
 
 [微信自定义分享链接信息](https://www.jianshu.com/p/b428bcbbce09)：根据文章中的说法，分享出去的链接，标题就是网页中的 `title` 属性；描述则必须通过微信 JS-SDK 自定义，并不会读取网页中的 `description` 属性；图片为网页中的第一张尺寸至少为 `300*300` 的图片，这张图片可以设置为 `display: none`，这样就只用于分享时显示，并不在页面中显示。
@@ -411,6 +415,12 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 #### JS动态加载CSS
 
 [Dynamically add css to page via javascript](https://stackoverflow.com/a/13883978/2667665)：通过原生JS动态加载内联CSS或CSS文件。
+
+#### 组件化/模块化/业务分层
+
+[这样的vue组件如何更加优雅?](https://segmentfault.com/q/1010000011330728)
+
+[引入服务层](https://kenberkeley.github.io/vue-demo/docs/_book/zh-cn/development/Service-layer.html)
 
 ### 性能优化
 

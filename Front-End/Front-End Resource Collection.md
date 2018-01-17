@@ -634,10 +634,6 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [TinyPNG](https://tinypng.com/)：在线的PNG压缩工具，能够显著减小PNG文件体积。
 
-### 前后端交互
-
-[RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
-
 ### Wiki系统
 
 [SmartWiki](https://github.com/lifei6671/SmartWiki)：国人出品的一款Wiki系统，从16年12月份开始开发，上次更新日期：2017年3月29日

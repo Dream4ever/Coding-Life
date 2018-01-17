@@ -147,6 +147,12 @@ Google: `前端vue 后端asp.net`
 
 搜索关键字：Search "asp.net upload" in Code Project
 
+## API
+
+[7 Rules for REST API URI Design](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
+
+[RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
+
 ## IDE
 
 ### Visual Studio

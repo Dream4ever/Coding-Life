@@ -56,6 +56,8 @@
 
 [DDFE-blog](https://github.com/DDFE/DDFE-blog)：滴滴平台技术部前端博客
 
+[jawil/blog](https://github.com/jawil/blog)：似乎只有 2017 年的文章，但是却有高达 4K 的 Star 数，厉害了！另外 README 里还介绍了 [前端小密圈](http://qdxmq.com/)，似乎也是作者的个人博客。
+
 ### 网络原理
 
 [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)：深入到了最底层，可以算非常完善的讲解了，但是不太适合小白们阅读，估计会一脸懵。

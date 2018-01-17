@@ -582,6 +582,8 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [Behance](https://www.behance.net/)
 
+[vux](https://github.com/airyland/vux)：基于 Vue & WeUI 的移动端 UI 组件库
+
 [Element](https://github.com/ElemeFE/element)：Vue PC 端 UI 组件库
 
 [Mint UI](https://github.com/ElemeFE/mint-ui)：Vue 移动端 UI 组件库

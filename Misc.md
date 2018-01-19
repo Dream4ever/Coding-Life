@@ -42,6 +42,20 @@
 
 [前后端分离如何实现单点登录？](https://segmentfault.com/q/1010000012099667)
 
+[网站自动登陆是前端控制还是后端？](https://segmentfault.com/q/1010000011138123)
+
+## 网络安全
+
+[关于 Web 安全，99% 的网站都忽略了这些](https://segmentfault.com/a/1190000003852910)
+
+[减少 WAF 漏报的 8 种方法 ！](https://segmentfault.com/a/1190000004301323)
+
+[XSS跨站脚本攻击](https://segmentfault.com/a/1190000004139891)
+
+[XSS分析及预防](https://segmentfault.com/a/1190000005032978)
+
+[怎么防止盗链？](https://segmentfault.com/q/1010000010824046)
+
 ## Docker
 
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)

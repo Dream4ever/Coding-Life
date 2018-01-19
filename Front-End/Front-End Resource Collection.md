@@ -326,6 +326,10 @@ SegmentFault 技术周刊系列文章
 
 [探索两种优雅的表单验证——策略设计模式和ES6的Proxy代理模式](https://github.com/jawil/blog/issues/19)
 
+#### 跨域
+
+[ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)：讲解 AJAX 跨域，前后端的解决方案（含 JAVA、PHP、.NET、Node），以及分析 AJAX 跨域。
+
 #### 复制到剪贴板
 
 [clipboard.js](https://github.com/zenorocha/clipboard.js)
@@ -511,6 +515,8 @@ Google: `安卓 微信 调试`
 [你应该知道的4种JavaScript设计模式](https://glassysky.github.io/2017/03/12/4-javascript-design-patterns-you-should-know/)
 
 ## 资源收集
+
+[javascript打怪升级--把业务逻辑当练习题做](https://segmentfault.com/a/1190000012499256)
 
 ### JS库/插件
 

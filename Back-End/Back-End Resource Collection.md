@@ -201,6 +201,10 @@ Google: `前端vue 后端asp.net`
 
 ## 服务器
 
+[入门用户的网站服务器安全技巧](https://segmentfault.com/a/1190000004178690)
+
+[服务器安全基础指南](https://segmentfault.com/a/1190000005753282)
+
 [Configure Web Server Security (IIS 7)](https://technet.microsoft.com/en-us/library/cc731278%28v=ws.10%29.aspx?f=255&MSPPError=-2147217396)
 
 [Apache Security Tips](https://httpd.apache.org/docs/2.4/misc/security_tips.html)：注意Apache版本

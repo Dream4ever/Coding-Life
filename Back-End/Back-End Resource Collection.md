@@ -40,9 +40,13 @@
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
+#### 性能调优
+
+[唯快不破，让nodejs再快一点](https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-performance-optimization.md)：应用阿里开发的 alinode，对 Node.js 代码进行分析并调优。
+
 #### 库 & 框架
 
-[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载
+[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载。
 
 ### MVC
 

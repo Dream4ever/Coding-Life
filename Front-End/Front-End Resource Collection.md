@@ -150,6 +150,10 @@
 
 [异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
 
+[为什么将函数c赋值给变量b，在函数体里面，给c赋值，为什么会失败](https://segmentfault.com/q/1010000012561664)：函数声明与函数表达式相关的知识点。
+
+[Why should I use a semicolon after every function in javascript?](https://stackoverflow.com/questions/1834642/why-should-i-use-a-semicolon-after-every-function-in-javascript)：为什么函数声明末尾不需要加分号，函数表达式末尾则需要加？这里给出了回答。
+
 #### ES6
 
 [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/)

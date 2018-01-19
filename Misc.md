@@ -30,6 +30,8 @@
 
 ## 前后端分离
 
+[如何做前后端动静分离](https://segmentfault.com/q/1010000005836900)
+
 [前后分离模型之封装 Api 调用](https://segmentfault.com/a/1190000012040777)
 
 [Stepping.js——两步完成前后端分离架构设计](https://segmentfault.com/a/1190000008912471)

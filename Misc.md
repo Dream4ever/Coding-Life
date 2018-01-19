@@ -12,8 +12,6 @@
 
 [关于 Alan Kay 的“面向对象”一词的探讨](https://softwareengineering.stackexchange.com/q/46592/121517)
 
-[Keeping user data safe](https://github.com/collections/protect-user-data)
-
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
 [photoshop 制作逼真漂亮的木板刻字文字特效](http://www.jb51.net/photoshop/83720.html)
@@ -27,6 +25,8 @@
 [有哪些 IT 初学者（新人）成长为技术大牛的真实经历？](https://www.zhihu.com/question/40662462)：大牛们的成长路线，背后的思想值得借鉴。
 
 [心理学领域有哪些事实，是人们不愿相信的？](https://www.zhihu.com/question/51049813/answer/133713347)：上面这个问题中，一个答者提到的内容。
+
+[IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html?social_post=1290940420&fst=Discover)
 
 ## 网站架构
 
@@ -65,6 +65,8 @@
 [XSS 分析及预防](https://segmentfault.com/a/1190000005032978)
 
 [怎么防止盗链？](https://segmentfault.com/q/1010000010824046)
+
+[Keeping user data safe](https://github.com/collections/protect-user-data)
 
 ## Docker
 

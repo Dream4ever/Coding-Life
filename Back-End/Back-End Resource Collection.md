@@ -151,6 +151,10 @@ Google: `前端vue 后端asp.net`
 
 [7 Rules for REST API URI Design](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
 
+[【译】RESTful API 设计最佳实践](https://segmentfault.com/a/1190000011516151)
+
+[【目标不加班】善用API统一描述语言提升RestAPI开发效率](https://segmentfault.com/a/1190000010910896)
+
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
 
 ## IDE

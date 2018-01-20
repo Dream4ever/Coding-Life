@@ -70,6 +70,8 @@
 
 [Keeping user data safe](https://github.com/collections/protect-user-data)
 
+[如何让前端更安全？——XSS攻击和防御详解](http://k.21cn.com/share/2017/0217/19/7411f5433cffa5feec365716.shtml)
+
 ## Docker
 
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)

@@ -614,10 +614,6 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [SmartWiki](https://github.com/lifei6671/SmartWiki)：国人出品的一款Wiki系统，从16年12月份开始开发，上次更新日期：2017年3月29日
 
-### 前端安全
-
-[如何让前端更安全？——XSS攻击和防御详解](http://k.21cn.com/share/2017/0217/19/7411f5433cffa5feec365716.shtml)
-
 ### 设计
 
 #### 网页设计

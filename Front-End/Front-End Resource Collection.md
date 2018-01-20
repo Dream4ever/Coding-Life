@@ -234,55 +234,7 @@ Google: front-end code standards & best practice
 
 [Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)：剖析源码的思路值得学习。
 
-### React
-
-[React.js 小书](http://huziketang.com/books/react/)：从实战的角度出发，有重点地、深入浅出地讲解React，需掌握ES6
-
-[Facebook官方Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
-
-[React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-
-[React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/)
-
-SegmentFault 技术周刊系列文章
-
-- [SegmentFault 技术周刊 Vol.8 - React，“5 分钟快速入门”](https://segmentfault.com/a/1190000007135115)
-
-- [SegmentFault 技术周刊 Vol.9 - 进阶吧！React](https://segmentfault.com/a/1190000007205944)
-
-- [技术周刊 Vol.10 - React Native丨Learn Once, Write Anywhere](https://segmentfault.com/a/1190000007275896)
-
-- [SegmentFault 技术周刊 Vol.11 - React 应用与实践](https://segmentfault.com/a/1190000007345731) 
-
-[React+Ant.Design开发的SPA](https://github.com/JasonBai007/reactSPA)
-
-[React+reflux应用 IE8/9/10/11兼容实践](https://segmentfault.com/a/1190000005794242)
-
-[Make your React app work in IE8](https://github.com/xcatliu/react-ie8)
-
-#### Ant Design
-
-[Ant Design - PC端中后台框架](https://ant.design/index-cn)
-
-  - [设计指引](https://ant.design/docs/spec/colors-cn)
-
-  - [React组件清单](https://ant.design/docs/react/introduce-cn)
-
-  - [设计模式](https://ant.design/docs/pattern/navigation-cn)
-
-[Ant Design Mobile - 移动版](http://mobile.ant.design/)
-
-[AntV - 数据可视化](https://antv.alipay.com/)
-
-##### 蚂蚁设计平台
-
-设计指引：[Web版](https://design.alipay.com/design/web/principle)，[Mobile版](https://design.alipay.com/design/mobile/easy)
-
-开发指引：[Web版](https://design.alipay.com/develop/web/react/introduce)，[H5版](https://design.alipay.com/develop/mobile/introduce)
-
 ### 其它框架
-
-[FrozenUI - 专注于移动web的UI框架](http://frozenui.github.io/)
 
 [Weex - 移动端跨平台UI框架](https://github.com/alibaba/weex)
 
@@ -321,6 +273,8 @@ SegmentFault 技术周刊系列文章
 - 连续登录失败三次锁定帐号十分钟
 
 - 设置session有效期，存储/验证/清除session
+
+[“登陆信息”用cookie存还是localStorage存好？](https://segmentfault.com/q/1010000012617431)：实际业务有时包含认证和鉴权两部分，cookie 天生适合做认证，鉴权就交给后端去做。
 
 #### 字符串校验
 

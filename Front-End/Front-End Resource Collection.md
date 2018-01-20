@@ -154,6 +154,8 @@
 
 #### ES6
 
+[19 个 JavaScript 有用的简写技术](https://segmentfault.com/a/1190000012673854)：应用 ES6 语法简化代码的写法，评论区还有纠错，不能只看文章。
+
 [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/)
 
 #### 回调

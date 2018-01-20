@@ -452,10 +452,6 @@ Google: `安卓 微信 调试`
 
 [前端自动化测试探索](http://fex.baidu.com/blog/2015/07/front-end-test/)：介绍了前端自动化测试的相关工具，干货满满。
 
-### fis3
-
-[fis3 - 百度出品的前端工程构建系统](https://github.com/fex-team/fis3)
-
 ### Webpack
 
 [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)

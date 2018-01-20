@@ -142,17 +142,17 @@
 
 ### JS
 
-[jQuery Scroll Path](https://github.com/JoelBesada/scrollpath)
-
 [How To Create An Animated Scroll To Top Button With jQuery](https://paulund.co.uk/how-to-create-an-animated-scroll-to-top-with-jquery)
 
 [实现图片懒加载(lazyload)](https://segmentfault.com/a/1190000007635063)：lazyload提升页面加载速度，节流函数限制页面滚动时绑定函数的触发次数
 
-[异步加载JS脚本](http://www.jianshu.com/p/bf8b5bf5fc90)
-
 [为什么将函数c赋值给变量b，在函数体里面，给c赋值，为什么会失败](https://segmentfault.com/q/1010000012561664)：函数声明与函数表达式相关的知识点。
 
 [Why should I use a semicolon after every function in javascript?](https://stackoverflow.com/questions/1834642/why-should-i-use-a-semicolon-after-every-function-in-javascript)：为什么函数声明末尾不需要加分号，函数表达式末尾则需要加？这里给出了回答。
+
+#### 作用域
+
+[JavaScript 关于面试题](https://segmentfault.com/q/1010000012626903)：有关变量作用域的面试题。
 
 #### ES6
 

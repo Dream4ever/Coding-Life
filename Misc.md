@@ -72,6 +72,8 @@
 
 [如何让前端更安全？——XSS攻击和防御详解](http://k.21cn.com/share/2017/0217/19/7411f5433cffa5feec365716.shtml)
 
+[AJAX请求真的不安全么？谈谈Web安全与AJAX的关系](https://segmentfault.com/a/1190000012693772)
+
 ## Docker
 
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)

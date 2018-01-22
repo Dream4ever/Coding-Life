@@ -210,9 +210,11 @@ Google: front-end code standards & best practice
 
 [前端开发中文字体的应用规范](http://hao.jser.com/archive/1702/)
 
+[界面设计必备！全方位科普常用的字体规范（附神器）](http://www.uisdc.com/font-use-of-standard)
+
 [如何优雅的选择字体(font-family)](https://segmentfault.com/a/1190000006110417)
 
-[界面设计必备！全方位科普常用的字体规范（附神器）](http://www.uisdc.com/font-use-of-standard)
+[免费字体获取和使用指南](https://sspai.com/post/42889)
 
 ## 库 & 框架
 

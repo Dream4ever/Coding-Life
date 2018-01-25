@@ -14,6 +14,8 @@
 
 [VSCode 官方文档中文版](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
+[Make iterm more powerful · EQuimper's Blog](https://equimper.me/post/make-iterm-more-powerful/)
+
 [photoshop 制作逼真漂亮的木板刻字文字特效](http://www.jb51.net/photoshop/83720.html)
 
 [Photoshop 制作简单的木板浮雕字](http://www.68ps.com/jc/big_ps_wz.asp?id=5498)

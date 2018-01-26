@@ -376,6 +376,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [微信 JS-SDK：获取“分享给朋友”按钮点击状态及自定义分享内容接口](https://mp.weixin.qq.com/wiki?action=doc&id=mp1421141115&t=0.3213874055726007#12)
 
+#### 唤起 APP
+
+[js在微信、微博、QQ、Safari唤起App的解决方案](https://segmentfault.com/a/1190000012940046)
+
 #### JS脚本非阻塞式加载
 
 [高性能Javascript--脚本的无阻塞加载策略](http://www.cnblogs.com/coco1s/p/4010310.html)：解释了脚本阻塞的原理，并介绍了几种实现非阻塞脚本的方法。

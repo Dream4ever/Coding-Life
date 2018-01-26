@@ -74,7 +74,7 @@
 
 [网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？](https://www.zhihu.com/question/20797118)
 
-####
+#### viewport
 
 [How can I force a site to scale to fix for mobile (Iphone android..)](https://stackoverflow.com/a/8194745/2667665)：在 `meta` 标签的 `viewport` 属性中，增加 `content="user-scalable=yes"` 这一条，就可使网页适应设备宽度。
 
@@ -155,6 +155,10 @@
 #### 作用域
 
 [JavaScript 关于面试题](https://segmentfault.com/q/1010000012626903)：有关变量作用域的面试题。
+
+#### 正则
+
+[为什么以竖线结尾的正则表达式永真?](https://segmentfault.com/q/1010000012889001)
 
 #### ES6
 

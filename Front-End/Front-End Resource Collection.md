@@ -158,6 +158,8 @@
 
 #### 正则
 
+[JavaScript 正则表达式匹配汉字](https://zhuanlan.zhihu.com/p/33335629)
+
 [为什么以竖线结尾的正则表达式永真?](https://segmentfault.com/q/1010000012889001)
 
 #### ES6

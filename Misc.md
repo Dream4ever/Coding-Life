@@ -87,3 +87,13 @@
 [Centos 7 查看内存占用情况相关命令](http://blog.csdn.net/anxpp/article/details/52453134)
 
 [Linux Used 内存到底哪里去了？](http://blog.yufeng.info/archives/2456)
+
+## macOS
+
+[使用终端来管理你的软件](http://www.maemo.cc/index.php/2017/12/18/terminal-software-management.html
+
+[终端上的 Mac App Store「mas」让应用的安装与更新无比轻松)](https://sspai.com/post/40382)
+
+[Cakebrew - The Homebrew GUI App for OS X](https://github.com/brunophilipe/Cakebrew)
+
+[brew和brew cask有什么区别？](https://www.zhihu.com/question/22624898)

@@ -42,6 +42,8 @@
 
 ## 前后端分离
 
+[前后端分离实践](https://segmentfault.com/a/1190000012747428)
+
 [如何做前后端动静分离](https://segmentfault.com/q/1010000005836900)
 
 [前后分离模型之封装 Api 调用](https://segmentfault.com/a/1190000012040777)

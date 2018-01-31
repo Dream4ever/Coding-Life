@@ -78,6 +78,8 @@
 
 [AJAX请求真的不安全么？谈谈Web安全与AJAX的关系](https://segmentfault.com/a/1190000012693772)
 
+[Token 认证的来龙去脉](https://segmentfault.com/a/1190000013010835)
+
 ## Docker
 
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)

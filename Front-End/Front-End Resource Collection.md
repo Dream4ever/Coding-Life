@@ -618,6 +618,8 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 ### 浏览器
 
+[Javascript调试命令——你只会Console.log() ?](https://segmentfault.com/a/1190000012957199)：介绍了在 Chrome 浏览器控制台中的各种调试命令。
+
 [SegmentFault 技术周刊 Vol.15 - “一天精通 Chrome 开发”](https://segmentfault.com/p/1210000007720473)
 
 ### 实用工具

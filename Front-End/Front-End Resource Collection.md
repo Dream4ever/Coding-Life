@@ -156,6 +156,10 @@
 
 [JavaScript 关于面试题](https://segmentfault.com/q/1010000012626903)：有关变量作用域的面试题。
 
+#### 闭包
+
+[一道 闭包 返回值的问题？](https://segmentfault.com/q/1010000013032161)：高票回答讲得比较清楚。
+
 #### 函数
 
 [一道js的面试题，有点凌乱](https://segmentfault.com/q/1010000013031010)：考察函数和 `this` 关键字方面的知识点。

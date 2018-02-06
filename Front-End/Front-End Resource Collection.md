@@ -156,6 +156,10 @@
 
 [JavaScript 关于面试题](https://segmentfault.com/q/1010000012626903)：有关变量作用域的面试题。
 
+#### 函数
+
+[一道js的面试题，有点凌乱](https://segmentfault.com/q/1010000013031010)：考察函数和 `this` 关键字方面的知识点。
+
 #### 正则
 
 [JavaScript 正则表达式匹配汉字](https://zhuanlan.zhihu.com/p/33335629)

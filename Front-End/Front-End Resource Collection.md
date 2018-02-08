@@ -200,6 +200,8 @@
 
 Google: `promise async await example`
 
+[15 行代码实现并发控制（javascript）](https://segmentfault.com/a/1190000013128649)：通过 Promises 限制并发数量，实现爬虫的控制。
+
 #### 浏览器兼容
 
 [Browser Support | jQuery](https://jquery.com/browser-support/)：要想兼容 IE6~8，jQuery 的版本最高只能是 1.12。

@@ -20,6 +20,8 @@
 
 [Photoshop 制作简单的木板浮雕字](http://www.68ps.com/jc/big_ps_wz.asp?id=5498)
 
+[这样压缩 GIF，体积小还效果好](https://sspai.com/post/42916)
+
 [ASCIIFlow Infinity](http://asciiflow.com/)：用 ASCII 码来绘制图表，挺好玩的。
 
 [GitHub 可识别的编程语言列表](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)：在写 markdown 的时候，代码块的语言标记就从这里查询即可。

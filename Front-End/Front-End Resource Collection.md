@@ -102,6 +102,10 @@
 
 [How to vertically center a div for all browsers?](https://stackoverflow.com/a/6182661)：各浏览器通用的方法，表格大法
 
+#### 动态固定在底部
+
+[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/#article-header-id-3)
+
 #### Flex 布局
 
 [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)

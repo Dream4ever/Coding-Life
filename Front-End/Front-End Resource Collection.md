@@ -104,7 +104,7 @@
 
 #### 动态固定在底部
 
-[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/#article-header-id-3)
+[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/#article-header-id-3)：页面主要内容区域较矮时，`footer` 固定在底部；页面较长时，`footer` 也能自动适应页面高度，始终显示在最底部。
 
 #### Flex 布局
 

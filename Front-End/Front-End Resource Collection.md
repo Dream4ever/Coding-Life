@@ -244,6 +244,8 @@ Google: front-end code standards & best practice
 
 ### Vue
 
+[Learn Vue.js from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-vue-js-from-top-articles-for-the-past-year-v-2018-2b945cfc4f2d)：MyBridge 出品，从 17 年度近一万篇关于 Vue.js 的文章中，用 AI 精选出了 40 篇文章奉献给大家。
+
 [Vue作者尤雨溪：Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026nSmSxkHsYaHtIq00c09T#rd)
 
 [Vue.js新手教学 | 如何写一个Checklist组件](https://segmentfault.com/a/1190000012161495)

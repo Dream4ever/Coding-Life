@@ -205,6 +205,8 @@ Google: `前端vue 后端asp.net`
 
 ## 服务器
 
+[Web开发者手边的一本CentOS小书](https://array-huang.gitbooks.io/centos-book/content/)
+
 [入门用户的网站服务器安全技巧](https://segmentfault.com/a/1190000004178690)
 
 [服务器安全基础指南](https://segmentfault.com/a/1190000005753282)

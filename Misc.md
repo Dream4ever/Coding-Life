@@ -4,6 +4,8 @@
 
 [项目研发规范流程](https://raw.githubusercontent.com/Dream4ever/Pics/master/project-develop-process.png)
 
+[面试分享：专科半年经验面试阿里前端P6+总结(附面试真题及答案)](https://juejin.im/post/5a92c23b5188257a6b06110b)
+
 [程序员跳槽全攻略](http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc)
 
 [Web 开发并不难](http://ftqq.com/%E6%96%B9%E7%B3%96Web%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/README.adoc)

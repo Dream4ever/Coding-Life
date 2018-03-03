@@ -1,12 +1,8 @@
 ### Framework 框架
 
-> [vuejs / vue](https://github.com/vuejs/vue)
->
-> 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
-> [mochajs / mocha](https://github.com/mochajs/mocha)
->
-> ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
 ### Library 库
 

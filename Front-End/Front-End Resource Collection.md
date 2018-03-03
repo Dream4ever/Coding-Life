@@ -98,6 +98,10 @@
 
 [display的32种写法](https://segmentfault.com/a/1190000012833458)
 
+#### 设置空元素样式
+
+[Styling Empty Cells With Generated Content And CSS Grid Layout](https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/)
+
 #### Float
 
 [前端CSS求助:请帮我看下这个demo是怎么回事？](https://segmentfault.com/q/1010000011744771)：一个很好的问题，弄懂了这里的概念，能够对 float 的原理有进一步的理解。

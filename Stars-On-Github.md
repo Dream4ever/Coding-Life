@@ -4,13 +4,49 @@
 >
 > 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
+> [mochajs / mocha](https://github.com/mochajs/mocha)
+>
+> ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+
 ### Library 库
 
 > [typicode / json-server](https://github.com/typicode/json-server)
 >
 > Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
+> [request / request](https://github.com/request/request)
+>
+> 🏊🏾 Simplified HTTP request client.
+
+> [nolimits4web / swiper](https://github.com/nolimits4web/swiper)
+>
+> Most modern mobile touch slider with hardware accelerated transitions
+
+> [sequelize / sequelize](https://github.com/sequelize/sequelize)
+>
+> An easy-to-use multi SQL dialect ORM for Node.js
+
+> [desandro / masonry](https://github.com/desandro/masonry)
+>
+> 🏩 Cascading grid layout library
+
+> [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
+>
+> Light and responsive lightbox script with focus on performance.
+
+> [Popmotion / popmotion](https://github.com/Popmotion/popmotion)
+>
+> A functional, reactive animation library.
+
+> [photonstorm / phaser](https://github.com/photonstorm/phaser)
+>
+> Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
 ### Snippet 代码片段
+
+> [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+>
+> Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
 ### CheatSheet 命令速查表
 
@@ -26,6 +62,10 @@
 >
 > A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
+> [yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+>
+> 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
 > [alex / what-happens-when](https://github.com/alex/what-happens-when)
 >
 > An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -39,6 +79,12 @@
 > [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 >
 > A book series on JavaScript. @YDKJS on twitter.
+
+### Blog 大牛博客
+
+> [fouber / blog](https://github.com/fouber/blog)
+>
+> 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
 ### Awesome List 奇妙清单
 
@@ -54,7 +100,15 @@
 >
 > 😎 Curated list of awesome lists
 
+> [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+>
+> Flight rules for git
+
 ### Tutorial 教程
+
+> [alsotang / node-lessons](https://github.com/alsotang/node-lessons)
+>
+> 📕《Node.js 包教不包会》 by alsotang
 
 ### Style Guide 代码规范
 

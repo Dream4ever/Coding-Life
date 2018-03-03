@@ -10,7 +10,15 @@
 
 - [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
+- [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
+
 ### Library 库
+
+- [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
+
+- [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+
+- [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
 - [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
 
@@ -20,6 +28,8 @@
 
 - [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
+- [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
+
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
 - [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
@@ -27,6 +37,10 @@
 - [chriso / validator.js](https://github.com/chriso/validator.js): String validation
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
+
+- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
+
+- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
 
 - [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
 
@@ -50,11 +64,17 @@
 
 - [benjamine / jsondiffpatch](https://github.com/benjamine/jsondiffpatch): Diff & patch JavaScript objects
 
+- [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
+
+- [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+
 ### Snippet 代码片段
 
 - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
 - [atomiks / 30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css): A curated collection of useful CSS snippets.
+
+- [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
 ### CheatSheet 命令速查表
 
@@ -100,6 +120,14 @@
 
 - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 
+- [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+
+- [wxyyxc1992 / ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 📚 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
+
+- [elevenbeans / elevenbeans.github.io](https://github.com/elevenbeans/elevenbeans.github.io): ✏️ Elevenbeans' blog powered by Hexo. Welcome to star! ⭐️🌟✨
+
+- [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
+
 ### Awesome List 奇妙清单
 
 - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -118,9 +146,17 @@
 
 ### Tutorial 教程
 
+- [llh911001 / mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese): JS 函数式编程指南中文版
+
+- [liubin / promises-book](https://github.com/liubin/promises-book): JavaScript Promise迷你书
+
 - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
 
+- [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
+
 - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack
+
+- [GoogleChromeLabs / webpack-training-project](https://github.com/GoogleChromeLabs/webpack-training-project): A training project for learning Webpack optimizations
 
 - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
@@ -128,11 +164,21 @@
 
 - [airbnb / javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 
+- [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 🀄️ Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
+
+- [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （注：项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
+
 ### Project 实际项目
 
 - [cnodejs / nodeclub](https://github.com/cnodejs/nodeclub): 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 
 - [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
+
+- [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块
+
+- [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
+
+- [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 
 ### Tip 操作技巧
 
@@ -140,11 +186,15 @@
 
 ### General Education 综合素养
 
+- [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
+
 ### System Enhancement 系统工具
 
 - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
 ### Misc 其它
+
+- [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 
 - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
 
@@ -153,6 +203,16 @@
 - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
 - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
+
+- [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
+
+- [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
+
+- [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
+
+- [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
+
+- [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 
 - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 

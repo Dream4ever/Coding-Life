@@ -42,6 +42,8 @@
 
 - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
 
+- [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
+
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 - [QingWei-Li / docsify](https://github.com/QingWei-Li/docsify): 🃏 A magical documentation site generator.

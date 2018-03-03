@@ -2,13 +2,21 @@
 
 - [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
+- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
+
 - [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
 ### Library 库
 
+- [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
+
+- [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+
 - [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
+
+- [chriso / validator.js](https://github.com/chriso/validator.js): String validation
 
 - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 

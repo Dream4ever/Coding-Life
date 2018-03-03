@@ -46,6 +46,8 @@
 
 - [QingWei-Li / docsify](https://github.com/QingWei-Li/docsify): 🃏 A magical documentation site generator.
 
+- [benjamine / jsondiffpatch](https://github.com/benjamine/jsondiffpatch): Diff & patch JavaScript objects
+
 ### Snippet 代码片段
 
 - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
@@ -59,6 +61,8 @@
 - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
 - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+
+- [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
 ### Envrionment 环境配置
 
@@ -92,9 +96,15 @@
 
 - [jawil / blog](https://github.com/jawil/blog): Too young, too simple. Sometimes, naive & stupid 🐌
 
+- [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
+
 ### Awesome List 奇妙清单
 
 - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+- [andrew--r / frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
+
+- [thedaviddias / Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner): 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 
 - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 
@@ -143,3 +153,5 @@
 - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
 
 - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
+
+- [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱

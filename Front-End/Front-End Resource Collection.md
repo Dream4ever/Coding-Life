@@ -102,6 +102,10 @@
 
 [Styling Empty Cells With Generated Content And CSS Grid Layout](https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/)
 
+#### CSS 变量实现响应式页面
+
+[How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)
+
 #### Float
 
 [前端CSS求助:请帮我看下这个demo是怎么回事？](https://segmentfault.com/q/1010000011744771)：一个很好的问题，弄懂了这里的概念，能够对 float 的原理有进一步的理解。

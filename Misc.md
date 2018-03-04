@@ -48,7 +48,7 @@
 
 [前后端分离实践](https://segmentfault.com/a/1190000012747428)
 
-[前后端分离为什么不用session来保存登录状态，用 token based 验证 用意何在？](https://zhidao.baidu.com/question/428827334736351612.html)
+[前后端分离为什么不用session来保存登录状态，用 token based 验证用意何在？](https://zhidao.baidu.com/question/428827334736351612.html)
 
 [如何做前后端动静分离](https://segmentfault.com/q/1010000005836900)
 

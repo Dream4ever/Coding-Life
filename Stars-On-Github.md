@@ -82,6 +82,8 @@
 
 ### CheatSheet 命令速查表
 
+- [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
 ### Developent Tool 开发工具
 
 - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -124,6 +126,10 @@
 
 - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 
+- [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html): 深入理解JavaScript系列文章，包括了原创，翻译，转载，整理等各类型文章，如果对你有用，请推荐支持一把，给大叔写作的动力。
+
+- [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
 - [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 
 - [wxyyxc1992 / ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 📚 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
@@ -141,8 +147,6 @@
 - [thedaviddias / Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner): 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 
 - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
-
-- [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
 

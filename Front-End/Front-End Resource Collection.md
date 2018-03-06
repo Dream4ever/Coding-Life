@@ -84,15 +84,19 @@
 
 ### CSS
 
-[CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
-
-[前端精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
-
 [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 
 [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
 
 [cssreference.io](http://cssreference.io/)
+
+#### 布局
+
+[CSS中各种布局的背后(XFC)](https://segmentfault.com/a/1190000013372963)
+
+[前端精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
+[CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
 
 #### Display
 

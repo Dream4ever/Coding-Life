@@ -16,6 +16,8 @@
 
 - [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
 
+- [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
+
 - [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
@@ -60,11 +62,15 @@
 
 - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
 
+- [atomiks / tippyjs](https://github.com/atomiks/tippyjs): A lightweight, vanilla JS tooltip library
+
 - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
 
 - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
+- [terkelg / prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
 - [QingWei-Li / docsify](https://github.com/QingWei-Li/docsify): 🃏 A magical documentation site generator.
 

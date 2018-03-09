@@ -150,6 +150,8 @@
 
 - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 
+- [aben1188 / awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
+
 - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
 
 - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git

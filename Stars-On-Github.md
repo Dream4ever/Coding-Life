@@ -100,6 +100,10 @@
 
 - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
+- [liriliri / eruda](https://github.com/liriliri/eruda): Console for mobile browsers
+
+> 注：可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
+
 ### Envrionment 环境配置
 
 - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X

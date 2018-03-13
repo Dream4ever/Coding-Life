@@ -140,6 +140,10 @@
 
 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
+#### 弹性滑动
+
+[移动端弹性滑动以及vue记录滑动位置](https://segmentfault.com/a/1190000012857661)
+
 #### 点击穿透指定元素
 
 [Click through a DIV to underlying elements](https://stackoverflow.com/questions/3680429/click-through-a-div-to-underlying-elements)：通过将元素的 `pointer-events` 属性的值设置为 `none`，实现点击穿透的效果。

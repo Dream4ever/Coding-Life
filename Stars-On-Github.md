@@ -98,6 +98,8 @@
 
 - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
+- [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
+
 - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
 - [liriliri / eruda](https://github.com/liriliri/eruda): Console for mobile browsers
@@ -183,6 +185,8 @@
 - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
 ### Style Guide 代码规范
+
+- [standard / standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
 - [airbnb / javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 

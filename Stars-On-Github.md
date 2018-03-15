@@ -4,7 +4,13 @@
 
 - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 
+- [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
+
+> 用于 Vue.js 的桌面端 UI 框架
+
 - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
+
+> 用于 Vue.js 的移动端 UI 框架
 
 - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
 

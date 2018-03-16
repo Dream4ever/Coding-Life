@@ -334,6 +334,8 @@ Google: front-end code standards & best practice
 
 #### 跨域
 
+[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
 [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)：讲解 AJAX 跨域，前后端的解决方案（含 JAVA、PHP、.NET、Node），以及分析 AJAX 跨域。
 
 [CSRF攻击与防御（写得非常好）](http://blog.csdn.net/stpeace/article/details/53512283)

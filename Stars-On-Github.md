@@ -200,8 +200,6 @@
 
 - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 
-- [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html): 深入理解JavaScript系列文章，包括了原创，翻译，转载，整理等各类型文章，如果对你有用，请推荐支持一把，给大叔写作的动力。
-
 - [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
 - [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！

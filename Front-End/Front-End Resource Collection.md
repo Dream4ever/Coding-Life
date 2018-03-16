@@ -350,7 +350,7 @@ Google: front-end code standards & best practice
 
 #### 复制到剪贴板
 
-[clipboard.js](https://github.com/zenorocha/clipboard.js)
+[JavaScript复制内容到剪贴板](https://segmentfault.com/a/1190000013412206)
 
 #### 视频播放
 

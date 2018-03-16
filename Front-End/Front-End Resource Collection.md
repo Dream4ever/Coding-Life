@@ -40,6 +40,8 @@
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)
 
+[深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html): 深入理解JavaScript系列文章，包括了原创，翻译，转载，整理等各类型文章。
+
 [当你一个人想做一个web项目的时候你该怎么做](https://zhuanlan.zhihu.com/p/20575952)
 
 ### 前端资讯

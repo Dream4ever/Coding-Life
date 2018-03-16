@@ -1,68 +1,38 @@
-### Framework 框架
+### Framework | 框架
 
 - [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 
+- [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+
+> 专业级的 JavaScript 测试框架。
+
+#### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
+
 - [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 
-> 用于 Vue.js 的桌面端 UI 框架
+> 用于 Vue.js 的桌面端 UI 框架。
 
 - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
 
-> 用于 Vue.js 的移动端 UI 框架
+> 用于 Vue.js 的移动端 UI 框架。
 
 - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
 
-- [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-
-- [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
-
-### Library 库
-
-- [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
-
-- [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
-
-- [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
-
-- [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
-
-- [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
-
-> 注：很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
-
-- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): Generate RFC-compliant UUIDs in JavaScript
-
-- [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
-
-- [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
-
-- [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
-
-- [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
-- [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
-
-- [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
-
-- [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
-
-- [chriso / validator.js](https://github.com/chriso/validator.js): String validation
-
-- [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
-
-- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
+> 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
 
 - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
 
 - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
 
-- [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
+#### UI Library | UI 库
+
+- [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
+
+- [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
 - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
-
-- [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 
 - [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
 
@@ -78,6 +48,68 @@
 
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
+### Library | 库
+
+#### Upload | 上传
+
+- [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
+
+> 很棒的前端上传库，文档也很给力。
+
+- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
+
+#### Database & Restful API | 数据库及 Restful API
+
+- [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
+
+> 注：很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
+
+- [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
+
+- [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
+
+> GraphQL 的 JS 版本。
+
+- [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+
+> 小巧的 JSON 数据库。
+
+- [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+> 极速生成虚拟的 Restful API。
+
+- [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
+
+> 简单的在线虚拟 Restful API 服务器。
+
+#### 待分类
+
+- [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
+
+> node-modules 出品，汇总了一些常用的小工具。
+
+- [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+
+> 实现权限控制的 JS 库。
+
+- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): Generate RFC-compliant UUIDs in JavaScript
+
+> 生成 UUID。
+
+- [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
+
+- [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
+
+- [chriso / validator.js](https://github.com/chriso/validator.js): String validation
+
+> 字符串校验。
+
+- [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
+
+- [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
+
+- [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
+
 - [terkelg / prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
 - [QingWei-Li / docsify](https://github.com/QingWei-Li/docsify): 🃏 A magical documentation site generator.
@@ -88,7 +120,7 @@
 
 - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
-### Snippet 代码片段
+### Snippet | 代码片段
 
 - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
@@ -96,11 +128,11 @@
 
 - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
-### CheatSheet 命令速查表
+### CheatSheet | 命令速查表
 
 - [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-### Developent Tool 开发工具
+### Developent Tool | 开发工具
 
 - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
@@ -114,13 +146,13 @@
 
 > 注：可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 
-### Envrionment 环境配置
+### Envrionment | 环境配置
 
 - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
 
 - [donnemartin / dev-setup](https://github.com/donnemartin/dev-setup): Mac OS X development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 
-### Job 面试宝典
+### Job | 面试宝典
 
 - [h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -132,7 +164,7 @@
 
 - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~
 
-### Knowledge 知识学习
+### Knowledge | 知识学习
 
 - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
 
@@ -140,7 +172,7 @@
 
 - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
 
-### Blog 大牛博客
+### Blog | 大牛博客
 
 - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
@@ -160,7 +192,7 @@
 
 - [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
 
-### Awesome List 奇妙清单
+### Awesome List | 奇妙清单
 
 - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
@@ -176,7 +208,7 @@
 
 - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 
-### Tutorial 教程
+### Tutorial | 教程
 
 - [llh911001 / mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese): JS 函数式编程指南中文版
 
@@ -192,7 +224,7 @@
 
 - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
-### Style Guide 代码规范
+### Style Guide | 代码规范
 
 - [standard / standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
@@ -202,7 +234,7 @@
 
 - [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （注：项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
 
-### Project 实际项目
+### Project | 实际项目
 
 - [cnodejs / nodeclub](https://github.com/cnodejs/nodeclub): 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 
@@ -214,19 +246,19 @@
 
 - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 
-### Tip 操作技巧
+### Tip | 操作技巧
 
 - [Microsoft / vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code.
 
-### General Education 综合素养
+### General Education | 综合素养
 
 - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
 
-### System Enhancement 系统工具
+### System Enhancement | 系统工具
 
 - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
-### Misc 其它
+### Misc | 其它
 
 - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 

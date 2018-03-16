@@ -180,6 +180,10 @@
 
 [Why should I use a semicolon after every function in javascript?](https://stackoverflow.com/questions/1834642/why-should-i-use-a-semicolon-after-every-function-in-javascript)：为什么函数声明末尾不需要加分号，函数表达式末尾则需要加？这里给出了回答。
 
+#### 编码
+
+[前端字符编码小结](https://segmentfault.com/a/1190000013418463)
+
 #### 作用域
 
 [JavaScript 关于面试题](https://segmentfault.com/q/1010000012626903)：有关变量作用域的面试题。

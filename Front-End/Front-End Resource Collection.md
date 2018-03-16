@@ -62,6 +62,8 @@
 
 [张鑫技术男](https://zhuanlan.zhihu.com/zhangxin840)：（搬运自我介绍）关于互联网团队管理，项目管理，终端技术方面的思考。
 
+[行思錄 | Travel Coder | Arch, Coding, Life Learning](https://liudanking.com/)：很多有价值的文章，不限于前端方面。
+
 ### 网络原理
 
 [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)：深入到了最底层，可以算非常完善的讲解了，但是不太适合小白们阅读，估计会一脸懵。

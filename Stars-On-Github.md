@@ -116,6 +116,8 @@
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
 
+- [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
+
 - [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
 
 - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js

@@ -54,6 +54,8 @@
 
 - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
 
+- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
+
 - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
 
 - [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS

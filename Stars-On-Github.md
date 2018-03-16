@@ -26,9 +26,15 @@
 
 - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
 
+### Library | 库
+
 #### UI Library | UI 库
 
 - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
+
+- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+
+> 轻量级无依赖，引导用户的视觉焦点。
 
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
@@ -47,8 +53,6 @@
 - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-
-### Library | 库
 
 #### Upload | 上传
 
@@ -81,6 +85,12 @@
 - [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
 
 > 简单的在线虚拟 Restful API 服务器。
+
+#### Text Editor | 文本编辑器
+
+- [jaredreich / pell](https://github.com/jaredreich/pell): 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
+
+> 极其迷你的在线文本编辑器。不过试用了之后发现，设置过样式之后，没法再恢复原来的样式了……
 
 #### 待分类
 
@@ -139,6 +149,12 @@
 - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
+
+- [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): Fabulously kill processes. Cross-platform.
+
+> 跨平台的进程管理工具。
+
+#### Debug Tool | 调试工具
 
 - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 

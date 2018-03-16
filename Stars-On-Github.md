@@ -210,6 +210,18 @@
 
 ### Awesome List | 奇妙清单
 
+- [Topic: awesome | GitHub](https://github.com/topics/awesome): Awesome lists
+
+> 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
+
+- [matiassingers / awesome-readme](): A curated list of awesome READMEs
+
+> 各种 awesome 的 README，不来看一下嘛？
+
+- [mezod / awesome-indie](https://github.com/mezod/awesome-indie): Resources for independent developers to make money
+
+> 发家致富，迎娶白富美，走上人生巅峰，就靠它了！
+
 - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 - [andrew--r / frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
@@ -221,6 +233,8 @@
 - [aben1188 / awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 
 - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
+
+- [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
 
 - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 

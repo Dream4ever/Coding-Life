@@ -336,6 +336,8 @@ Google: front-end code standards & best practice
 
 [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)：讲解 AJAX 跨域，前后端的解决方案（含 JAVA、PHP、.NET、Node），以及分析 AJAX 跨域。
 
+[CSRF攻击与防御（写得非常好）](http://blog.csdn.net/stpeace/article/details/53512283)
+
 #### 复制到剪贴板
 
 [clipboard.js](https://github.com/zenorocha/clipboard.js)

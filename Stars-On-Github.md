@@ -68,6 +68,8 @@
 
 > 注：很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
 
+- [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
+
 - [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
 
 - [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
@@ -119,8 +121,6 @@
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
 
 - [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
-
-- [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 
 - [terkelg / prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 

@@ -202,6 +202,8 @@
 
 [为什么以竖线结尾的正则表达式永真?](https://segmentfault.com/q/1010000012889001)
 
+[一行代码实现一个简单的模板字符串替换](https://segmentfault.com/a/1190000013516128)
+
 #### ES6
 
 [19 个 JavaScript 有用的简写技术](https://segmentfault.com/a/1190000012673854)：应用 ES6 语法简化代码的写法，评论区还有纠错，不能只看文章。

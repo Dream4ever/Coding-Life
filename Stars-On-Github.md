@@ -94,6 +94,16 @@
 
 > 极其迷你的在线文本编辑器。不过试用了之后发现，设置过样式之后，没法再恢复原来的样式了……
 
+#### Process Manager | 进程管理
+
+- [typicode / hotel](https://github.com/typicode/hotel): 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+
+> 在浏览器中管理 Node.js 服务。
+
+#### Logging | 日志记录
+
+- [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): A port of log4js to node.js
+
 #### 待分类
 
 - [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.

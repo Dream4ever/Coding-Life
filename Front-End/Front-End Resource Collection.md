@@ -102,6 +102,8 @@
 
 [CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
 
+http://efe.baidu.com/blog/mobile-fixed-layout/
+
 #### Display
 
 [display的32种写法](https://segmentfault.com/a/1190000012833458)

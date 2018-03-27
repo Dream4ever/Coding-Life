@@ -34,6 +34,10 @@
 
 [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html?social_post=1290940420&fst=Discover)
 
+[vue、react等单页面项目应该这样子部署到服务器](https://segmentfault.com/a/1190000012675012)
+
+[next.js、nuxt.js等服务端渲染框架构建的项目部署到服务器，并用PM2守护程序](https://segmentfault.com/a/1190000012774650)
+
 ## 网站架构
 
 [谈谈网站架构设计开发的一些来龙去脉](https://acejoy.com/2017/12/19/%E8%B0%88%E8%B0%88%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%80%E4%BA%9B%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89/)：文章精华部分摘录如下：

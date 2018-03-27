@@ -102,7 +102,7 @@
 
 [CSS:haslayout知多少](http://blog.sina.com.cn/s/blog_51048da701018o29.html)：解释IE的布局原理
 
-http://efe.baidu.com/blog/mobile-fixed-layout/
+[Web移动端Fixed布局的解决方案](http://efe.baidu.com/blog/mobile-fixed-layout/)：不用第三方库，直接用原生代码解决 iOS 下 fixed 元素和输入框同时存在时的 bug
 
 #### Display
 

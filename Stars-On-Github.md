@@ -36,6 +36,10 @@
 
 > 轻量级无依赖，引导用户的视觉焦点。
 
+- [tabler / tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4
+
+> 基于 Bootstrap 4 的后台 UI 控件库。
+
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
 - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions

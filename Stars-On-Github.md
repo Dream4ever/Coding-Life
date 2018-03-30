@@ -148,6 +148,8 @@
 
 - [atomiks / 30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css): A curated collection of useful CSS snippets.
 
+- [l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): CSS tricks web developers need to know
+
 - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
 ### CheatSheet | 命令速查表

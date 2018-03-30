@@ -204,8 +204,6 @@
 
 - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
 
-- [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js
-
 ### Blog | 大牛博客
 
 - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
@@ -263,6 +261,8 @@
 - [liubin / promises-book](https://github.com/liubin/promises-book): JavaScript Promise迷你书
 
 - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
+
+- [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js
 
 - [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
 

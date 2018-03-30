@@ -146,6 +146,10 @@
 
 - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
+- [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+
+> 编程字体和字体图标大合集。
+
 ### Snippet | 代码片段
 
 - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.

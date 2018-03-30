@@ -108,6 +108,10 @@
 
 - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): A port of log4js to node.js
 
+#### Boilerplate | Node.js WebApp 项目模板
+
+- [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): A boilerplate for Node.js web applications
+
 #### 待分类
 
 - [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
@@ -189,6 +193,8 @@
 - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
 
 - [donnemartin / dev-setup](https://github.com/donnemartin/dev-setup): Mac OS X development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+
+- [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
 ### Job | 面试宝典
 

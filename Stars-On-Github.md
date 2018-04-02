@@ -1,37 +1,37 @@
 ### Framework | 框架
 
 <details><summary>点击查看</summary>
+  
+  - [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
-- [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 
-- [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+  - [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
-- [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-
-> 专业级的 JavaScript 测试框架。
-
+  > 专业级的 JavaScript 测试框架。
+  
 </details>
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
 <details><summary>点击查看</summary>
+  
+  - [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 
-- [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
+  > 用于 Vue.js 的桌面端 UI 框架。
 
-> 用于 Vue.js 的桌面端 UI 框架。
+  - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
 
-- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
+  > 用于 Vue.js 的移动端 UI 框架。
 
-> 用于 Vue.js 的移动端 UI 框架。
+  - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
 
-- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
+  > 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
 
-> 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
+  - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
 
-- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
-
-- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
-
+  - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
+  
 </details>
 
 ### Library | 库
@@ -39,35 +39,35 @@
 #### UI Library | UI 库
 
 <details><summary>点击查看</summary>
+  
+  - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 
-- [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
+  - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 
-- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  > 轻量级无依赖，引导用户的视觉焦点。
 
-> 轻量级无依赖，引导用户的视觉焦点。
+  - [tabler / tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4
 
-- [tabler / tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4
+  > 基于 Bootstrap 4 的后台 UI 控件库。
 
-> 基于 Bootstrap 4 的后台 UI 控件库。
+  - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
-- [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
+  - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 
-- [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
+  - [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
 
-- [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
+  - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
 
-- [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
+  - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
 
-- [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
+  - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): A lightweight, vanilla JS tooltip library
 
-- [atomiks / tippyjs](https://github.com/atomiks/tippyjs): A lightweight, vanilla JS tooltip library
+  - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
 
-- [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
+  - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
-- [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
-
-- [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-
+  - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+  
 </details>
 
 #### Upload | 上传

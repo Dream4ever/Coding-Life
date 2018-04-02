@@ -88,27 +88,19 @@
 
 #### Text Editor | 文本编辑器
 
-- [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了。
+> - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了。
 
 #### Process Manager | 进程管理
 
-- [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务。
+> - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务。
 
 #### Logging | 日志记录
 
-<details><summary>点击查看</summary>
-
-- [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): A port of log4js to node.js
-
-</details>
+> - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
 
 #### Boilerplate | Node.js WebApp 项目模板
 
-<details><summary>点击查看</summary>
-
-- [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): A boilerplate for Node.js web applications
-
-</details>
+> - [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): 用于开发 Node.js WebApp 的项目模板
 
 #### 待分类
 

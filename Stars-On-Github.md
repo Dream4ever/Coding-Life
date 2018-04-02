@@ -14,21 +14,15 @@
 
 <details><summary>点击查看</summary>
 
-- [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
+- [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架。
 
-> 用于 Vue.js 的桌面端 UI 框架。
+- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架。
 
-- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
+- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
 
-> 用于 Vue.js 的移动端 UI 框架。
+- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
 
-- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
-
-> 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
-
-- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
-
-- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
+- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
 
 </details>
 

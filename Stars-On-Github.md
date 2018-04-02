@@ -84,6 +84,8 @@
 
 #### Database & Restful API | 数据库及 Restful API
 
+<details><summary>点击查看</summary>
+
 - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
 
 > 注：很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
@@ -108,21 +110,35 @@
 
 > 简单的在线虚拟 Restful API 服务器。
 
+</details>
+
 #### Text Editor | 文本编辑器
+
+<details><summary>点击查看</summary>
 
 - [jaredreich / pell](https://github.com/jaredreich/pell): 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
 
 > 极其迷你的在线文本编辑器。不过试用了之后发现，设置过样式之后，没法再恢复原来的样式了……
 
+</details>
+
 #### Process Manager | 进程管理
+
+<details><summary>点击查看</summary>
 
 - [typicode / hotel](https://github.com/typicode/hotel): 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 
 > 在浏览器中管理 Node.js 服务。
 
+</details>
+
 #### Logging | 日志记录
 
+<details><summary>点击查看</summary>
+
 - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): A port of log4js to node.js
+
+</details>
 
 #### Boilerplate | Node.js WebApp 项目模板
 

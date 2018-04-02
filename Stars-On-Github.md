@@ -38,6 +38,8 @@
 
 #### UI Library | UI 库
 
+<details><summary>点击查看</summary>
+
 - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 
 - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -65,6 +67,8 @@
 - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
+</details>
 
 #### Upload | 上传
 

@@ -220,6 +220,8 @@
 
 - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
 
+- [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
+
 ### Blog | 大牛博客
 
 - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！

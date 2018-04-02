@@ -22,8 +22,6 @@
 
 #### UI Library | UI 库
 
-<details><summary>点击查看</summary>
-
 - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 
 - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
@@ -40,7 +38,7 @@
 
 - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
 
-- [atomiks / tippyjs](https://github.com/atomiks/tippyjs): A lightweight, vanilla JS tooltip library
+- [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
 
 - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
 
@@ -48,17 +46,13 @@
 
 - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
-</details>
-
 #### Upload | 上传
 
 <details><summary>点击查看</summary>
 
-- [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
+- [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力。
 
-> 很棒的前端上传库，文档也很给力。
-
-- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
+- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
 
 </details>
 

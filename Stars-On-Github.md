@@ -52,9 +52,9 @@
 
 #### Upload | 上传
 
-- [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力。
-
-- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
+> - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力。
+> 
+> - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
 
 #### Database & Restful API | 数据库及 Restful API
 

@@ -2,13 +2,11 @@
 
 <details><summary>点击查看</summary>
 
-- [vuejs / vue](https://github.com/vuejs/vue): 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
 
 - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 
-- [mochajs / mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-
-> 专业级的 JavaScript 测试框架。
+- [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架。
 
 </details>
 

@@ -14,6 +14,8 @@
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
+<details><summary>点击查看</summary>
+
 - [ElemeFE / element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 
 > 用于 Vue.js 的桌面端 UI 框架。
@@ -29,6 +31,8 @@
 - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): Baidu Map components for Vue 2.x
 
 - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
+
+</details>
 
 ### Library | 库
 

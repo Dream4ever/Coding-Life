@@ -1,30 +1,22 @@
 ### Framework | 框架
 
-<details><summary>点击查看</summary>
-
 - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
 
 - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 
-- [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架。
-
-</details>
+- [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
-<details><summary>点击查看</summary>
+- [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
 
-- [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架。
+- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
 
-- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架。
-
-- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用。
+- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
 
 - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
 
 - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
-
-</details>
 
 ### Library | 库
 

@@ -142,9 +142,15 @@
 
 #### Boilerplate | Node.js WebApp 项目模板
 
+<details><summary>点击查看</summary>
+
 - [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): A boilerplate for Node.js web applications
 
+</details>
+
 #### 待分类
+
+<details><summary>点击查看</summary>
 
 - [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
 
@@ -186,7 +192,11 @@
 
 > 编程字体和字体图标大合集。
 
+</details>
+
 ### Snippet | 代码片段
+
+<details><summary>点击查看</summary>
 
 - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
@@ -196,11 +206,19 @@
 
 - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
+</details>
+
 ### CheatSheet | 命令速查表
+
+<details><summary>点击查看</summary>
 
 - [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
+</details>
+
 ### Developent Tool | 开发工具
+
+<details><summary>点击查看</summary>
 
 - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
@@ -212,7 +230,11 @@
 
 > 跨平台的进程管理工具。
 
+</details>
+
 #### Debug Tool | 调试工具
+
+<details><summary>点击查看</summary>
 
 - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
@@ -220,7 +242,11 @@
 
 > 注：可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 
+</details>
+
 ### Envrionment | 环境配置
+
+<details><summary>点击查看</summary>
 
 - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
 
@@ -228,7 +254,11 @@
 
 - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
+</details>
+
 ### Job | 面试宝典
+
+<details><summary>点击查看</summary>
 
 - [h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -244,7 +274,11 @@
 
 > 一份经过筛选、整理、分类的前端知识清单，值得学习。
 
+</details>
+
 ### Knowledge | 知识学习
+
+<details><summary>点击查看</summary>
 
 - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
 
@@ -254,7 +288,11 @@
 
 - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
 
+</details>
+
 ### Blog | 大牛博客
+
+<details><summary>点击查看</summary>
 
 - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
@@ -272,7 +310,11 @@
 
 - [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
 
+</details>
+
 ### Awesome List | 奇妙清单
+
+<details><summary>点击查看</summary>
 
 - [Topic: awesome | GitHub](https://github.com/topics/awesome): Awesome lists
 
@@ -304,7 +346,11 @@
 
 - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
+</details>
+
 ### Tutorial | 教程
+
+<details><summary>点击查看</summary>
 
 - [llh911001 / mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese): JS 函数式编程指南中文版
 
@@ -322,7 +368,11 @@
 
 - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
+</details>
+
 ### Style Guide | 代码规范
+
+<details><summary>点击查看</summary>
 
 - [standard / standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
@@ -332,7 +382,11 @@
 
 - [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （注：项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
 
+</details>
+
 ### Project | 实际项目
+
+<details><summary>点击查看</summary>
 
 - [cnodejs / nodeclub](https://github.com/cnodejs/nodeclub): 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 
@@ -344,19 +398,35 @@
 
 - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 
+</details>
+
 ### Tip | 操作技巧
+
+<details><summary>点击查看</summary>
 
 - [Microsoft / vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code.
 
+</details>
+
 ### General Education | 综合素养
+
+<details><summary>点击查看</summary>
 
 - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
 
+</details>
+
 ### System Enhancement | 系统工具
+
+<details><summary>点击查看</summary>
 
 - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
+</details>
+
 ### Misc | 其它
+
+<details><summary>点击查看</summary>
 
 - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 
@@ -381,3 +451,5 @@
 - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 
 - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
+
+</details>

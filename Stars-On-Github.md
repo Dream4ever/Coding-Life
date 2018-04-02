@@ -34,13 +34,9 @@
 
 - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 
-- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
 
-> 轻量级无依赖，引导用户的视觉焦点。
-
-- [tabler / tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4
-
-> 基于 Bootstrap 4 的后台 UI 控件库。
+- [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
 
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
@@ -80,7 +76,7 @@
 
 - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
 
-> 注：很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
+> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
 
 - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 
@@ -228,11 +224,11 @@
 
 <details><summary>点击查看</summary>
 
-- [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
+- [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持 HTTP/HTTPS，无需USB连接设备。
 
 - [liriliri / eruda](https://github.com/liriliri/eruda): Console for mobile browsers
 
-> 注：可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
+> 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 
 </details>
 
@@ -292,7 +288,7 @@
 
 - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 
-- [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列: JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
 - [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 
@@ -370,9 +366,9 @@
 
 - [airbnb / javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 
-- [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 🀄️ Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
+- [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 中文文案排版指北（简体中文版）
 
-- [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （注：项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
+- [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
 
 </details>
 

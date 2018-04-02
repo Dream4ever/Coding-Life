@@ -212,13 +212,11 @@
 
 [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/)
 
-#### 回调
-
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
-[JavaScript：彻底理解同步、异步和事件循环(Event Loop)](https://segmentfault.com/a/1190000004322358)
-
 #### 异步
+
+[JavaScript：彻底理解同步、异步和事件循环(Event Loop)](https://segmentfault.com/a/1190000004322358)
 
 [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
 

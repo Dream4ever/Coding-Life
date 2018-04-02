@@ -52,7 +52,7 @@
 
 #### Upload | 上传
 
-> - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力。
+> - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 > 
 > - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
 
@@ -88,11 +88,11 @@
 
 #### Text Editor | 文本编辑器
 
-> - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了。
+> - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 
 #### Process Manager | 进程管理
 
-> - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务。
+> - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
 
 #### Logging | 日志记录
 

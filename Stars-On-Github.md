@@ -88,23 +88,11 @@
 
 #### Text Editor | 文本编辑器
 
-<details><summary>点击查看</summary>
-
-- [jaredreich / pell](https://github.com/jaredreich/pell): 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
-
-> 极其迷你的在线文本编辑器。不过试用了之后发现，设置过样式之后，没法再恢复原来的样式了……
-
-</details>
+- [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了。
 
 #### Process Manager | 进程管理
 
-<details><summary>点击查看</summary>
-
-- [typicode / hotel](https://github.com/typicode/hotel): 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
-
-> 在浏览器中管理 Node.js 服务。
-
-</details>
+- [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务。
 
 #### Logging | 日志记录
 

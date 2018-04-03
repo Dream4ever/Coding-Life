@@ -70,6 +70,8 @@
 
 [网站自动登陆是前端控制还是后端？](https://segmentfault.com/q/1010000011138123)
 
+[前后端分离的思考与实践（一）](http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/)
+
 ## 编码规范
 
 [代码质量管理——如何写出优雅地代码](https://segmentfault.com/a/1190000013397521)：综合了网上的文章和作者个人的观点，有理论，有示例，不错不错。

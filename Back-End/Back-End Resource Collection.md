@@ -105,38 +105,6 @@ ViewBag.Id = Id;
 
 [the-best-way-to-learn-aspnet--net-22404](https://code.tutsplus.com/tutorials/the-best-way-to-learn-aspnet--net-22404)，讲述ASP.NET的学习路线，推荐了几本书籍和大体的学习方法。
 
-#### WebAPI
-
-2018年1月8日新增
-
-[前后端分离的思考与实践（一）](http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/)
-
-[Getting Started with ASP.NET Web API 2 (C#)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
-
-Google: `前端vue 后端asp.net`
-
-[asp.net mvc 项目中怎么用react redux,vue 等前端框架？](https://www.zhihu.com/question/57766078)
-
-[ASP.NET Core + Vue.js 开发记录系列文章](http://www.wangziwen.vip/2017/11/04/aspnet-core-vuejs-kf01/)
-
-[Is Node.js declining already?](https://www.quora.com/Is-Node-js-declining-already)
-
----
-
-[C#开发REST WEB API有哪些方法？](https://segmentfault.com/q/1010000011128866)
-
-[ASP.NET Web API 2 - MSDN](https://msdn.microsoft.com/en-us/library/dn448365%28v=vs.118%29.aspx?f=255&MSPPError=-2147217396)
-
-[ASP.NET MVC Web API Post FromBody（Web API 如何正确 Post）](http://www.cnblogs.com/xishuai/p/aspnet_mvc_web_api_httpclient_json_frombody_post.html)
-
-[WebApi中使用 Asp.Net Identity 进行身份认证](http://ymhou.github.io/2016/07/02/WebApi-use-Asp-Net-Identity/)
-
-[ASP.NET Web API 入门实战系列](http://ymhou.github.io/2016/09/10/aspnet-webapi-1/)：从基本的EF数据库的创建，到API的自动生成，以及最后的单页应用示例，基础的部分都简单介绍了一下，适合入门。
-
-#### 微信SDK
-
-[微信公众平台SDK Senparc.Weixin for C#](https://github.com/JeffreySu/WeiXinMPSDK)
-
 #### 性能优化
 
 [提高 ASP.NET Web 应用性能的 24 种方法和技巧](https://segmentfault.com/a/1190000004352989)：讲的都是具体的技术实现方面的细节。

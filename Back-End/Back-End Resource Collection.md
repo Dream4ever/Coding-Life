@@ -159,6 +159,8 @@ Google: `前端vue 后端asp.net`
 
 [【目标不加班】善用API统一描述语言提升RestAPI开发效率](https://segmentfault.com/a/1190000010910896)
 
+[我所理解的接口设计](https://segmentfault.com/a/1190000013703264)：正文和回复都干货满满，都是实际的业务经验。
+
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
 
 ## IDE

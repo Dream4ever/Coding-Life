@@ -200,6 +200,12 @@
 
 [一道js的面试题，有点凌乱](https://segmentfault.com/q/1010000013031010)：考察函数和 `this` 关键字方面的知识点。
 
+#### 函数式
+
+[JavaScript函数式编程（一）](https://zhuanlan.zhihu.com/p/21714695)：该系列一共三篇文章。
+
+[Ramda 中文论坛 - 热门主题](http://functional-programming.cn/top/all)
+
 #### 正则
 
 [JavaScript 正则表达式匹配汉字](https://zhuanlan.zhihu.com/p/33335629)

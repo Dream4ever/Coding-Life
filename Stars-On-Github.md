@@ -4,6 +4,8 @@
 > 
 > - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 > 
+> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+> 
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
@@ -31,6 +33,10 @@
 - [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
 
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
+
+- [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
+
+> 用 JS 实现之前通过 CSS 才能实现的 Web 动画
 
 - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 
@@ -127,6 +133,10 @@
 > 字符串校验。
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
+
+- [jackspirou / clientjs](https://github.com/jackspirou/clientjs): Device information and digital fingerprinting written in pure JavaScript.
+
+> 根据设备信息生成数字水印。
 
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
 

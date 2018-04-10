@@ -38,6 +38,10 @@
 
 > 用 JS 实现之前通过 CSS 才能实现的 Web 动画
 
+- [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.
+
+> 各种各样的加载动画。
+
 - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 
 - [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library

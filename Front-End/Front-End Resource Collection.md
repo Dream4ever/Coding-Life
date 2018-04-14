@@ -504,7 +504,7 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 ### 真机调试
 
-Google: `安卓 微信 调试`
+Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [Android手机上Webview页面以及微信/QQ浏览器真机调试](https://www.jianshu.com/p/a06b5b8dc6b2)：介绍了使用Chrome和TBS Studio分别进行真机调试的方法。
 

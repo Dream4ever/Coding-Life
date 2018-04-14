@@ -498,6 +498,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [了解真实的『REM』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md) 
 
+### 视频播放
+
+[视频H5 video标签最佳实践](https://segmentfault.com/a/1190000009395289)
+
 ### 真机调试
 
 Google: `安卓 微信 调试`

@@ -204,6 +204,10 @@
 
 [JavaScript函数式编程（一）](https://zhuanlan.zhihu.com/p/21714695)：该系列一共三篇文章。
 
+[Ramda 函数库参考教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
+
+[Pointfree 编程风格指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)
+
 [Ramda 中文论坛 - 热门主题](http://functional-programming.cn/top/all)
 
 [Ramda 中文官网](http://ramda.cn/)

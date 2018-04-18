@@ -228,6 +228,12 @@
 
 </details>
 
+### Roadmap | 路径指引
+
+> - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
+> 
+> - [FrontendMasters / front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018): 2018 edition of our front-end development handbook
+
 ### Job | 面试宝典
 
 <details><summary>点击查看</summary>
@@ -251,8 +257,6 @@
 ### Knowledge | 知识学习
 
 <details><summary>点击查看</summary>
-
-- [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
 
 - [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript. @YDKJS on twitter.
 
@@ -292,7 +296,7 @@
 
 > 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
 
-- [matiassingers / awesome-readme](): A curated list of awesome READMEs
+- [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): A curated list of awesome READMEs
 
 > 各种 awesome 的 README，不来看一下嘛？
 

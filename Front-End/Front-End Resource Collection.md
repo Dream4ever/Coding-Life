@@ -264,8 +264,6 @@ Google: `promise async await example`
 
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-[JavaScript Standard Style](https://github.com/standard/standard)
-
 [Methodology / BEM](https://en.bem.info/methodology/)
 
 [Top 10 bugs and their bug fixing](https://www.kuoll.com/top-10-bugs-and-their-bug-fixing/)：JS 中 10 种常见的 bug 及对应的修复方式，涨姿势了。
@@ -286,7 +284,7 @@ Google: front-end code standards & best practice
 
 ### Jquery
 
-[Effective Event Binding with jQuery](https://www.sitepoint.com/effective-event-binding-jquery/)：简单高效地实现jQuery中的事件绑定，实在太特么酷了！
+[Effective Event Binding with jQuery](https://www.sitepoint.com/effective-event-binding-jquery/)：简单高效地实现jQuery中的事件绑定，实在太特么酷了！虽然 jQuery 已经逐渐式微，但是优秀的编程思想是永远不会过时的。
 
 ### Vue
 
@@ -298,8 +296,6 @@ Google: front-end code standards & best practice
 
 [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)
 
-[饿了么Element：网站快速成型工具](http://element.eleme.io/#/zh-CN)
-
 [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](http://www.vue-js.com/topic/58abbd21a9c1282817afc28d)
 
 [Vue2 后台管理系统解决方案](http://www.vue-js.com/topic/58bd2e52b011a6b41c025faa)
@@ -308,19 +304,13 @@ Google: front-end code standards & best practice
 
 [Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)：剖析源码的思路值得学习。
 
-### 其它框架
-
-[Weex - 移动端跨平台UI框架](https://github.com/alibaba/weex)
-
-关键字：移动端组件库
-
 ### 框架优选
 
 [去哪儿网前端架构师司徒正美：如何挑选适合的前端框架？](http://blog.csdn.net/kevin_1025745654/article/details/45815109)
 
 [如果要用前端框架，开发流程是怎样的？](https://segmentfault.com/q/1010000004221774)：首答干货十足
 
-[前端UI框架集合](https://segmentfault.com/a/1190000007699297)
+[UI大全：前端UI框架集合（持续更新）](https://wdd.js.org/all-best-ui-frame.html)
 
 ## 业务实战
 
@@ -354,6 +344,8 @@ Google: front-end code standards & best practice
 
 [validator.js](https://github.com/chriso/validator.js)
 
+[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)：表单校验
+
 #### 表单验证
 
 [探索两种优雅的表单验证——策略设计模式和ES6的Proxy代理模式](https://github.com/jawil/blog/issues/19)
@@ -371,6 +363,8 @@ Google: front-end code standards & best practice
 [JavaScript复制内容到剪贴板](https://segmentfault.com/a/1190000013412206)
 
 #### 视频播放
+
+[视频H5 video标签最佳实践](https://segmentfault.com/a/1190000009395289)
 
 [播放器插件videojs在ie8下无法播放？](https://segmentfault.com/q/1010000002972281)
 
@@ -394,9 +388,9 @@ Github 关键字：danmu
 
 [Enable/Disable fullscreen option video.js HTML5](https://stackoverflow.com/a/47205072/2667665)：Video.js 插件，检测视频是否全屏播放，是的话则自动退出全屏。
 
-#### 图片加载
+#### 图片懒加载
 
-Google 关键字：medium image lazy load，实现medium依次加载模糊图和高清图的效果。
+Google 关键字：`medium image lazy load`，实现medium依次加载模糊图和高清图的效果。
 
 #### 文件上传
 
@@ -412,13 +406,13 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 #### 检测移动端的 User Agent
 
-[What is the best way to detect a mobile device in jQuery?](https://stackoverflow.com/a/24600597/2667665)：链接里的回答是原生JS实现的方法，没有用到ES6，所有浏览器均支持。
+[What is the best way to detect a mobile device in jQuery?](https://stackoverflow.com/a/24600597/2667665)：链接里的回答是原生JS实现的方法，没有用到ES6，所有浏览器均支持。一行代码 `/Mobi/i.test(navigator.userAgent) || /Android/i.test(navigator.userAgent)` 解决所有烦恼。
 
 #### Cookies
 
 [Session-only cookies](http://www.javascriptkit.com/javatutors/cookie.shtml)：设置 session-only cookies，使其在浏览器关闭后自动清除。
 
-[Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试在 IE 下可用。一行代码 `/Mobi/i.test(navigator.userAgent) || /Android/i.test(navigator.userAgent)` 解决所有烦恼。
+[Cookie Handling Routines in JavaScript](https://www.braemoor.co.uk/software/cookies.shtml)：封装了几个操作 cookies 的函数，经测试兼容 IE。
 
 #### 获取元素当前的 transform 属性值
 
@@ -444,9 +438,11 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 #### 微信分享
 
+[微信 JS-SDK 接口调用](https://www.notion.so/JS-SDK-bc9476626d9b471aa4a71c0e5f55c0dc)
+
 [微信自定义分享链接信息](https://www.jianshu.com/p/b428bcbbce09)：根据文章中的说法，分享出去的链接，标题就是网页中的 `title` 属性；描述则必须通过微信 JS-SDK 自定义，并不会读取网页中的 `description` 属性；图片为网页中的第一张尺寸至少为 `300*300` 的图片，这张图片可以设置为 `display: none`，这样就只用于分享时显示，并不在页面中显示。
 
-[微信 JS-SDK：获取“分享给朋友”按钮点击状态及自定义分享内容接口](https://mp.weixin.qq.com/wiki?action=doc&id=mp1421141115&t=0.3213874055726007#12)
+[微信 JS-SDK：获取“分享给朋友”按钮点击状态及自定义分享内容接口](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
 
 #### 唤起 APP
 
@@ -486,6 +482,10 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 ### 页面适配
 
+[茴字的四种写法—移动适配方案的进化](https://segmentfault.com/a/1190000014309664)
+
+[如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
+
 [一篇真正教会你开发移动端页面的文章(二)](http://hcysun.me/2015/10/19/%E4%B8%80%E7%AF%87%E7%9C%9F%E6%AD%A3%E6%95%99%E4%BC%9A%E4%BD%A0%E5%BC%80%E5%8F%91%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%96%87%E7%AB%A0-%E4%BA%8C/)
 
 [从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
@@ -502,10 +502,6 @@ Google 关键字：medium image lazy load，实现medium依次加载模糊图和
 
 [了解真实的『REM』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md) 
 
-### 视频播放
-
-[视频H5 video标签最佳实践](https://segmentfault.com/a/1190000009395289)
-
 ### 真机调试
 
 Google: `安卓 微信 调试` 或者 `前端 真机 调试`
@@ -518,29 +514,17 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)：部分定位的布局实现，fixed与input，iOS非直接输入相关
 
-[移动端视频播放 - Prismplayer - 阿里云](https://help.aliyun.com/document_detail/43549.html?spm=5176.doc42441.2.3.Sw5Llz)
-
 [移动端页面、图片合理宽度](https://www.zhihu.com/question/22938382)
 
-### Spirit - 腾讯移动Web整体解决方案
+### 开发规范
 
-[Spirit](http://alloyteam.github.io/Spirit/)
-
-- [移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
-
-- [JM(JavaScript Mobile) | Spirit](http://alloyteam.github.io/Spirit/modules/JM/index.html)
-
-- [JMUI(Based on JM) | Spirit](http://alloyteam.github.io/Spirit/modules/JMUI/demo.html)
-
-[移动WEB调试利器 Rosin | Spirit](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
+[移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
 
 ## 前端工程化
 
 [技术周刊 Vol.3 - 前后端分离与前端工程化](https://segmentfault.com/a/1190000006751300)
 
 [前端自动化测试探索](http://fex.baidu.com/blog/2015/07/front-end-test/)：介绍了前端自动化测试的相关工具，干货满满。
-
-[谈谈前端异常捕获与上报](https://segmentfault.com/a/1190000013983109)
 
 ### Webpack
 
@@ -566,8 +550,6 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [推荐轻量高效无依赖的开源JS插件和库](https://segmentfault.com/a/1190000007656902)
 
-[jQuery插件库](http://www.jq22.com/)
-
 [打造自己的JS库](https://segmentfault.com/a/1190000011966867)：后面还讲到了如何将自己编写的库封装、测试、发布、调用。
 
 ### Table
@@ -578,23 +560,23 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [List.js](https://github.com/javve/list.js)：开源插件，UI看着稍微差一点。
 
-### LightBox
-
-[fancyapps/fancybox](https://github.com/fancyapps/fancybox)
-
-### Carousel
+### Carousel | 轮播图
 
 [kenwheeler/slick: the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 
 [jedrzejchalubek/glidejs: responsive and touch-friendly jQuery slider](https://github.com/jedrzejchalubek/glidejs)：在实际项目应用中，上面的 slick 略有瑕疵，最终采用的是这个 Glide。
 
-### Gallery
+### LightBox | Gallery
 
-Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流……
+其实和下面的照片墙区别不大……还有后面的瀑布流……
+
+[fancyapps/fancybox](https://github.com/fancyapps/fancybox)：图片浏览插件，点击小图后，整页覆盖暗色蒙版并显示完整大图。
 
 [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/photoswipe)：点击缩略图可显示大图，功能很完善。
 
 [magnific-popup](https://github.com/dimsemenov/Magnific-Popup)：上面的 PhotoSwipe 的迷你版本。
+
+### Gallery
 
 ### 照片墙
 
@@ -618,10 +600,6 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [Lazy Load, 延迟加载图片的 jQuery 插件](https://segmentfault.com/a/1190000002611330)
 
-### Validator
-
-[WLDragon/SMValidator](https://github.com/WLDragon/SMValidator)
-
 ### Progress Bar
 
 [NProgress.js](http://ricostacruz.com/nprogress/)
@@ -630,7 +608,9 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [网页加载的进度条是什么原理？用javascript做。](https://segmentfault.com/q/1010000002673409)
 
-### error monitoring and analytics
+### 错误 | 异常监控
+
+[谈谈前端异常捕获与上报](https://segmentfault.com/a/1190000013983109)
 
 [Rollbar - Error Tracking](https://rollbar.com/)
 

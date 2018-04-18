@@ -534,6 +534,8 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [webpack多页应用架构系列（一）：一步一步解决架构痛点](https://segmentfault.com/a/1190000006843916)
 
+[借助webpack对项目进行分析优化](https://segmentfault.com/a/1190000014369413)：很实用！
+
 ### 接口测试
 
 [RAP](https://github.com/thx/RAP)：阿里巴巴团队的Web接口管理工具

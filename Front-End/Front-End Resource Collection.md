@@ -646,19 +646,7 @@ Gallery 其实和下面的照片墙区别不大……还有后面的瀑布流…
 
 [Behance](https://www.behance.net/)
 
-[vux](https://github.com/airyland/vux)：基于 Vue & WeUI 的移动端 UI 组件库
-
-[Element](https://github.com/ElemeFE/element)：Vue PC 端 UI 组件库
-
-[Mint UI](https://github.com/ElemeFE/mint-ui)：Vue 移动端 UI 组件库
-
 [前端UI框架小汇总](http://www.cnblogs.com/aaron-pan/p/8018473.html)：总结得非常全面，点个赞！
-
-[Froala Design Blocks](https://www.froala.com/design-blocks)：基于Bootstrap的响应式设计样例大合集。
-
-[jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)
-
-[uxcore - React UI Component Set](http://uxco.re/)：应用于企业级后台，前台应该也可以。
 
 [Fontello - icon font scissors](https://github.com/fontello/fontello)：字体图标大合集，包含Font Awesome、Iconic等常见的字体图标，只需选择想要的图标，然后就可打包下载，按需使用。
 

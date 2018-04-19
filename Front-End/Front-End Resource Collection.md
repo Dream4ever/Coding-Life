@@ -304,6 +304,16 @@ Google: front-end code standards & best practice
 
 [Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)：剖析源码的思路值得学习。
 
+#### 用法学习
+
+[Vue + Element UI实现简单的表格行内编辑效果](https://www.jianshu.com/p/79f39f2c1382)
+
+[优雅的使用 element-ui 中的 table 组件](https://juejin.im/post/5a100d09f265da4324800807)
+
+[Egrid - 基于 element-ui Table 封装的高阶表格组件](https://nlush.com/egrid/#/)
+
+[【轮子】Element UI 的Form, Table, Pagination组件封装来一波](https://zhuanlan.zhihu.com/p/31990840)
+
 ### 框架优选
 
 [去哪儿网前端架构师司徒正美：如何挑选适合的前端框架？](http://blog.csdn.net/kevin_1025745654/article/details/45815109)

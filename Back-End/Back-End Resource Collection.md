@@ -36,6 +36,14 @@
 
 ### Node.JS
 
+#### 知识学习
+
+[【全文】狼叔：如何正确的学习Node.js](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)：知乎 Live 文字稿
+
+[迷茫时学习Node.js最好的方法](https://cnodejs.org/topic/59c75a3dd7cbefc511964688)：狼叔指点 Node.js 的学习方法，适合于初级阶段
+
+[高可用架构专用《全栈工程师之路-Node.js》](https://github.com/i5ting/nodejs-fullstack)
+
 #### 编码规范
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)

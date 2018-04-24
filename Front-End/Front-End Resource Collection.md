@@ -294,6 +294,8 @@ Google: front-end code standards & best practice
 
 [Vue.js新手教学 | 如何写一个Checklist组件](https://segmentfault.com/a/1190000012161495)
 
+[Vue.js最佳实践（五招让你成为Vue.js大师）](https://segmentfault.com/a/1190000014085613)：格力，掌握核心科技
+
 [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)
 
 [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](http://www.vue-js.com/topic/58abbd21a9c1282817afc28d)

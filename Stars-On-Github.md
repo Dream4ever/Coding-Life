@@ -10,15 +10,15 @@
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
-> - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
-> 
-> - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
-> 
-> - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
-> 
-> - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
-> 
-> - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
+- [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
+
+- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
+
+- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
+
+- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
+
+- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
 
 ### Library | 库
 
@@ -62,9 +62,9 @@
 
 #### Upload | 上传
 
-> - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
-> 
-> - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
+- [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
+
+- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
 
 #### Database & Restful API | 数据库及 Restful API
 
@@ -98,19 +98,19 @@
 
 #### Text Editor | 文本编辑器
 
-> - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
+- [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 
 #### Process Manager | 进程管理
 
-> - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
+- [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
 
 #### Logging | 日志记录
 
-> - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
+- [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
 
 #### Boilerplate | Node.js WebApp 项目模板
 
-> - [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): 用于开发 Node.js WebApp 的项目模板
+- [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): 用于开发 Node.js WebApp 的项目模板
 
 #### 待分类
 
@@ -230,9 +230,9 @@
 
 ### Roadmap | 路径指引
 
-> - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
-> 
-> - [FrontendMasters / front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018): 2018 edition of our front-end development handbook
+- [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
+
+- [FrontendMasters / front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018): 2018 edition of our front-end development handbook
 
 ### Job | 面试宝典
 

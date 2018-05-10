@@ -66,13 +66,9 @@
 
 - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 
-#### Database & Restful API | 数据库及 Restful API
+#### Restful API
 
 <details><summary>点击查看</summary>
-
-- [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
-
-> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
 
 - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 
@@ -82,10 +78,6 @@
 
 > GraphQL 的 JS 版本。
 
-- [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
-
-> 小巧的 JSON 数据库。
-
 - [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 > 极速生成虚拟的 Restful API。
@@ -93,6 +85,24 @@
 - [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
 
 > 简单的在线虚拟 Restful API 服务器。
+
+</details>
+
+#### Database & File System  | 数据库及文件系统
+
+<details><summary>点击查看</summary>
+
+> - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
+> 
+> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
+> 
+> - [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+> 
+> 小巧的 JSON 数据库。
+> 
+> - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+> 
+> 用 Go 搭建的，可轻松扩展的分布式文件系统。
 
 </details>
 

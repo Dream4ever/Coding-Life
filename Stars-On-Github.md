@@ -192,8 +192,6 @@
 
 - [terkelg / prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
-- [QingWei-Li / docsify](https://github.com/QingWei-Li/docsify): 🃏 A magical documentation site generator.
-
 - [benjamine / jsondiffpatch](https://github.com/benjamine/jsondiffpatch): Diff & patch JavaScript objects
 
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）

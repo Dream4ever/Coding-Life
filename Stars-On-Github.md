@@ -98,15 +98,15 @@
 
 #### Media | 多媒体
 
-- [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
-
+> - [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
+> 
 > 用于播放 HLS 源的 JS 前端库。
-
-- [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 🍭 Wow, such a beautiful HTML5 music player
-
+> 
+> - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 🍭 Wow, such a beautiful HTML5 music player
+> 
 > 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
-
-- [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+> 
+> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
 #### Text Editor | 文本编辑器
 

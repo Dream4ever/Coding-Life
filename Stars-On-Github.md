@@ -1,12 +1,12 @@
 ### Framework | 框架
 
-> - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
-> 
-> - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-> 
-> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
-> 
-> - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
+- [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
+
+- [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+
+- [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+
+- [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 

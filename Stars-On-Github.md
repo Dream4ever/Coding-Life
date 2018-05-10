@@ -22,7 +22,7 @@
 
 ### Library | 库
 
-#### UI Library | UI 库
+#### UI | UI
 
 <details><summary>点击查看</summary>
 
@@ -36,7 +36,7 @@
 
 - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
 
-> 用 JS 实现之前通过 CSS 才能实现的 Web 动画
+> 用 JS 实现以前只有 CSS 才能实现的 Web 动画。
 
 - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.
 
@@ -64,7 +64,7 @@
 
 - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 
-- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): 用于 Express 的文件上传中间件
+- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 
 #### Database & Restful API | 数据库及 Restful API
 
@@ -95,6 +95,18 @@
 > 简单的在线虚拟 Restful API 服务器。
 
 </details>
+
+#### Media | 多媒体
+
+- [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
+
+> 用于播放 HLS 源的 JS 前端库。
+
+- [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 🍭 Wow, such a beautiful HTML5 music player
+
+> 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
+
+- [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
 #### Text Editor | 文本编辑器
 
@@ -153,12 +165,6 @@
 - [benjamine / jsondiffpatch](https://github.com/benjamine/jsondiffpatch): Diff & patch JavaScript objects
 
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
-
-- [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
-
-> 用于播放 HLS 源的 JS 前端库。
-
-- [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
 - [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
 

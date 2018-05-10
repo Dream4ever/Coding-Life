@@ -34,6 +34,8 @@
 
 - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 
+- [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 🍞📅A JavaScript calendar that everything you need.
+
 - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
 
 > 用 JS 实现以前只有 CSS 才能实现的 Web 动画。
@@ -52,7 +54,11 @@
 
 - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
 
+- [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
+
 - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
+
+- [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
 
 - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
@@ -66,11 +72,13 @@
 
 - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 
-#### Restful API
+#### Restful API & ORM
 
 <details><summary>点击查看</summary>
 
 - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
+
+- [tgriesser / knex](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 - [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
 
@@ -108,6 +116,8 @@
 
 #### Media | 多媒体
 
+<details><summary>点击查看</summary>
+
 > - [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
 > 
 > 用于播放 HLS 源的 JS 前端库。
@@ -118,6 +128,8 @@
 > 
 > - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
+</details>
+
 #### Text Editor | 文本编辑器
 
 - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
@@ -125,6 +137,12 @@
 #### Process Manager | 进程管理
 
 - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
+
+- [marklagendijk / node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup): Utility to make PM2 automatically resurrect on Windows startup
+
+- [Tjatse / pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
+
+- [yyx990803 / pod](https://github.com/yyx990803/pod): Git push deploy for Node.js
 
 #### Logging | 日志记录
 
@@ -141,6 +159,10 @@
 - [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
 
 > node-modules 出品，汇总了一些常用的小工具。
+
+- [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
+
+- [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 
 - [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 
@@ -280,6 +302,8 @@
 
 - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
 
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+
 </details>
 
 ### Blog | 大牛博客
@@ -329,6 +353,12 @@
 - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 
 - [aben1188 / awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
+
+- [sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): ⚡️ Delightful Node.js packages and resources
+
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
+
+- [github / gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 
 - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
 
@@ -425,6 +455,8 @@
 - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
 
 - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
+
+- [RelaxedJS / ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 
 - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 

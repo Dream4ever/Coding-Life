@@ -182,6 +182,8 @@
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
 
+- [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
+
 - [jackspirou / clientjs](https://github.com/jackspirou/clientjs): Device information and digital fingerprinting written in pure JavaScript.
 
 > 根据设备信息生成数字水印。

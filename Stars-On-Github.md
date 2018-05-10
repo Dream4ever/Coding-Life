@@ -474,6 +474,8 @@
 
 - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 
+- [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: Generate an image of all your Github contributions
+
 - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 
 - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱

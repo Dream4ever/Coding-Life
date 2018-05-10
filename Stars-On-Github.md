@@ -354,6 +354,8 @@
 
 - [aben1188 / awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 
+- [justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 💯
+
 - [sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): ⚡️ Delightful Node.js packages and resources
 
 - [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱

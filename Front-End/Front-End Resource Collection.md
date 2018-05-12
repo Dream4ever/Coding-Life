@@ -468,6 +468,10 @@ Google 关键字：`medium image lazy load`，实现medium依次加载模糊图�
 
 [Dynamically add css to page via javascript](https://stackoverflow.com/a/13883978/2667665)：通过原生JS动态加载内联CSS或CSS文件。
 
+#### 全屏滚动/单页滚动
+
+[手写原生 ES6 的全屏滚动/单页滚动插件](https://segmentfault.com/a/1190000014683917)
+
 #### 组件化/模块化/业务分层
 
 [这样的vue组件如何更加优雅?](https://segmentfault.com/q/1010000011330728)

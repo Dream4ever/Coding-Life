@@ -494,6 +494,10 @@ Google 关键字：`medium image lazy load`，实现medium依次加载模糊图�
 
 [性能魔方mmTrix](http://www.mmtrix.com/index)
 
+### 服务端渲染
+
+[一个变相的服务端渲染系统](https://juejin.im/post/59cf4eb65188256aa423c36c)：通过 Puppeteer 模拟真实浏览器的请求，将服务端渲染后的页面返回给前端，一个很棒的思路。
+
 ## 移动开发
 
 ### 页面适配

@@ -4,7 +4,7 @@
 > 
 > - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 > 
-> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 > 
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
@@ -34,15 +34,11 @@
 > 
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 > 
-> - [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 🍞📅A JavaScript calendar that everything you need.
+> - [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 功能极其全面的 JS 日历库
 > 
-> - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
+> - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js):  用 JS 实现以前只有 CSS 才能实现的 Web 动画
 > 
-> 用 JS 实现以前只有 CSS 才能实现的 Web 动画。
-> 
-> - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.
-> 
-> 各种各样的加载动画。
+> - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): 各种各样的加载动画
 > 
 > - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 > 
@@ -68,19 +64,13 @@
 
 #### Upload | 上传
 
-> - [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
+> - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 > 
-> 很棒的前端上传库，文档也很给力
-> 
-> - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
-> 
-> Express 的文件上传中间件
+> - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 
 #### Comment | 评论
 
-> - [utterance / utterances](https://github.com/utterance/utterances): 🔮 A lightweight comments widget built on GitHub issues
-> 
-> 借助 GitHub issues 实现评论功能。
+> - [utterance / utterances](https://github.com/utterance/utterances): 借助 GitHub issues 实现评论功能
 
 #### Restful API & ORM
 
@@ -92,17 +82,11 @@
 
 - [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
 
-- [graphql / graphql-js](https://github.com/graphql/graphql-js): A reference implementation of GraphQL for JavaScript
+- [graphql / graphql-js](https://github.com/graphql/graphql-js): GraphQL 的 JS 版本
 
-> GraphQL 的 JS 版本。
+- [typicode / json-server](https://github.com/typicode/json-server): 极速生成虚拟的 Restful API
 
-- [typicode / json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
-> 极速生成虚拟的 Restful API。
-
-- [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): A simple online fake REST API server
-
-> 简单的在线虚拟 Restful API 服务器。
+- [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): 简单的在线 Restful API 服务器
 
 </details>
 
@@ -114,13 +98,9 @@
 > 
 > 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
 > 
-> - [typicode / lowdb](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+> - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库
 > 
-> 小巧的 JSON 数据库。
-> 
-> - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
-> 
-> 用 Go 搭建的，可轻松扩展的分布式文件系统。
+> - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
 </details>
 
@@ -128,15 +108,11 @@
 
 <details><summary>点击查看</summary>
 
-> - [video-dev / hls.js](https://github.com/video-dev/hls.js): JavaScript HLS client using Media Source Extension
+> - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库。
 > 
-> 用于播放 HLS 源的 JS 前端库。
+> - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
 > 
-> - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 🍭 Wow, such a beautiful HTML5 music player
-> 
-> 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
-> 
-> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
 </details>
 
@@ -166,37 +142,27 @@
 
 <details><summary>点击查看</summary>
 
-- [node-modules / utility](https://github.com/node-modules/utility): A collection of useful utilities.
-
-> node-modules 出品，汇总了一些常用的小工具。
+- [node-modules / utility](https://github.com/node-modules/utility): node-modules 出品，汇总了一些常用的小工具。
 
 - [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 
 - [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 
-- [stalniy / casl](https://github.com/stalniy/casl): CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+- [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库。
 
-> 实现权限控制的 JS 库。
-
-- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): Generate RFC-compliant UUIDs in JavaScript
-
-> 生成 UUID。
+- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID。
 
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
 - [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
 
-- [chriso / validator.js](https://github.com/chriso/validator.js): String validation
-
-> 字符串校验。
+- [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验。
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
 
 - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
-- [jackspirou / clientjs](https://github.com/jackspirou/clientjs): Device information and digital fingerprinting written in pure JavaScript.
-
-> 根据设备信息生成数字水印。
+- [jackspirou / clientjs](https://github.com/jackspirou/clientjs): 根据设备信息生成数字水印。
 
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
 
@@ -208,9 +174,7 @@
 
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 
-- [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
-
-> 编程字体和字体图标大合集。
+- [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集
 
 </details>
 
@@ -246,9 +210,7 @@
 
 - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 
-- [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): Fabulously kill processes. Cross-platform.
-
-> 跨平台的进程管理工具。
+- [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具。
 
 </details>
 
@@ -258,9 +220,7 @@
 
 - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持 HTTP/HTTPS，无需USB连接设备。
 
-- [liriliri / eruda](https://github.com/liriliri/eruda): Console for mobile browsers
-
-> 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
+- [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 
 </details>
 
@@ -296,9 +256,7 @@
 
 - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~
 
-- [Liyuk / Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers): It's not just interview questions, it's an engineer's career path.
-
-> 一份经过筛选、整理、分类的前端知识清单，值得学习。
+- [Liyuk / Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers): 一份经过筛选、整理、分类的前端知识清单，值得学习。
 
 </details>
 
@@ -342,17 +300,11 @@
 
 <details><summary>点击查看</summary>
 
-- [Topic: awesome | GitHub](https://github.com/topics/awesome): Awesome lists
+- [Topic: awesome | GitHub](https://github.com/topics/awesome): 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
 
-> 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
+- [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): 各种 awesome 的 README，不来看一下嘛？
 
-- [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): A curated list of awesome READMEs
-
-> 各种 awesome 的 README，不来看一下嘛？
-
-- [mezod / awesome-indie](https://github.com/mezod/awesome-indie): Resources for independent developers to make money
-
-> 发家致富，迎娶白富美，走上人生巅峰，就靠它了！
+- [mezod / awesome-indie](https://github.com/mezod/awesome-indie): 发家致富，迎娶白富美，走上人生巅峰，就靠它了！
 
 - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 

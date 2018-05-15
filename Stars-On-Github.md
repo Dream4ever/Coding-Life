@@ -74,9 +74,9 @@
 
 #### Comment | 评论
 
-- [utterance / utterances](https://github.com/utterance/utterances): 🔮 A lightweight comments widget built on GitHub issues
-
-> 借助 GitHub issues 实现的轻量级的评论组件。
+> - [utterance / utterances](https://github.com/utterance/utterances): 🔮 A lightweight comments widget built on GitHub issues
+> 
+> 借助 GitHub issues 实现评论功能。
 
 #### Restful API & ORM
 

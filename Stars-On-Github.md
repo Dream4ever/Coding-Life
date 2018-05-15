@@ -68,9 +68,13 @@
 
 #### Upload | 上传
 
-- [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
-
-- [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
+> - [transloadit / uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers 🐶
+> 
+> 很棒的前端上传库，文档也很给力
+> 
+> - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Simple express file upload middleware that wraps around busboy
+> 
+> Express 的文件上传中间件
 
 #### Comment | 评论
 

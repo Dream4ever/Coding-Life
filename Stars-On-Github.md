@@ -1,24 +1,24 @@
 ### Framework | 框架
 
-- [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
-
-- [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-
-- [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
-
-- [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
+> - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
+> 
+> - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+> 
+> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+> 
+> - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
 #### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
-- [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
-
-- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
-
-- [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
-
-- [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
-
-- [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
+> - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
+> 
+> - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
+> 
+> - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
+> 
+> - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
+> 
+> - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
 
 ### Library | 库
 
@@ -26,43 +26,43 @@
 
 <details><summary>点击查看</summary>
 
-- [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
-
-- [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
-
-- [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
-
-- [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
-
-- [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 🍞📅A JavaScript calendar that everything you need.
-
-- [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
-
+> - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
+> 
+> - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
+> 
+> - [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
+> 
+> - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
+> 
+> - [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 🍞📅A JavaScript calendar that everything you need.
+> 
+> - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js): JavaScript implementation of the Web Animations API
+> 
 > 用 JS 实现以前只有 CSS 才能实现的 Web 动画。
-
-- [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.
-
+> 
+> - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.
+> 
 > 各种各样的加载动画。
-
-- [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
-
-- [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
-
-- [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
-
-- [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
-
-- [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
-
-- [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
-
-- [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
-
-- [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
-
-- [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
-
-- [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+> 
+> - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
+> 
+> - [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
+> 
+> - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
+> 
+> - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
+> 
+> - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
+> 
+> - [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
+> 
+> - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
+> 
+> - [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
+> 
+> - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
+> 
+> - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 </details>
 
@@ -71,6 +71,12 @@
 - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 
 - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
+
+#### Comment | 评论
+
+- [utterance / utterances](https://github.com/utterance/utterances): 🔮 A lightweight comments widget built on GitHub issues
+
+> 借助 GitHub issues 实现的轻量级的评论组件。
 
 #### Restful API & ORM
 

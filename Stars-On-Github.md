@@ -207,6 +207,8 @@
 > - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 > 
 > - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能。
+> 
+> - [klauscfhq / signale](https://github.com/klauscfhq/signale): 可自定义输出样式的日志工具
 
 ### Roadmap | 路径指引
 

@@ -222,6 +222,8 @@
 
 - [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 
+- [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品。
+
 </details>
 
 ### Envrionment | 环境配置
@@ -385,6 +387,10 @@
 - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 
 </details>
+
+### Architecture | 技术架构
+
+> - [davideuler / architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product): 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 ### Tip | 操作技巧
 

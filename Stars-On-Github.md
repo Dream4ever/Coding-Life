@@ -46,7 +46,7 @@
 > 
 > - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
 > 
-> - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): A functional, reactive animation library.
+> - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等。
 > 
 > - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
 > 

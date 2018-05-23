@@ -536,6 +536,8 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [移动端页面、图片合理宽度](https://www.zhihu.com/question/22938382)
 
+[移动端bug汇总（一）](https://segmentfault.com/a/1190000014879279)
+
 ### 开发规范
 
 [移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)

@@ -100,6 +100,10 @@
 
 [Token 认证的来龙去脉](https://segmentfault.com/a/1190000013010835)
 
+## Nginx
+
+[Nginx入门到实战（1）基础篇](https://segmentfault.com/a/1190000014893012)：系列文章，适合新手，值得一读
+
 ## Docker
 
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)

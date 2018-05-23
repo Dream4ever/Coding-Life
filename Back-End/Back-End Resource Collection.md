@@ -22,7 +22,7 @@
 
 #### 库 & 框架
 
-[BigPipe](https://github.com/bigpipe/bigpipe)：以分块的方式（`Pagelets`）向前端传送页面，实现渐进式的加载。
+无
 
 ## 语言
 

@@ -713,3 +713,5 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 [LogoMoose](https://www.logomoose.com/)
 
 [Ant Design 推荐的各类色彩](https://ant.design/docs/spec/colors-cn)
+
+[Cool Backgrounds](https://coolbackgrounds.io/)：生成多种风格的壁纸，还不用担心版权问题，值得体验。

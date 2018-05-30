@@ -552,6 +552,8 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 ### Webpack
 
+[webpack实战](https://segmentfault.com/a/1190000015020658)
+
 [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
 
 [webpack 从入门到上线](https://segmentfault.com/a/1190000006649986)

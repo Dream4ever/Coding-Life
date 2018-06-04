@@ -540,6 +540,8 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [移动端bug汇总（一）](https://segmentfault.com/a/1190000014879279)
 
+[html5--移动端视频video的android兼容，去除播放控件、全屏等](https://segmentfault.com/a/1190000006857675)
+
 ### 开发规范
 
 [移动Web开发规范 | Spirit](http://alloyteam.github.io/Spirit/modules/Standard/index.html)

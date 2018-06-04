@@ -1,5 +1,7 @@
 # 其它资源整理
 
+[如何在三年内快速成长为一名技术专家](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485285&idx=1&sn=eecf4768bd87675262510ebb3e0abf8f&chksm=eae1f237dd967b21bf23530b068d7bb6669e11c37e60565f9bde84de872c71ecfae7dcea2aae#rd)
+
 [技术团队管理经验(10 人以内)](http://hongyitong.github.io/2017/09/02/JIRA/)
 
 [项目研发规范流程](https://raw.githubusercontent.com/Dream4ever/Pics/master/project-develop-process.png)

@@ -176,6 +176,10 @@
 > 
 > - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
+### Algorithm | 算法实现
+
+> - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 用 JavaScript 实现的各种常见的算法和数据结构
+
 ### CheatSheet | 命令速查表
 
 > - [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.

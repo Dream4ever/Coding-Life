@@ -138,6 +138,8 @@
 
 - [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 
+- [planttheidea / fast-copy](https://github.com/planttheidea/fast-copy): A blazing fast deep object copier
+
 - [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库。
 
 - [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID。

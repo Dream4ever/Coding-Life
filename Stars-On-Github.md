@@ -136,6 +136,8 @@
 
 - [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 
+- [isomorphic-git / isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers!
+
 - [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 
 - [planttheidea / fast-copy](https://github.com/planttheidea/fast-copy): A blazing fast deep object copier

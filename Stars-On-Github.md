@@ -14,6 +14,8 @@
 > 
 > - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
 >
+> - [uileader / touchui](https://github.com/uileader/touchui): 具备上百个实用组件的 UI 框架
+>
 > - [logoove / weui](https://github.com/logoove/weui): weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 > 
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
@@ -51,6 +53,8 @@
 > - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
 > 
 > - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等。
+>
+> - [IanLunn / Hover](https://github.com/IanLunn/Hover): 基于 CSS3 实现的各种酷炫的鼠标悬浮动画
 > 
 > - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
 > 
@@ -103,6 +107,8 @@
 #### GitHub | GitHub 进阶应用
 
 > - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates
+>
+> - [stevemao / github-issue-templates](https://github.com/stevemao/github-issue-templates): 🔣 A collection of GitHub issue and pull request templates
 
 #### Codebase | 代码管理
 

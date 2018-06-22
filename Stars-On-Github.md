@@ -96,6 +96,10 @@
 > 
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
+#### Codebase | 代码管理
+
+> - [go-gitea / gitea](https://github.com/go-gitea/gitea)：轻量级的类 GitHub 的服务，支持 Windows 这一点很方便
+
 #### Media | 多媒体
 
 > - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库。

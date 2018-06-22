@@ -13,6 +13,8 @@
 > - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
 > 
 > - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
+>
+> - [logoove / weui](https://github.com/logoove/weui): weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 > 
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
 > 
@@ -39,6 +41,8 @@
 > - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js):  用 JS 实现以前只有 CSS 才能实现的 Web 动画
 > 
 > - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): 各种各样的加载动画
+>
+> - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage): 专注于移动端的fullPage.js
 > 
 > - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
 > 
@@ -95,6 +99,10 @@
 > - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库
 > 
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
+
+#### GitHub | GitHub 进阶应用
+
+> - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates
 
 #### Codebase | 代码管理
 

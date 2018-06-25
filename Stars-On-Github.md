@@ -1,152 +1,154 @@
-### Framework | 框架
+# Stars On GitHub | GitHub 收藏项目分类整理
+
+## Framework | 框架
 
 > - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
-> 
+>
 > - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-> 
+>
 > - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
-> 
+>
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
-#### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
+### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
 
 > - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
-> 
+>
 > - [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui): 移动端 UI 框架
 >
 > - [uileader / touchui](https://github.com/uileader/touchui): 具备上百个实用组件的 UI 框架
 >
 > - [logoove / weui](https://github.com/logoove/weui): weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
-> 
+>
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
-> 
+>
 > - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
-> 
+>
 > - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
 
-### Library | 库
+## Library | 库
 
-#### UI | 用户界面
+### UI | 用户界面
 
 <details><summary>点击查看</summary>
 
 > - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
-> 
+>
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
-> 
+>
 > - [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
-> 
+>
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
-> 
+>
 > - [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 功能极其全面的 JS 日历库
-> 
+>
 > - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js):  用 JS 实现以前只有 CSS 才能实现的 Web 动画
-> 
+>
 > - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): 各种各样的加载动画
 >
 > - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage): 专注于移动端的fullPage.js
-> 
+>
 > - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions
-> 
+>
 > - [desandro / masonry](https://github.com/desandro/masonry): 🏩 Cascading grid layout library
-> 
+>
 > - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
-> 
+>
 > - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等。
 >
 > - [IanLunn / Hover](https://github.com/IanLunn/Hover): 基于 CSS3 实现的各种酷炫的鼠标悬浮动画
-> 
+>
 > - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
-> 
+>
 > - [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
-> 
+>
 > - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
-> 
+>
 > - [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
-> 
+>
 > - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
-> 
+>
 > - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 </details>
 
-#### Upload | 上传
+### Upload | 上传
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
-> 
+>
 > - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 
-#### Comment | 评论
+### Comment | 评论
 
 > - [utterance / utterances](https://github.com/utterance/utterances): 借助 GitHub issues 实现评论功能
 
-#### Restful API & ORM
+### Restful API & ORM
 
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
-> 
+>
 > - [tgriesser / knex](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-> 
+>
 > - [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
-> 
+>
 > - [graphql / graphql-js](https://github.com/graphql/graphql-js): GraphQL 的 JS 版本
-> 
+>
 > - [typicode / json-server](https://github.com/typicode/json-server): 极速生成虚拟的 Restful API
-> 
+>
 > - [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): 简单的在线 Restful API 服务器
 
-#### Database & File System  | 数据库及文件系统
+### Database & File System  | 数据库及文件系统
 
 > - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
-> 
+>
 > 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
-> 
+>
 > - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库
-> 
+>
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
-#### GitHub | GitHub 进阶应用
+### GitHub | GitHub 进阶应用
 
 > - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates
 >
 > - [stevemao / github-issue-templates](https://github.com/stevemao/github-issue-templates): 🔣 A collection of GitHub issue and pull request templates
 
-#### Codebase | 代码管理
+### Codebase | 代码管理
 
 > - [go-gitea / gitea](https://github.com/go-gitea/gitea)：轻量级的类 GitHub 的服务，支持 Windows 这一点很方便
 
-#### Media | 多媒体
+### Media | 多媒体
 
 > - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库。
-> 
+>
 > - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
-> 
+>
 > - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 
-#### Text Editor | 文本编辑器
+### Text Editor | 文本编辑器
 
 > - 相关关键字/topics：[wysiwyg](https://github.com/topics/wysiwyg?o=desc&s=stars)，[rich-text-editor](https://github.com/topics/rich-text-editor?o=desc&s=stars)，[editor](https://github.com/topics/editor?o=desc&s=stars)。
 >
 > - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 
-#### Process Manager | 进程管理
+### Process Manager | 进程管理
 
 > - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
-> 
+>
 > - [marklagendijk / node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup): Utility to make PM2 automatically resurrect on Windows startup
-> 
+>
 > - [Tjatse / pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
-> 
+>
 > - [yyx990803 / pod](https://github.com/yyx990803/pod): Git push deploy for Node.js
 
-#### Logging | 日志记录
+### Logging | 日志记录
 
 > - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
 
-#### Boilerplate | Node.js WebApp 项目模板
+### Boilerplate | Node.js WebApp 项目模板
 
 > - [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): 用于开发 Node.js WebApp 的项目模板
 
-#### 待分类
+### 待分类
 
 <details><summary>点击查看</summary>
 
@@ -192,220 +194,220 @@
 
 </details>
 
-### Snippet | 代码片段
+## Snippet | 代码片段
 
 > - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
-> 
+>
 > - [atomiks / 30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css): A curated collection of useful CSS snippets.
-> 
+>
 > - [l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): CSS tricks web developers need to know
-> 
+>
 > - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
-### Algorithm | 算法实现
+## Algorithm | 算法实现
 
 > - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 用 JavaScript 实现的各种常见的算法和数据结构
 
-### CheatSheet | 命令速查表
+## CheatSheet | 命令速查表
 
 > - [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-### Developent Tool | 开发工具
+## Developent Tool | 开发工具
 
 > - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-> 
+>
 > - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-> 
+>
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
-> 
+>
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具。
 
-#### Debug Tool | 调试工具
+### Debug Tool | 调试工具
 
 > - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持 HTTP/HTTPS，无需USB连接设备。
-> 
+>
 > - [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
-> 
+>
 > - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品。
 
-### Envrionment | 环境配置
+## Envrionment | 环境配置
 
 > - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
-> 
+>
 > - [donnemartin / dev-setup](https://github.com/donnemartin/dev-setup): Mac OS X development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
-> 
+>
 > - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
-> 
+>
 > - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能。
-> 
+>
 > - [klauscfhq / signale](https://github.com/klauscfhq/signale): 可自定义输出样式的日志工具
 
-### Roadmap | 路径指引
+## Roadmap | 路径指引
 
 > - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
-> 
+>
 > - [FrontendMasters / front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018): 2018 edition of our front-end development handbook
 
-### Job | 面试宝典
+## Job | 面试宝典
 
 > - [h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-> 
+>
 > - [yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook): 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-> 
+>
 > - [alex / what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-> 
+>
 > - [arialdomartini / Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-> 
+>
 > - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~
-> 
+>
 > - [Liyuk / Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers): 一份经过筛选、整理、分类的前端知识清单，值得学习。
 
-### Knowledge | 知识学习
+## Knowledge | 知识学习
 
 > - [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript. @YDKJS on twitter.
-> 
+>
 > - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
-> 
+>
 > - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
-> 
+>
 > - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
-### Blog | 大牛博客
+## Blog | 大牛博客
 
 > - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-> 
+>
 > - [jawil / blog](https://github.com/jawil/blog): Too young, too simple. Sometimes, naive & stupid 🐌
-> 
+>
 > - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
-> 
+>
 > - [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列: JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-> 
+>
 > - [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
-> 
+>
 > - [wxyyxc1992 / ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 📚 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
-> 
+>
 > - [elevenbeans / elevenbeans.github.io](https://github.com/elevenbeans/elevenbeans.github.io): ✏️ Elevenbeans' blog powered by Hexo. Welcome to star! ⭐️🌟✨
-> 
+>
 > - [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
 
-### Awesome List | 奇妙清单
+## Awesome List | 奇妙清单
 
 > - [Topic: awesome | GitHub](https://github.com/topics/awesome): 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
-> 
+>
 > - [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): 各种 awesome 的 README，不来看一下嘛？
-> 
+>
 > - [mezod / awesome-indie](https://github.com/mezod/awesome-indie): 发家致富，迎娶白富美，走上人生巅峰，就靠它了！
-> 
+>
 > - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-> 
+>
 > - [andrew--r / frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
-> 
+>
 > - [thedaviddias / Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner): 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
-> 
+>
 > - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
-> 
+>
 > - [aben1188 / awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
-> 
+>
 > - [justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 💯
-> 
+>
 > - [sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): ⚡️ Delightful Node.js packages and resources
-> 
+>
 > - [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
-> 
+>
 > - [github / gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
-> 
+>
 > - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
-> 
+>
 > - [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
-> 
+>
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
-> 
+>
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-### Tutorial | 教程
+## Tutorial | 教程
 
 > - [llh911001 / mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese): JS 函数式编程指南中文版
-> 
+>
 > - [liubin / promises-book](https://github.com/liubin/promises-book): JavaScript Promise迷你书
-> 
+>
 > - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
-> 
+>
 > - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js
-> 
+>
 > - [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
-> 
+>
 > - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack
-> 
+>
 > - [GoogleChromeLabs / webpack-training-project](https://github.com/GoogleChromeLabs/webpack-training-project): A training project for learning Webpack optimizations
-> 
+>
 > - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
-### Style Guide | 代码规范
+## Style Guide | 代码规范
 
 > - [standard / standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
-> 
+>
 > - [airbnb / javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
-> 
+>
 > - [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 中文文案排版指北（简体中文版）
-> 
+>
 > - [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
 
-### Project | 实际项目
+## Project | 实际项目
 
 > - [cnodejs / nodeclub](https://github.com/cnodejs/nodeclub): 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
-> 
+>
 > - [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-> 
+>
 > - [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块
-> 
+>
 > - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
-> 
+>
 > - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 
-### Architecture | 技术架构
+## Architecture | 技术架构
 
 > - [davideuler / architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product): 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-### Tip | 操作技巧
+## Tip | 操作技巧
 
 > - [Microsoft / vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code.
 
-### General Education | 综合素养
+## General Education | 综合素养
 
 > - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
 
-### System Enhancement | 系统工具
+## System Enhancement | 系统工具
 
 > - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
 ### Misc | 其它
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-> 
+>
 > - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
-> 
+>
 > - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
-> 
+>
 > - [RelaxedJS / ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
-> 
+>
 > - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-> 
+>
 > - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
-> 
+>
 > - [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
-> 
+>
 > - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
-> 
+>
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
-> 
+>
 > - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
-> 
+>
 > - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
-> 
+>
 > - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: Generate an image of all your Github contributions
-> 
+>
 > - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
-> 
+>
 > - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
-> 
+>
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱

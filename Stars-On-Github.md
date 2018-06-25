@@ -100,7 +100,7 @@
 
 > - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
 >
-> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 https://leancloud.cn/ ，然后用他们的免费服务，其实 https://leancloud.cn/ 提供的服务就是一个 parse-server。
+> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 [leancloud](https://leancloud.cn/) ，然后用他们的免费服务，其实 [leancloud](https://leancloud.cn/) 提供的服务就是一个 parse-server。
 >
 > - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库
 >

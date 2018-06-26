@@ -504,9 +504,11 @@ Google 关键字：`medium image lazy load`，实现medium依次加载模糊图�
 
 ### 页面适配
 
-[茴字的四种写法—移动适配方案的进化](https://segmentfault.com/a/1190000014309664)
+[茴字的四种写法—移动适配方案的进化](https://segmentfault.com/a/1190000014309664)：引出下面这篇文章
 
-[如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
+[如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)：又引出下面这篇文章
+
+[再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 
 [一篇真正教会你开发移动端页面的文章(二)](http://hcysun.me/2015/10/19/%E4%B8%80%E7%AF%87%E7%9C%9F%E6%AD%A3%E6%95%99%E4%BC%9A%E4%BD%A0%E5%BC%80%E5%8F%91%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%96%87%E7%AB%A0-%E4%BA%8C/)
 

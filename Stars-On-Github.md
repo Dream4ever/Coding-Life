@@ -378,6 +378,8 @@
 >
 > - [liubin / promises-book](https://github.com/liubin/promises-book): JavaScript Promise迷你书
 >
+> - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero): React 简明教程
+>
 > - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
 >
 > - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js

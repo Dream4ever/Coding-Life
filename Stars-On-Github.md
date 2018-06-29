@@ -25,6 +25,8 @@
 > - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
 >
 > - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
+>
+> - [declandewet/vue-meta](https://github.com/declandewet/vue-meta): 在组件中管理页面的 `meta` 信息
 
 ## Library | 库
 
@@ -54,7 +56,7 @@
 >
 > - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
 >
-> - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等。
+> - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等
 >
 > - [IanLunn / Hover](https://github.com/IanLunn/Hover): 基于 CSS3 实现的各种酷炫的鼠标悬浮动画
 >
@@ -72,15 +74,21 @@
 
 </details>
 
-### Upload | 上传
+### Upload & Download | 上传 & 下载
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 >
 > - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
+>
+> - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS): 在浏览器内置的“文件系统”中模拟 Node.js 的 API，从各种各样的后端存储及读取文件
 
 ### Comment | 评论
 
 > - [utterance / utterances](https://github.com/utterance/utterances): 借助 GitHub issues 实现评论功能
+
+### Share | 分享
+
+> - [fa-ge/NativeShare](https://github.com/fa-ge/NativeShare): 整合了各家移动端浏览器的分享功能，提供统一的 API 供开发者调用
 
 ### Restful API & ORM
 
@@ -100,7 +108,7 @@
 
 > - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
 >
-> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 [leancloud](https://leancloud.cn/) ，然后用他们的免费服务，其实 [leancloud](https://leancloud.cn/) 提供的服务就是一个 parse-server。
+> 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 [leancloud](https://leancloud.cn/) ，然后用他们的免费服务，其实 [leancloud](https://leancloud.cn/) 提供的服务就是一个 parse-server
 >
 > - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库
 >
@@ -118,15 +126,15 @@
 
 ### Media | 多媒体
 
-> - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库。
+> - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库
 >
-> - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词。
+> - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词
 >
-> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持
 
 ### Text Editor | 文本编辑器
 
-> - 相关关键字/topics：[wysiwyg](https://github.com/topics/wysiwyg?o=desc&s=stars)，[rich-text-editor](https://github.com/topics/rich-text-editor?o=desc&s=stars)，[editor](https://github.com/topics/editor?o=desc&s=stars)。
+> - 相关关键字/topics：[wysiwyg](https://github.com/topics/wysiwyg?o=desc&s=stars)，[rich-text-editor](https://github.com/topics/rich-text-editor?o=desc&s=stars)，[editor](https://github.com/topics/editor?o=desc&s=stars)
 >
 > - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 
@@ -152,7 +160,7 @@
 
 <details><summary>点击查看</summary>
 
-- [node-modules / utility](https://github.com/node-modules/utility): node-modules 出品，汇总了一些常用的小工具。
+- [node-modules / utility](https://github.com/node-modules/utility): node-modules 出品，汇总了一些常用的小工具
 
 - [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 
@@ -162,9 +170,9 @@
 
 - [planttheidea / fast-copy](https://github.com/planttheidea/fast-copy): A blazing fast deep object copier
 
-- [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库。
+- [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库
 
-- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID。
+- [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID
 
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
@@ -172,13 +180,13 @@
 
 - [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans
 
-- [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验。
+- [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
 
 - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
 
 - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
-- [jackspirou / clientjs](https://github.com/jackspirou/clientjs): 根据设备信息生成数字水印。
+- [jackspirou / clientjs](https://github.com/jackspirou/clientjs): 根据设备信息生成数字水印
 
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
 
@@ -220,15 +228,15 @@
 >
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 >
-> - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具。
+> - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 
 ### Debug Tool | 调试工具
 
-> - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持 HTTP/HTTPS，无需USB连接设备。
+> - [wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持 HTTP/HTTPS，无需USB连接设备
 >
 > - [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 >
-> - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品。
+> - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品
 
 ## Envrionment | 环境配置
 
@@ -238,7 +246,7 @@
 >
 > - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 >
-> - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能。
+> - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能
 >
 > - [klauscfhq / signale](https://github.com/klauscfhq/signale): 可自定义输出样式的日志工具
 
@@ -260,7 +268,7 @@
 >
 > - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~
 >
-> - [Liyuk / Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers): 一份经过筛选、整理、分类的前端知识清单，值得学习。
+> - [Liyuk / Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers): 一份经过筛选、整理、分类的前端知识清单，值得学习
 
 ## Knowledge | 知识学习
 
@@ -280,7 +288,7 @@
 >
 > - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 >
-> - [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列: JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+> - [mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog): 冴羽写博客的地方，预计写四个系列: JavaScript深入系列、JavaScript专题系列、ES6系列、React系列
 >
 > - [zhubangbang / zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes): 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 >
@@ -292,7 +300,7 @@
 
 ## Awesome List | 奇妙清单
 
-> - [Topic: awesome | GitHub](https://github.com/topics/awesome): 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了。
+> - [Topic: awesome | GitHub](https://github.com/topics/awesome): 压轴版本，汇总了各种 awesome list，可以说是非常的 awesome 了
 >
 > - [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): 各种 awesome 的 README，不来看一下嘛？
 >
@@ -323,6 +331,8 @@
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 >
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+>
+> - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑，
 
 ## Tutorial | 教程
 
@@ -390,7 +400,7 @@
 >
 > - [RelaxedJS / ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 >
-> - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+> - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
 >
 > - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
 >

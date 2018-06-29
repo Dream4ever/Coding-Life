@@ -46,6 +46,8 @@
 >
 > - [web-animations / web-animations-js](https://github.com/web-animations/web-animations-js):  用 JS 实现以前只有 CSS 才能实现的 Web 动画
 >
+> - [daneden/animate.css](https://github.com/daneden/animate.css): 跨浏览器的 CSS 动画
+>
 > - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): 各种各样的加载动画
 >
 > - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage): 专注于移动端的fullPage.js
@@ -140,6 +142,8 @@
 
 ### Process Manager | 进程管理
 
+> - [kitze/JSUI](https://github.com/kitze/JSUI): 电脑端的独立软件，用于管理 JavaScript 项目，也就是不限前后端
+>
 > - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
 >
 > - [marklagendijk / node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup): Utility to make PM2 automatically resurrect on Windows startup
@@ -189,6 +193,8 @@
 - [jackspirou / clientjs](https://github.com/jackspirou/clientjs): 根据设备信息生成数字水印
 
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
+
+- [nolanlawson/optimize-js](https://github.com/nolanlawson/optimize-js): 优化 JS 文件，利用 IIFE 改善初始加载速度
 
 - [moment / luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS
 
@@ -304,6 +310,8 @@
 >
 > - [wxyyxc1992 / ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 📚 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
 >
+> - [lin-xin/blog](https://github.com/lin-xin/blog): Vue、JavaScript、HTML5、Node、构建工具，各系列都有几篇文章
+>
 > - [elevenbeans / elevenbeans.github.io](https://github.com/elevenbeans/elevenbeans.github.io): ✏️ Elevenbeans' blog powered by Hexo. Welcome to star! ⭐️🌟✨
 >
 > - [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
@@ -383,6 +391,8 @@
 > - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
 >
 > - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
+>
+> - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力
 
 ## Architecture | 技术架构
 

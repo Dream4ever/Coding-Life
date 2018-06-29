@@ -264,6 +264,8 @@
 >
 > - [alex / what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 >
+> - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): 整理了一系列常见的面试问题，以 JavaScript 为主，还有少量的 HTML、CSS、Node 和安全方面的问题（后面两方面的问题真的是很少，哈哈）
+>
 > - [arialdomartini / Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 >
 > - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~

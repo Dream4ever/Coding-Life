@@ -229,6 +229,8 @@
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
+>
+> - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API
 
 ### Debug Tool | 调试工具
 
@@ -237,6 +239,10 @@
 > - [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 >
 > - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品
+
+### Test Tool | 测试工具
+
+> - [pod4g/hiper](https://github.com/pod4g/hiper): 网站性能静态分析工具
 
 ## Envrionment | 环境配置
 
@@ -281,6 +287,8 @@
 > - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
 >
 > - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+>
+> - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis): Vue.js 源码分析
 
 ## Blog | 大牛博客
 

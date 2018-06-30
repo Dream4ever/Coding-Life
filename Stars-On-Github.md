@@ -42,6 +42,8 @@
 >
 > - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard): 基于 Bootstrap 4 的，Material 设计风格的后台 UI 控件库
 >
+> - [Tencent/weui](https://github.com/Tencent/weui): 为微信内的网页和小程序量身定制的一套统一的 UI 界面
+>
 > - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 >
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写

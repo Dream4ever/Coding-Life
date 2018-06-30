@@ -20,6 +20,8 @@
 >
 > - [logoove / weui](https://github.com/logoove/weui): weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 >
+> - [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 据说是一套高质量的微信小程序 UI 组件库
+>
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
 >
 > - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
@@ -34,11 +36,15 @@
 
 <details><summary>点击查看</summary>
 
+> - [yued-fe/lulu](https://github.com/yued-fe/lulu): 兼容 IE8+，针对 PC 端的前端 UI 框架，无依赖，阅文集团出品
+>
+> - [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
+>
+> - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard): 基于 Bootstrap 4 的，Material 设计风格的后台 UI 控件库
+>
 > - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 >
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
->
-> - [tabler / tabler](https://github.com/tabler/tabler): 基于 Bootstrap 4 的后台 UI 控件库
 >
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 >
@@ -108,6 +114,10 @@
 
 ### Database & File System  | 数据库及文件系统
 
+> - [xo/usql](https://github.com/xo/usql): 一套统一的命令行接口，用来操作各种 SQL、非 SQL、非关系数据库（目前还不支持 MongoDB）
+>
+> - [o1lab/xmysql](https://github.com/o1lab/xmysql): 只需一行命令，生成 MySQL 数据库完整的 Restful API
+>
 > - [parse-community/parse-server](https://github.com/parse-community/parse-server): Parse-compatible API server module for Node/Express
 >
 > 很多人会很苦恼开发一个项目就要搞一个数据库，这个项目可以解决这个问题。parse-server 可以是一个数据中心，无论你开发什么项目，都连上这个服务，就有了一个数据存储中心。中型或小型的项目都可以用 parse-server。开发小程序可以直接注册一个 [leancloud](https://leancloud.cn/) ，然后用他们的免费服务，其实 [leancloud](https://leancloud.cn/) 提供的服务就是一个 parse-server
@@ -133,6 +143,10 @@
 > - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词
 >
 > - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持
+
+### Color Picker | 颜色选择器
+
+> - [Simonwep/pickr](https://github.com/Simonwep/pickr): 简单好用的颜色选择器，无依赖，不需要 jQuery，兼容各大主流 CSS 框架
 
 ### Text Editor | 文本编辑器
 
@@ -201,6 +215,12 @@
 - [terkelg / prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
 - [benjamine / jsondiffpatch](https://github.com/benjamine/jsondiffpatch): Diff & patch JavaScript objects
+
+- [rodneyrehm/viewport-units-buggyfill](https://github.com/rodneyrehm/viewport-units-buggyfill): 修复 viewport 单位在各浏览器上的异常表现
+
+- [sunhaikuo/js-arouse-app](https://github.com/sunhaikuo/js-arouse-app): 在移动端用 JS 唤起 APP 的方案
+
+- [hotoo/pinyin](https://github.com/hotoo/pinyin): 把汉字转换成拼音，可以用于汉字注音、排序、检索
 
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 
@@ -392,7 +412,9 @@
 >
 > - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 >
-> - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力
+> - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力.
+>
+> - [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 分类整理了各种可供程序员练手的小项目、小作业
 
 ## Architecture | 技术架构
 

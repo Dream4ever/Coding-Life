@@ -206,6 +206,8 @@
 
 - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
+- [terkelg / tiny-glob](https://github.com/terkelg/tiny-glob): 超级快的 glob 库
+
 - [jackspirou / clientjs](https://github.com/jackspirou/clientjs): 根据设备信息生成数字水印
 
 - [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋

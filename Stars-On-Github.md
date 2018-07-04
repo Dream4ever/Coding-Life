@@ -62,6 +62,8 @@
 >
 > - [ConnorAtherton / loaders.css](https://github.com/ConnorAtherton/loaders.css): 各种各样的加载动画
 >
+> - [syt123450/giojs](https://github.com/syt123450/giojs): 3D 全球数据可视化的 JS 库，基于 Three.js 开发
+>
 > - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage): 专注于移动端的fullPage.js
 >
 > - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions

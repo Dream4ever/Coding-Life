@@ -46,6 +46,8 @@
 >
 > - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
 >
+> - [Malvid/Malvid](https://github.com/Malvid/Malvid): 管理 UI 组件库的工具
+>
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
 >
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本

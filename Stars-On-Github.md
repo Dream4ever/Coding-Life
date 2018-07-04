@@ -470,7 +470,7 @@
 >
 > - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 >
-> - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: Generate an image of all your Github contributions
+> - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: 生成一张图片，显示你在 GitHub 上的所有贡献（commit/PR/issue）
 >
 > - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
 >

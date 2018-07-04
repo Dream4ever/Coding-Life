@@ -267,6 +267,8 @@
 > - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API
 >
 > - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert): 零配置实现本地调试 https 协议页面的工具
+>
+> - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): VSCode 插件，在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
 
 ### Debug Tool | 调试工具
 

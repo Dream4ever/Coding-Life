@@ -470,6 +470,8 @@
 >
 > - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 >
+> - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app): 生成 GitHub 账号和所拥有 repo 的可视化图表
+>
 > - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: 生成一张图片，显示你在 GitHub 上的所有贡献（commit/PR/issue）
 >
 > - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features

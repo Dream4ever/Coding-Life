@@ -394,6 +394,8 @@
 >
 > - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js
 >
+> - [maxogden/art-of-node](https://github.com/maxogden/art-of-node): Node.js 入门级教程
+>
 > - [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
 >
 > - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack

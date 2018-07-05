@@ -200,6 +200,8 @@
 
 - [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库
 
+- [oauthjs/node-oauth2-server](https://github.com/oauthjs/node-oauth2-server): 用 Node.js 提供 OAuth2 服务
+
 - [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID
 
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.

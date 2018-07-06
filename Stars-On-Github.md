@@ -82,6 +82,8 @@
 >
 > - [atomiks / tippyjs](https://github.com/atomiks/tippyjs): 各种效果的提示框
 >
+> - [HubSpot/odometer](https://github.com/HubSpot/odometer): 计数器，展示流畅的数字变化效果
+>
 > - [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
 >
 > - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery

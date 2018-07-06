@@ -24,6 +24,8 @@
 >
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
 >
+> - [DivanteLtd / vue-storefront](https://github.com/DivanteLtd/vue-storefront): 用于电商网站的 PWA
+>
 > - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件
 >
 > - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗

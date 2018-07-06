@@ -32,6 +32,8 @@
 >
 > - [euvl / vue-js-modal](https://github.com/euvl/vue-js-modal): 模态弹窗
 >
+> - [a-jie/clock-shop](https://github.com/a-jie/clock-shop): 各种样式的钟表
+>
 > - [declandewet/vue-meta](https://github.com/declandewet/vue-meta): 在组件中管理页面的 `meta` 信息
 
 ## Library | 库

@@ -144,11 +144,17 @@
 >
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
-### GitHub | GitHub 进阶应用
+## GitHub | GitHub 进阶应用
 
 > - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates
 >
 > - [stevemao / github-issue-templates](https://github.com/stevemao/github-issue-templates): 🔣 A collection of GitHub issue and pull request templates
+>
+> - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app): 生成 GitHub 账号和所拥有 repo 的可视化图表
+>
+> - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: 生成一张图片，显示你在 GitHub 上的所有贡献（commit/PR/issue）
+>
+> - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
 
 ### Codebase | 代码管理
 
@@ -301,8 +307,6 @@
 > - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
 >
 > - [donnemartin / dev-setup](https://github.com/donnemartin/dev-setup): Mac OS X development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
->
-> - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 >
 > - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能
 >
@@ -458,11 +462,17 @@
 
 > - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
 
-## System Enhancement | 系统工具
+## System Enhancement | 系统增强
 
 > - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
+>
+> - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+>
+> - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
+>
+> - [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 
-### Misc | 其它
+## Misc | 其它
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 >
@@ -474,10 +484,6 @@
 >
 > - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
 >
-> - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
->
-> - [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
->
 > - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
 >
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
@@ -485,12 +491,6 @@
 > - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
 >
 > - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
->
-> - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app): 生成 GitHub 账号和所拥有 repo 的可视化图表
->
-> - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: 生成一张图片，显示你在 GitHub 上的所有贡献（commit/PR/issue）
->
-> - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
 >
 > - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 >

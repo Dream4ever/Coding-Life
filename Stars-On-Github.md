@@ -2,7 +2,7 @@
 
 ## Table of Content | 目录
 
-- [Framework](#Framework | 框架)
+- [Framework](#Framework)
 
 ## Framework | 框架
 

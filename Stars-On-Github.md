@@ -2,8 +2,8 @@
 
 ## Table of Content | 目录
 
-- [Framework](#Framework)
-- [Misc](#Misc)
+- [Framework](#framework)
+- [Misc](#misc)
 
 ## Framework
 

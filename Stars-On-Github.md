@@ -3,8 +3,11 @@
 ## Table of Content | 目录
 
 - [Framework](#Framework)
+- [Misc](#Misc)
 
-## Framework | 框架
+## Framework
+
+框架
 
 > - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
 >
@@ -478,7 +481,9 @@
 >
 > - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): macOS 开源软件大合集，给力！
 
-## Misc | 其它
+## Misc
+
+其它
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 >

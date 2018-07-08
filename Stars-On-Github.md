@@ -2,9 +2,10 @@
 
 ## Table of Content | 目录
 
-> GitHub 中原生支持目录跳转，目录中的每个条目，要用 `-[Title](title)` 这样的格式书写，后面的小括号中的目录名称必须是小写英文字母。
+> GitHub 中原生支持目录跳转，目录中的每个条目，要用 `-[Title](title)` 这样的格式书写，后面小括号中的目录名称，只能是小写英文单词、短横线、下划线，不能有空格或其他字符，不能包含中文。
 
 - [Framework](#framework)
+  - [UI for Vue](#ui-for-vue)
 - [Misc](#misc)
 
 ## Framework
@@ -17,7 +18,7 @@
 >
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
-### Vue specified UI Framework or Library | 用于 Vue.js 的 UI 框架及组件
+### UI-for-Vue
 
 > - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
 >

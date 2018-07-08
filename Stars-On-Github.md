@@ -2,12 +2,12 @@
 
 ## Table of Content | 目录
 
-- [Framework](#framework)
-- [Misc](#misc)
+> GitHub 中原生支持目录跳转，目录中的每个条目，要用 `-[Title](title)` 这样的格式书写，后面的小括号中的目录名称必须是小写英文字母。
 
-## Framework
+- [Framework](#framework | 框架)
+- [Misc](#misc | 其它)
 
-框架
+## Framework | 框架
 
 > - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
 >
@@ -481,9 +481,7 @@
 >
 > - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): macOS 开源软件大合集，给力！
 
-## Misc
-
-其它
+## Misc | 其它
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 >

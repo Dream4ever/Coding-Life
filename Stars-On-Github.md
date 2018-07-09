@@ -462,6 +462,10 @@
 
 > - [davideuler / architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product): 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
+## Design Pattern | 设计模式
+
+> - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): 汇总了与软件架构相关的设计模式
+
 ## Tip | 操作技巧
 
 > - [Microsoft / vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code.

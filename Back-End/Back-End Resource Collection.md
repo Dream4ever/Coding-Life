@@ -118,7 +118,7 @@ ViewBag.Id = Id;
 [提高 ASP.NET Web 应用性能的 24 种方法和技巧](https://segmentfault.com/a/1190000004352989)：讲的都是具体的技术实现方面的细节。
 
 #### 上传功能
- 
+
 [How to Implement a Web API controller to accept chunked uploads using JQuery File Upload?](http://stackoverflow.com/questions/26546296)，讲解如何用jQuery File Upload控件实现分片上传。
 
 [File Upload Without Page Refresh in ASP.NET MVC](http://www.codeproject.com/Articles/1108516/File-Upload-Without-Page-Refresh-in-ASP-NET-MVC)
@@ -144,7 +144,7 @@ ViewBag.Id = Id;
 ### Visual Studio
 
 #### 插件
- 
+
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/)：Visual Studio官方的插件网站，收录了很多好用的插件。
 
 [Visual Studio 有哪些好用的插件？](https://www.zhihu.com/question/20617534)
@@ -203,11 +203,11 @@ ViewBag.Id = Id;
 
 建议按顺序学习，2017年5月16日，目前的价格是每门课10美元。
 
-1.  [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/csharp-tutorial-for-beginners/) 
-1.  [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/) 
-1.  [C# Advanced Topics: Take Your C# Skills to the Next Level](https://www.udemy.com/csharp-advanced/) 
-1.  [Entity Framework in Depth: The Complete Guide](https://www.udemy.com/entity-framework-tutorial/) 
-1.  [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/the-complete-aspnet-mvc-5-course/) 
+1. [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/csharp-tutorial-for-beginners/) 
+1. [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/) 
+1. [C# Advanced Topics: Take Your C# Skills to the Next Level](https://www.udemy.com/csharp-advanced/) 
+1. [Entity Framework in Depth: The Complete Guide](https://www.udemy.com/entity-framework-tutorial/) 
+1. [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/the-complete-aspnet-mvc-5-course/) 
 1. 06_Become a Full-stack .NET Developer
 1. 07_Become a Full-stack .NET Developer - Advanced Topics
 1. 08_Become a Full-stack .NET Developer - Architecture and Testing

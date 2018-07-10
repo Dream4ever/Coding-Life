@@ -26,35 +26,13 @@
 
 ## 语言
 
-### C#
+### C Sharp
 
 #### 编码规范
 
 [C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)：MSDN官方的C#编程规范
 
 [Secure Coding Guidelines](https://msdn.microsoft.com/en-us/library/8a3x2b7f.aspx)：MSDN上的安全编码规范
-
-### PHP
-
-#### 编码规范
-
-[PHP Standards Recommendations - PHP-FIG](http://www.php-fig.org/psr/)：目前最普遍采用的PHP编码规范
-
-#### 代码安全
-
-[PHP安全编码 - 枪与玫瑰](https://www.mudoom.com/php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81/)
-
-[SQL注入如何防范?](https://segmentfault.com/q/1010000005688399)
-
-[PHP 代码安全检测](http://blog.csdn.net/mervyn1205/article/details/39989693)
-
-[Handle $_GET safely PHP](http://stackoverflow.com/questions/9759188/handle-get-safely-php)
-
-[PHP safe $_GET or not](http://stackoverflow.com/questions/3388983/php-safe-get-or-not)
-
-[Calling PHP functions within HEREDOC strings](http://stackoverflow.com/questions/104516/calling-php-functions-within-heredoc-strings)
-
-[Data Encoding: A Guide to UTF-8 for PHP and MySQL](https://www.toptal.com/php/a-utf-8-primer-for-php-and-mysql)
 
 ### MVC
 
@@ -138,6 +116,28 @@ ViewBag.Id = Id;
 [我所理解的接口设计](https://segmentfault.com/a/1190000013703264)：正文和回复都干货满满，都是实际的业务经验。
 
 [RESTful – 移动互联网时代的高效API架构风格](http://www.makmong.com/1009.html)：后端.NET配套方案：Asp.Net WebApi，或者[Nancy](http://nancyfx.org)
+
+### PHP
+
+#### 编码规范
+
+[PHP Standards Recommendations - PHP-FIG](http://www.php-fig.org/psr/)：目前最普遍采用的PHP编码规范
+
+#### 代码安全
+
+[PHP安全编码 - 枪与玫瑰](https://www.mudoom.com/php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81/)
+
+[SQL注入如何防范?](https://segmentfault.com/q/1010000005688399)
+
+[PHP 代码安全检测](http://blog.csdn.net/mervyn1205/article/details/39989693)
+
+[Handle $_GET safely PHP](http://stackoverflow.com/questions/9759188/handle-get-safely-php)
+
+[PHP safe $_GET or not](http://stackoverflow.com/questions/3388983/php-safe-get-or-not)
+
+[Calling PHP functions within HEREDOC strings](http://stackoverflow.com/questions/104516/calling-php-functions-within-heredoc-strings)
+
+[Data Encoding: A Guide to UTF-8 for PHP and MySQL](https://www.toptal.com/php/a-utf-8-primer-for-php-and-mysql)
 
 ## IDE
 

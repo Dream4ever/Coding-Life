@@ -80,6 +80,8 @@
 
 [代码质量管理——如何写出优雅地代码](https://segmentfault.com/a/1190000013397521)：综合了网上的文章和作者个人的观点，有理论，有示例，不错不错。
 
+[Git Commit Log的小型团队最佳实践](https://segmentfault.com/a/1190000015434246)：适合国内小团队的代码提交规范。
+
 ## 网络安全
 
 [Using HTTP Headers to Secure Your Site](https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0)

@@ -486,6 +486,8 @@
 
 > - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 >
+> - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 在终端中查看当前主机硬件配置，Windows 需要用 MinGW/MSys 来编译
+>
 > - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 >
 > - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒

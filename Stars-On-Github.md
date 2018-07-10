@@ -192,6 +192,10 @@
 
 > - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
 
+### Changelog | 更新历史
+
+> - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator): 自动生成 changelog
+
 ### Boilerplate | Node.js WebApp 项目模板
 
 > - [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter): 用于开发 Node.js WebApp 的项目模板

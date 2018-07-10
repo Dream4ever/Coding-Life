@@ -82,6 +82,8 @@
 
 [Git Commit Log的小型团队最佳实践](https://segmentfault.com/a/1190000015434246)：适合国内小团队的代码提交规范。
 
+[书写良好的 commit message](https://loveky.github.io/2018/06/04/write-good-commit-message/)：与国际接轨的代码提交规范。
+
 ## 网络安全
 
 [Using HTTP Headers to Secure Your Site](https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0)

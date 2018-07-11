@@ -307,6 +307,8 @@
 ## Test Tool | 测试工具
 
 > - [pod4g/hiper](https://github.com/pod4g/hiper): 网站性能静态分析工具
+>
+> - [facebook/jest](https://github.com/facebook/jest): JavaScript 测试工具，Facebook 出品，不用多说
 
 ## Envrionment | 环境配置
 

@@ -510,6 +510,8 @@
 >
 > - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
 >
+> - [browsh-org/browsh](https://github.com/browsh-org/browsh): 现代化的、基于文本的浏览器，让你在终端里也可以看网页，很好玩
+>
 > - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
 >
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.

@@ -256,6 +256,8 @@
 
 - [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集
 
+- [retejs/rete](https://github.com/retejs/rete): 实现了可视化编程的 JavaScript 库，拖拖拽拽就能实现指定功能，很有意思，可以体验一下
+
 </details>
 
 ## Snippet | 代码片段

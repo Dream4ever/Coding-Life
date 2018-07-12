@@ -162,6 +162,8 @@
 
 > - [video-dev / hls.js](https://github.com/video-dev/hls.js): 用于播放 HLS 源的 JS 前端库
 >
+> - [bytedance/xgplayer](https://github.com/bytedance/xgplayer): 字节跳动出品的西瓜播放器，回头可以试试，看看能不能完美实现 mp4 和 hls 的播放
+>
 > - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词
 >
 > - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持

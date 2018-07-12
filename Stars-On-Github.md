@@ -458,6 +458,8 @@
 >
 > - [airbnb / javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 >
+> - [sindresorhus/to-milliseconds](https://github.com/sindresorhus/to-milliseconds): 收藏这个项目的目的，是通过这个项目来了解一个 JS 库的规范，需要包含哪些文件，各个文件应该如何配置，麻雀虽小，五脏俱全
+>
 > - [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 中文文案排版指北（简体中文版）
 >
 > - [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）

@@ -56,6 +56,8 @@
 >
 > - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard): 基于 Bootstrap 4 的，Material 设计风格的后台 UI 控件库
 >
+> - [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE): 基于 Bootstrap 3 的后台 UI 控件库
+>
 > - [Tencent/weui](https://github.com/Tencent/weui): 为微信内的网页和小程序量身定制的一套统一的 UI 界面
 >
 > - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
@@ -431,6 +433,8 @@
 > - [llh911001 / mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese): JS 函数式编程指南中文版
 >
 > - [liubin / promises-book](https://github.com/liubin/promises-book): JavaScript Promise迷你书
+>
+> - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30): 30 天 JavaScript 教程，用一个个小作业锻炼手写原生 JS 的能力
 >
 > - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero): React 简明教程
 >

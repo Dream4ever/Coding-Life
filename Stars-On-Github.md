@@ -333,6 +333,8 @@
 > - [sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart): :octocat: 生成一张图片，显示你在 GitHub 上的所有贡献（commit/PR/issue）
 >
 > - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
+>
+> - [amio/badgen](https://github.com/amio/badgen): 迅速生成 GitHub 开源项目标签（比如 npm 版本，测试是否通过之类的标志）
 
 ## Roadmap | 路径指引
 

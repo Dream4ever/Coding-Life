@@ -510,6 +510,8 @@
 >
 > - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): macOS 开源软件大合集，给力！
 >
+> - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): 分类整理了 Mac 上的各类优秀软件
+>
 > - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules): 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙
 
 ## Misc

@@ -285,6 +285,8 @@
 ## CheatSheet | 命令速查表
 
 > - [LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+>
+> - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux 命令速查表
 
 ## Developent Tool | 开发工具
 

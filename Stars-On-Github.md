@@ -180,6 +180,10 @@
 >
 > - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 
+### Image Editor | 图片编辑器
+
+> - [nhnent/tui.image-editor](https://github.com/nhnent/tui.image-editor): 用 canvas 实现的图片编辑器，功能很丰富啊！
+
 ### Process Manager | 进程管理
 
 > - [kitze/JSUI](https://github.com/kitze/JSUI): 电脑端的独立软件，用于管理 JavaScript 项目，也就是不限前后端

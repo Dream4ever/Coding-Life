@@ -76,7 +76,9 @@
 
 [前后端分离的思考与实践（一）](http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/)
 
-## 编码规范
+## 开发规范
+
+[理想中的Jenkins+Sonar+Github代码质量管理](https://segmentfault.com/a/1190000015592863): Jenkins 结合 Sonar 实现自动化的代码审查，提升开发效率及代码质量
 
 [代码质量管理——如何写出优雅地代码](https://segmentfault.com/a/1190000013397521)：综合了网上的文章和作者个人的观点，有理论，有示例，不错不错。
 

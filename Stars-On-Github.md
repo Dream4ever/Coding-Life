@@ -292,6 +292,8 @@
 
 > - [webpack / webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 >
+> - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel): 据说可以替代 webpack，那就试一试它
+>
 > - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 >
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程

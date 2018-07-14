@@ -84,6 +84,8 @@
 >
 > - [syt123450/giojs](https://github.com/syt123450/giojs): 3D 全球数据可视化的 JS 库，基于 Three.js 开发
 >
+> - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg): 将文本内容转换成 SVG
+>
 > - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage): 专注于移动端的fullPage.js
 >
 > - [nolimits4web / swiper](https://github.com/nolimits4web/swiper): Most modern mobile touch slider with hardware accelerated transitions

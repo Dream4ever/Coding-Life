@@ -48,7 +48,7 @@
 
 ### UI | 用户界面
 
-#### Framework | UI 框架/库
+#### Framework | UI 框架
 
 > - [yued-fe/lulu](https://github.com/yued-fe/lulu): 兼容 IE8+，针对 PC 端的前端 UI 框架，无依赖，阅文集团出品
 >
@@ -66,8 +66,10 @@
 >
 > - [pedronauck/docz](https://github.com/pedronauck/docz): 迅速生成 Bootstrap 样式的文档页面，看起来很方便
 
-<details><summary>点击查看</summary>
+#### Library | UI 库
 
+> - [necolas/normalize.css](https://github.com/necolas/normalize.css): 统一 HTML 元素在所有浏览器中的样式
+>
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
 >
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
@@ -107,8 +109,6 @@
 > - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 >
 > - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-
-</details>
 
 ### Upload & Download | 上传 & 下载
 

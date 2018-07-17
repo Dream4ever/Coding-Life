@@ -132,6 +132,10 @@
 
 > - [fa-ge/NativeShare](https://github.com/fa-ge/NativeShare): 整合了各家移动端浏览器的分享功能，提供统一的 API 供开发者调用
 
+### Maths | 数学运算
+
+> - [josdejong/mathjs](https://github.com/josdejong/mathjs): 实现了常见的数学运算的库
+
 ### Restful API & ORM
 
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js

@@ -374,6 +374,8 @@
 >
 > - [yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook): 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
 >
+> - [InterviewMap/InterviewMap](https://github.com/InterviewMap/InterviewMap): 又是一份中国人整理的面试宝典，目前以前端方向为主
+>
 > - [alex / what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 >
 > - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): 整理了一系列常见的面试问题，以 JavaScript 为主，还有少量的 HTML、CSS、Node 和安全方面的问题（后面两方面的问题真的是很少，哈哈）

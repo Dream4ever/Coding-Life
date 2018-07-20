@@ -144,9 +144,9 @@
 
 ### Validation | 校验
 
-> - [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans
->
 > - [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
+>
+> - [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans
 >
 > - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
 >

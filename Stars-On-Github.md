@@ -36,6 +36,8 @@
 >
 > - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin): 开源的后台管理系统的前端 UI 库
 >
+> - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): 又是一套后台管理系统的前端 UI 库
+>
 > - [DivanteLtd / vue-storefront](https://github.com/DivanteLtd/vue-storefront): 用于电商网站的 PWA
 >
 > - [Dafrok / vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 百度地图组件

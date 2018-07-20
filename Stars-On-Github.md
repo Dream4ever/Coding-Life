@@ -511,6 +511,8 @@
 ## Architecture | 技术架构
 
 > - [davideuler / architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product): 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+>
+> - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): 大佬教你如何设计大型分布式系统
 
 ## Design Pattern | 设计模式
 

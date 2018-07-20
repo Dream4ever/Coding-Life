@@ -321,6 +321,8 @@
 > - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper): 网页版 GitHub 的插件，可自动更新中项目中的 npm 依赖
 >
 > - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): VSCode 插件，在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
+>
+> - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release): 实现项目版本管理和打包发布的全流程自动化
 
 ## Debug Tool | 调试工具
 

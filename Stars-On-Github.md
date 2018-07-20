@@ -142,6 +142,16 @@
 
 > - [date-fns/date-fns](https://github.com/date-fns/date-fns): 感觉比 Moment 这个库要给力
 
+### Validation | 校验
+
+> - [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans
+>
+> - [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
+>
+> - [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
+>
+> - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
+
 ### Restful API & ORM
 
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
@@ -245,14 +255,6 @@
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
 - [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
-
-- [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans
-
-- [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
-
-- [ctavan / express-validator](https://github.com/ctavan/express-validator): An express.js middleware for node-validator.
-
-- [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
 - [terkelg / tiny-glob](https://github.com/terkelg/tiny-glob): 超级快的 glob 库
 

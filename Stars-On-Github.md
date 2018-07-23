@@ -182,6 +182,10 @@
 >
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
+### Front-end Storage | 前端浏览器存储
+
+> - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
+
 ### Codebase | 代码管理
 
 > - [go-gitea / gitea](https://github.com/go-gitea/gitea)：轻量级的类 GitHub 的服务，支持 Windows 这一点很方便

@@ -364,7 +364,7 @@
 
 ## Performance | 性能优化
 
-> - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): 一份比较完善的前端性能优化清单
+> - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): 一份比较完善的前端性能优化清单，项目页面还给出了对应的博客文章地址，但是对比查看之后发现，博客文章不如 GitHub 上的 README 写得详细，所以直接看 GitHub 上的项目 README 就行
 
 ## GitHub | GitHub 进阶应用
 

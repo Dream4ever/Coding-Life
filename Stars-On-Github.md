@@ -362,6 +362,10 @@
 >
 > - [klauscfhq / signale](https://github.com/klauscfhq/signale): 可自定义输出样式的日志工具
 
+## Performance | 性能优化
+
+> - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): 一份比较完善的前端性能优化清单
+
 ## GitHub | GitHub 进阶应用
 
 > - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates

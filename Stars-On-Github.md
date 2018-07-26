@@ -154,6 +154,10 @@
 >
 > - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
+### XML | XML 解析
+
+> - [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js): 将 XML 解析为 JavaScript 对象
+
 ### Restful API & ORM
 
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js

@@ -349,6 +349,8 @@
 > - [liriliri / eruda](https://github.com/liriliri/eruda): 可在移动端使用的，嵌入页面的浏览器开发者工具，很方便！
 >
 > - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品
+>
+> - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb): Google 出品的 Node.js 调试工具
 
 ## Test Tool | 测试工具
 

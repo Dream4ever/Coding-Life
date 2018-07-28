@@ -603,3 +603,5 @@
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 >
 > - [greatghoul/remote-working](https://github.com/greatghoul/remote-working): 收集整理国内远程工作相关的资源
+>
+> - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers): 收集整理了对开源项目维护者的访谈

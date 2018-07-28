@@ -416,6 +416,8 @@
 
 ## Knowledge | 知识学习
 
+> - [snipcart/learnvanillajs](https://github.com/snipcart/learnvanillajs): 学习原生 JS 的相关资源
+>
 > - [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript. @YDKJS on twitter.
 >
 > - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript

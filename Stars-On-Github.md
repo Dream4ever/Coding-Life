@@ -190,6 +190,10 @@
 
 > - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
 
+### Code Checking | 代码检查
+
+> - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect): 检查是否有相似的代码，便于重构
+
 ### Codebase | 代码管理
 
 > - [go-gitea / gitea](https://github.com/go-gitea/gitea)：轻量级的类 GitHub 的服务，支持 Windows 这一点很方便

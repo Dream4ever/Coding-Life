@@ -326,6 +326,8 @@
 >
 > - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 >
+> - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx): Nginx 配置指南
+>
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具

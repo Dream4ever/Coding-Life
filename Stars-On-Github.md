@@ -347,6 +347,8 @@
 > - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): 在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
 >
 > - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens): 在 VSCode 中充分发挥了 Git 的功能，应有尽有！
+>
+> - [jschr/vscodethemes](https://github.com/jschr/vscodethemes): 在线预览各种 VSCode 的主题
 
 ## Debug Tool | 调试工具
 

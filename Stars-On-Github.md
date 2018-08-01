@@ -559,6 +559,8 @@
 ## Design Pattern | 设计模式
 
 > - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): 汇总了与软件架构相关的设计模式
+>
+> - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans): 各种设计模式的 JavaScript 实现
 
 ## Tip | 操作技巧
 

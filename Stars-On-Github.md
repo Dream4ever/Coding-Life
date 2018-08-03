@@ -546,6 +546,8 @@
 >
 > - [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 >
+> - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): 基于 Node.js 开发的论坛软件
+>
 > - [gothinkster/realworld](https://github.com/gothinkster/realworld): 采用各种前端、后端技术，高仿实现 Medium.com
 >
 > - [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块

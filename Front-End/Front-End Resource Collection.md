@@ -496,6 +496,8 @@ Google 关键字：`medium image lazy load`，实现medium依次加载模糊图�
 
 [前端性能优化 -- 从 10 多秒到 1.05 秒](https://segmentfault.com/a/1190000015052545)
 
+[The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4): Chrome 团队成员写的关于前端页面 JavaScript 优化的文章，读了不吃亏，读了不上当！
+
 [图片密集型网站的图片优化策略](https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966)
 
 ### 服务端渲染

@@ -336,6 +336,8 @@
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 >
+> - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
+>
 > - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): 命令行下的图形化 git，给不给力？
 >
 > - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API

@@ -336,6 +336,8 @@
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 >
+> - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): 命令行下的图形化 git，给不给力？
+>
 > - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API
 >
 > - [GoogleChromeLabs/puppeteer-examples](https://github.com/GoogleChromeLabs/puppeteer-examples): Puppeteer 相关应用的示例

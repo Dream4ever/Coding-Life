@@ -260,8 +260,6 @@
 
 - [isomorphic-git / isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers!
 
-- [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
-
 - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar): 方便地操作 JS 中原生的对象
 
 - [planttheidea / fast-copy](https://github.com/planttheidea/fast-copy): A blazing fast deep object copier
@@ -407,6 +405,8 @@
 > - [devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates): :octocat: Curated list of GitHub Issues and Pull Requests templates
 >
 > - [stevemao / github-issue-templates](https://github.com/stevemao/github-issue-templates): 🔣 A collection of GitHub issue and pull request templates
+>
+> [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 >
 > - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app): 生成 GitHub 账号和所拥有 repo 的可视化图表
 >

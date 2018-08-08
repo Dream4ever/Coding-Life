@@ -262,6 +262,8 @@
 
 - [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 
+- [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar): 方便地操作 JS 中原生的对象
+
 - [planttheidea / fast-copy](https://github.com/planttheidea/fast-copy): A blazing fast deep object copier
 
 - [stalniy / casl](https://github.com/stalniy/casl): 实现权限控制的 JS 库

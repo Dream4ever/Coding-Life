@@ -379,6 +379,8 @@
 > - [pod4g/hiper](https://github.com/pod4g/hiper): 网站性能静态分析工具
 >
 > - [facebook/jest](https://github.com/facebook/jest): JavaScript 测试工具，Facebook 出品，不用多说
+>
+> - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan): 超强的端口扫描工具，如果硬件性能足够的话，可以在 6 分钟之内扫描整个互联网！就问你怕不怕
 
 ## Docker | 容器工具
 

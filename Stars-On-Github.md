@@ -569,6 +569,8 @@
 > - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力.
 >
 > - [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 分类整理了各种可供程序员练手的小项目、小作业
+>
+> - [umpox/TinyEditor](https://github.com/umpox/TinyEditor): 不到 400 字节的在线网页代码编辑器，帅呆了！
 
 ## Architecture | 技术架构
 

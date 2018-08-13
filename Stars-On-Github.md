@@ -373,6 +373,8 @@
 > - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品
 >
 > - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb): Google 出品的 Node.js 调试工具
+>
+> - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging): Node.js 调试指南，国人出品！
 
 ## Test Tool | 测试工具
 

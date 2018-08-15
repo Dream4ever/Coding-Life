@@ -310,6 +310,10 @@
 >
 > - [l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): CSS tricks web developers need to know
 >
+> - [you-dont-need / You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript): 很有意思的项目，很多功能都可以只用 CSS 就能实现，无需 JavaScript，也算是拓展思路
+>
+> - [you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/Dream4ever?tab=stars): 用原生 JS 代替 Lodash 及 Underscore
+>
 > - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
 ## Algorithm | 算法实现

@@ -544,6 +544,8 @@
 >
 > - [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
 >
+> - [emadehsan/thal](https://github.com/emadehsan/thal): Puppeteer 爬虫教程
+>
 > - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack
 >
 > - [GoogleChromeLabs / webpack-training-project](https://github.com/GoogleChromeLabs/webpack-training-project): A training project for learning Webpack optimizations

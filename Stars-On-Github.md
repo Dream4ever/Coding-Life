@@ -150,6 +150,8 @@
 
 > - [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
 >
+> - [hapijs/joi](https://github.com/hapijs/joi): 以对象的形式对内容进行校验
+>
 > - [imbrn/v8n](https://github.com/imbrn/v8n): 又一个用于内容校验的库
 >
 > - [sindresorhus / ow](https://github.com/sindresorhus/ow): Function argument validation for humans

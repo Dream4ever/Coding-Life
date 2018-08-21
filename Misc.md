@@ -92,6 +92,8 @@
 
 [关于 Web 安全，99% 的网站都忽略了这些](https://segmentfault.com/a/1190000003852910)
 
+[移动时代的前端加密](https://div.io/topic/1220)
+
 [减少 WAF 漏报的 8 种方法 ！](https://segmentfault.com/a/1190000004301323)
 
 [XSS 跨站脚本攻击](https://segmentfault.com/a/1190000004139891)

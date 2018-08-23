@@ -86,6 +86,16 @@
 
 [书写良好的 commit message](https://loveky.github.io/2018/06/04/write-good-commit-message/)：与国际接轨的代码提交规范。
 
+## 性能测试
+
+[Web网站压力及性能测试](https://segmentfault.com/a/1190000011469759)
+
+[服务器扛不住webbench 500并发，请大家帮帮忙优化一下，谢谢](https://www.v2ex.com/t/79171)
+
+[1000个并发到底最大能承载多少用户？](https://zhuanlan.zhihu.com/p/29675339)
+
+[并发研究](https://www.jianshu.com/p/fb96292f755c)
+
 ## 网络安全
 
 [Using HTTP Headers to Secure Your Site](https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0)

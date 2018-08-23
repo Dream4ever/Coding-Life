@@ -20,6 +20,8 @@
 >
 > - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 >
+> - [baidu/san](https://github.com/baidu/san): 百度出品的响应式框架，兼容 IE6，回头在业务中试试？
+>
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
 ### UI-for-Vue

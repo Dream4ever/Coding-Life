@@ -229,6 +229,8 @@
 > - 相关关键字/topics：[wysiwyg](https://github.com/topics/wysiwyg?o=desc&s=stars)，[rich-text-editor](https://github.com/topics/rich-text-editor?o=desc&s=stars)，[editor](https://github.com/topics/editor?o=desc&s=stars)
 >
 > - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
+>
+> - [nhnent / tui.editor](https://github.com/nhnent/tui.editor): 所见即所得的 Markdown 编辑器，可嵌入网页中使用
 
 ### Image Editor | 图片编辑器
 

@@ -342,6 +342,8 @@
 >
 > - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel): 据说可以替代 webpack，那就试一试它
 >
+> - [zswang/jdists](https://github.com/zswang/jdists): 代码块预处理器，还没太弄明白能起到什么作用
+>
 > - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 >
 > - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx): Nginx 配置指南

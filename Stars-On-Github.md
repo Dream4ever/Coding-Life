@@ -626,6 +626,8 @@
 >
 > - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
 >
+> - [soimort/you-get](https://github.com/soimort/you-get): 超级给力的下载工具，可以用它来下载 YouTube 视频
+>
 > - [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 >
 > - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): macOS 开源软件大合集，给力！

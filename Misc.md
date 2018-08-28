@@ -86,6 +86,14 @@
 
 [书写良好的 commit message](https://loveky.github.io/2018/06/04/write-good-commit-message/)：与国际接轨的代码提交规范。
 
+## 正则表达式
+
+[regex101](https://regex101.com/): 可以在线测试 JS、PHP、Python、GO 这四种语言的正则表达式，并对表达式进行解释说明，网页右下角还有速查手册，非常方便！
+
+[一个由正则表达式引发的血案](http://www.cnblogs.com/study-everyday/p/7426862.html): 阿里工程师的实际经历，说明了正则表达式也大有文章
+
+[藏在正则表达式里的陷阱](https://zhuanlan.zhihu.com/p/38278481): 类似的事故，都是不规范的正则表达式引起的 CPU 占用飙升
+
 ## 性能测试
 
 [Web网站压力及性能测试](https://segmentfault.com/a/1190000011469759)

@@ -78,6 +78,8 @@
 
 > - [necolas/normalize.css](https://github.com/necolas/normalize.css): 统一 HTML 元素在所有浏览器中的样式
 >
+> - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): 复刻 GitHub 中 Markdown 渲染后的样式
+>
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
 >
 > - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本

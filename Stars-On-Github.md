@@ -479,6 +479,8 @@
 > - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 >
 > - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis): Vue.js 源码分析
+>
+> - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design): 又一个 Vue.js 的源码分析，并且用 VuePress 搭建了博客，更方便阅读
 
 ## Blog | 大牛博客
 

@@ -362,6 +362,8 @@
 >
 > - [GoogleChromeLabs/puppeteer-examples](https://github.com/GoogleChromeLabs/puppeteer-examples): Puppeteer 相关应用的示例
 >
+> - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder): Puppeteer 脚本录制工具，Chrome 扩展
+>
 > - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert): 零配置实现本地调试 https 协议页面的工具
 >
 > - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper): 网页版 GitHub 的插件，可自动更新中项目中的 npm 依赖

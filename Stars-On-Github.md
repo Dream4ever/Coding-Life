@@ -73,6 +73,10 @@
 > - [Malvid/Malvid](https://github.com/Malvid/Malvid): 管理 UI 组件库的工具
 >
 > - [pedronauck/docz](https://github.com/pedronauck/docz): 迅速生成 Bootstrap 样式的文档页面，看起来很方便
+>
+> - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
+>
+> - [antvis/f2](https://github.com/antvis/f2): 面向移动端的图表库，已在阿里系产品中普遍使用
 
 #### Library | UI 库
 
@@ -81,8 +85,6 @@
 > - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): 复刻 GitHub 中 Markdown 渲染后的样式
 >
 > - [kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js): 引导用户视觉焦点的库，轻量级，无依赖，原生 JS 编写
->
-> - [ecomfe / echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin): ECharts 的微信小程序版本
 >
 > - [nhnent / tui.calendar](https://github.com/nhnent/tui.calendar): 功能极其全面的 JS 日历库
 >

@@ -8,7 +8,8 @@
   - [UI for Vue](#ui-for-vue)
 - [Library](#library)
   - [UI](#ui)
-  - [UI Framework](#ui-framework)
+    - [UI Framework](#ui-framework)
+    - [UI Library](#ui-library)
 - [Misc](#misc)
 
 ## Framework

@@ -7,6 +7,8 @@
 - [Framework](#framework)
   - [UI for Vue](#ui-for-vue)
 - [Library](#library)
+  - [UI](#ui)
+  - [UI Framework](#ui-framework)
 - [Misc](#misc)
 
 ## Framework
@@ -53,9 +55,9 @@
 
 ## Library
 
-### UI | 用户界面
+### UI
 
-#### Framework | UI 框架
+#### UI Framework
 
 > - [yued-fe/lulu](https://github.com/yued-fe/lulu): 兼容 IE8+，针对 PC 端的前端 UI 框架，无依赖，阅文集团出品
 >

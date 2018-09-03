@@ -20,6 +20,7 @@
   - [XML](#xml)
   - [Restful API and ORM](#restful-api-and-orm)
   - [Database and File System](#database-and-file-system)
+  - [Frontend Storage](#frontend-storage)
 - [Misc](#misc)
 
 ## Framework
@@ -212,7 +213,7 @@
 >
 > - [chrislusf / seaweedfs](https://github.com/chrislusf/seaweedfs): 用 Go 搭建的，可轻松扩展的分布式文件系统
 
-### Front-end Storage | 前端浏览器存储
+### Frontend Storage
 
 > - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
 

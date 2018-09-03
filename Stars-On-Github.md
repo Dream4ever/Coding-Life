@@ -10,6 +10,8 @@
   - [UI](#ui)
     - [UI Framework](#ui-framework)
     - [UI Library](#ui-library)
+  - [Form](#form)
+  - [Upload & Download](#upload-&-download)
 - [Misc](#misc)
 
 ## Framework
@@ -126,11 +128,11 @@
 >
 > - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
-### Form | 表单填写
+### Form
 
 > - [appleple/form-storage](https://github.com/appleple/form-storage): 将表单信息保存至浏览器的 localstorage 中，这样刷新页面后就不需要手动填写了
 
-### Upload & Download | 上传 & 下载
+### Upload & Download
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 >

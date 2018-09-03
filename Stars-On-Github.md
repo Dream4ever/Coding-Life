@@ -24,7 +24,7 @@
 >
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
 
-### UI-for-Vue
+### UI for Vue
 
 > - [ElemeFE / element](https://github.com/ElemeFE/element): 桌面端 UI 框架
 >

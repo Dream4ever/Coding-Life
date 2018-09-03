@@ -19,6 +19,7 @@
   - [Validation](#validation)
   - [XML](#xml)
   - [Restful API and ORM](#restful-api-and-orm)
+  - [Database and File System](#database-and-file-system)
 - [Misc](#misc)
 
 ## Framework
@@ -197,7 +198,7 @@
 >
 > - [typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder): 简单的在线 Restful API 服务器
 
-### Database & File System  | 数据库及文件系统
+### Database and File System
 
 > - [xo/usql](https://github.com/xo/usql): 一套统一的命令行接口，用来操作各种 SQL、非 SQL、非关系数据库（目前还不支持 MongoDB）
 >

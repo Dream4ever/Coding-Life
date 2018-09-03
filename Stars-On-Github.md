@@ -6,6 +6,7 @@
 
 - [Framework](#framework)
   - [UI for Vue](#ui-for-vue)
+- [Library](#library)
 - [Misc](#misc)
 
 ## Framework
@@ -50,7 +51,7 @@
 >
 > - [declandewet/vue-meta](https://github.com/declandewet/vue-meta): 在组件中管理页面的 `meta` 信息
 
-## Library | 库
+## Library
 
 ### UI | 用户界面
 

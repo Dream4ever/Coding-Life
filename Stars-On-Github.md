@@ -18,6 +18,7 @@
   - [Time](#time)
   - [Validation](#validation)
   - [XML](#xml)
+  - [Restful API and ORM](#restful-api-and-orm)
 - [Misc](#misc)
 
 ## Framework
@@ -182,7 +183,7 @@
 
 > - [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js): 将 XML 解析为 JavaScript 对象
 
-### Restful API & ORM
+### Restful API and ORM
 
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 >

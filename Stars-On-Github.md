@@ -6,8 +6,8 @@
 
 - [Framework](#framework)
   - [UI for Vue](#ui-for-vue)
-- [Library](#library)
-  - [UI](#ui)
+- Library
+  - UI
     - [UI Framework](#ui-framework)
     - [UI Library](#ui-library)
   - [Form](#form)

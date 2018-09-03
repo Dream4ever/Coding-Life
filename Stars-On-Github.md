@@ -11,7 +11,7 @@
     - [UI Framework](#ui-framework)
     - [UI Library](#ui-library)
   - [Form](#form)
-  - [Upload & Download](#upload-&-download)
+  - [Upload & Download](#upload-and-download)
 - [Misc](#misc)
 
 ## Framework
@@ -132,7 +132,7 @@
 
 > - [appleple/form-storage](https://github.com/appleple/form-storage): 将表单信息保存至浏览器的 localstorage 中，这样刷新页面后就不需要手动填写了
 
-### Upload & Download
+### Upload and Download
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 >

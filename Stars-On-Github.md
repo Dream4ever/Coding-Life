@@ -11,7 +11,13 @@
     - [UI Framework](#ui-framework)
     - [UI Library](#ui-library)
   - [Form](#form)
-  - [Upload & Download](#upload-and-download)
+  - [Upload & Download](#upload-and-download
+  - [Comment](#comment)
+  - [Share](#share)
+  - [Maths](#maths)
+  - [Time](#time)
+  - [Validation](#validation)
+  - [XML](#xml)
 - [Misc](#misc)
 
 ## Framework
@@ -142,23 +148,23 @@
 >
 > - [expressjs / multer](https://github.com/expressjs/multer): 用于处理文件上传下载的 Express 中间件
 
-### Comment | 评论
+### Comment
 
 > - [utterance / utterances](https://github.com/utterance/utterances): 借助 GitHub issues 实现评论功能
 
-### Share | 分享
+### Share
 
 > - [fa-ge/NativeShare](https://github.com/fa-ge/NativeShare): 整合了各家移动端浏览器的分享功能，提供统一的 API 供开发者调用
 
-### Maths | 数学运算
+### Maths
 
 > - [josdejong/mathjs](https://github.com/josdejong/mathjs): 实现了常见的数学运算的库
 
-### Time | 日期时间
+### Time
 
 > - [date-fns/date-fns](https://github.com/date-fns/date-fns): 感觉比 Moment 这个库要给力
 
-### Validation | 校验
+### Validation
 
 > - [chriso / validator.js](https://github.com/chriso/validator.js): 字符串校验
 >
@@ -172,7 +178,7 @@
 >
 > - [express-validator / express-validator](https://github.com/express-validator/express-validator): An express.js middleware for node-validator.
 
-### XML | XML 解析
+### XML
 
 > - [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js): 将 XML 解析为 JavaScript 对象
 

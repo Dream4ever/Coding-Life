@@ -80,7 +80,7 @@
 >
 > - [antvis/f2](https://github.com/antvis/f2): 面向移动端的图表库，已在阿里系产品中普遍使用
 
-#### Library | UI 库
+#### UI Library
 
 > - [necolas/normalize.css](https://github.com/necolas/normalize.css): 统一 HTML 元素在所有浏览器中的样式
 >

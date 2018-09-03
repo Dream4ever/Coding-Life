@@ -21,6 +21,7 @@
   - [Restful API and ORM](#restful-api-and-orm)
   - [Database and File System | 数据库及文件系统](#database-and-file-system)
   - [Frontend Storage | 前端浏览器存储](#frontend-storage)
+  - [Code Checking | 代码检查](#code-checking)
 
 ## Framework
 
@@ -216,7 +217,7 @@
 
 > - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
 
-### Code Checking | 代码检查
+### Code Checking
 
 > - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect): 检查是否有相似的代码，便于重构
 

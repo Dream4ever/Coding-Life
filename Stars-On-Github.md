@@ -2,6 +2,8 @@
 
 > 经过一段时间的整理，发觉不只是要收藏项目，更多的是要了解不同类型项目在英语中的专业表述。授人以鱼不如授人以渔，知道了该用什么关键字去搜索，比只是简单地列出几个项目地址要更有用。
 
+---
+
 ## Table of Content | 目录
 
 - [Framework | 框架](#framework)
@@ -22,6 +24,8 @@
   - [Database and File System | 数据库及文件系统](#database-and-file-system)
   - [Frontend Storage | 前端浏览器存储](#frontend-storage)
   - [Code Checking | 代码检查](#code-checking)
+  
+  ---
 
 ## Framework
 

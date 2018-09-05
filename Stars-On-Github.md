@@ -385,6 +385,8 @@
 >
 > - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder): Puppeteer 脚本录制工具，Chrome 扩展
 >
+> - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): 网页版的 Dash，试了一下，还挺好用
+>
 > - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert): 零配置实现本地调试 https 协议页面的工具
 >
 > - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper): 网页版 GitHub 的插件，可自动更新中项目中的 npm 依赖

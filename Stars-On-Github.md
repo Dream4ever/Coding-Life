@@ -691,6 +691,8 @@
 >
 > - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 >
+> - [hzlzh/Best-App](https://github.com/hzlzh/Best-App): 收集&推荐优秀的 Apps/硬件/技巧/周边等
+>
 > - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 >
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱

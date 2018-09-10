@@ -685,6 +685,8 @@
 >
 > - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
 >
+> - [fateleak/openwebmonitor](https://github.com/fateleak/openwebmonitor): 网页内容变更监控工具，看起来很风骚啊！
+>
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
 >
 > - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows

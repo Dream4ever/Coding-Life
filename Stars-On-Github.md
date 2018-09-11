@@ -403,6 +403,8 @@
 >
 > - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens): 在 VSCode 中充分发挥了 Git 的功能，应有尽有！
 >
+> - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github): 集成了 GitHub 及其各种工作流，看起来很强大
+>
 > - [jschr/vscodethemes](https://github.com/jschr/vscodethemes): 在线预览各种 VSCode 的主题
 >
 > - [stkb/Rewrap](https://github.com/stkb/Rewrap): 根据设定的行宽，对文字进行强制换行

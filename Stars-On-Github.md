@@ -468,6 +468,8 @@
 > - [sindresorhus / refined-github](https://github.com/sindresorhus/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
 >
 > - [amio/badgen](https://github.com/amio/badgen): 迅速生成 GitHub 开源项目标签（比如 npm 版本，测试是否通过之类的标志）
+>
+> - [Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions): 大佬教你如何给开源项目做贡献
 
 ## Roadmap | 路径指引
 

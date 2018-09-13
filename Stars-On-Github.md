@@ -275,6 +275,10 @@
 
 > - [log4js-node / log4js-node](https://github.com/log4js-node/log4js-node): 用于 Node.js 的 log4js
 
+### User Stat | 用户统计
+
+> - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): 解析 UserAgent 中各种信息的库，值得一试
+
 ### Changelog | 更新历史
 
 > - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator): 自动生成 changelog

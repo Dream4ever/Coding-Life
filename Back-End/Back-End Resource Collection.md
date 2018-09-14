@@ -183,6 +183,10 @@ ViewBag.Id = Id;
 
 ## 服务器
 
+[Windows Server 性能监控最佳实践](https://www.datadoghq.com/blog/monitoring-windows-server-2012/): 系列一共三篇文章，第一篇讲基础知识，第二篇讲如何用 Windows Server 自带的功能做性能监控，第三篇讲如何用软件做性能监控，值得一读。
+
+相关关键字：`windows server performance monitoring best practices`
+
 [Web开发者手边的一本CentOS小书](https://array-huang.gitbooks.io/centos-book/content/)
 
 [入门用户的网站服务器安全技巧](https://segmentfault.com/a/1190000004178690)

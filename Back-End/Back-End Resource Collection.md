@@ -187,6 +187,8 @@ ViewBag.Id = Id;
 
 相关关键字：`windows server performance monitoring best practices`
 
+如何查看 IIS 并发？利用性能计数器即可
+
 [Web开发者手边的一本CentOS小书](https://array-huang.gitbooks.io/centos-book/content/)
 
 [入门用户的网站服务器安全技巧](https://segmentfault.com/a/1190000004178690)

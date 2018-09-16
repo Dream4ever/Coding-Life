@@ -676,6 +676,12 @@ Google: `安卓 微信 调试` 或者 `前端 真机 调试`
 
 [你可能知道给截图套壳，但你知道怎样给动图套壳吗？](https://sspai.com/post/42447)
 
+### 渐变色
+
+[uiGradients](https://uigradients.com/)
+
+[WebGradients](https://webgradients.com/)
+
 ### CSS
 
 [CSS参考手册](http://css.doyoe.com/)

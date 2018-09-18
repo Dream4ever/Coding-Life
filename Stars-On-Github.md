@@ -638,6 +638,8 @@
 > - [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 分类整理了各种可供程序员练手的小项目、小作业
 >
 > - [umpox/TinyEditor](https://github.com/umpox/TinyEditor): 不到 400 字节的在线网页代码编辑器，帅呆了！
+>
+> - [neonious/lowjs](https://github.com/neonious/lowjs): 可用于超低配置硬件的 Node.js 的移植版本
 
 ## Architecture | 技术架构
 

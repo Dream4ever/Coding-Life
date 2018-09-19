@@ -381,6 +381,8 @@
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 >
+> - [bokub/lyo](https://github.com/bokub/lyo): 把 Node.js 模块转换成浏览器中可用的库，听起来非常棒！
+>
 > - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
 >
 > - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): 命令行下的图形化 git，给不给力？

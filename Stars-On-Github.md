@@ -42,6 +42,8 @@
 > - [baidu/san](https://github.com/baidu/san): 百度出品的响应式框架，兼容 IE6，回头在业务中试试？
 >
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
+>
+> - [framework7io/framework7](https://github.com/framework7io/framework7): 一套 HTML 框架，同时能开发 iOS 和 Android APP，有些厉害哦~
 
 ### UI for Vue
 

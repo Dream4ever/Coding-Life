@@ -339,6 +339,8 @@
 
 - [retejs/rete](https://github.com/retejs/rete): 实现了可视化编程的 JavaScript 库，拖拖拽拽就能实现指定功能，很有意思，可以体验一下
 
+- [WebReflection/flatted](https://github.com/WebReflection/flatted): 实现了循环引用的 JSON 解析库
+
 </details>
 
 ## Snippet | 代码片段

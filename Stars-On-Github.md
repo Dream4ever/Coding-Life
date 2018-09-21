@@ -577,6 +577,8 @@
 >
 > - [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
 >
+> - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX): 这个项目的价值非常高！对开发者来说
+>
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 >
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么

@@ -2,11 +2,9 @@
 
 > 整理思路：参考 [Development Roadmap](https://github.com/kamranahmedse/developer-roadmap) 这类资料，对收集的链接进行重新分类。
 
-## [Front-End](https://github.com/Dream4ever/Coding-Life/blob/master/Front-End/Front-End%20Resource%20Collection.md) 前端开发
+## [Front-End](https://github.com/Dream4ever/Coding-Life/blob/master/Front-End.md) 前端开发
 
-## [Back-End](https://github.com/Dream4ever/Coding-Life/blob/master/Back-End/Back-End%20Resource%20Collection.md) 后端开发
-
-## [C# & ASP.NET](https://github.com/Dream4ever/Coding-Life/blob/master/C%23%20&%20ASP.NET/01.%20C%23%20Basics%20for%20Beginners.md) C# 及 ASP.NET 学习笔记
+## [Back-End](https://github.com/Dream4ever/Coding-Life/blob/master/Back-End/Back-End.md) 后端开发
 
 ## [Misc](https://github.com/Dream4ever/Coding-Life/blob/master/Misc.md) 其它方面资料的收集整理
 

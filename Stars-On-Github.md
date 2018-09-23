@@ -42,6 +42,8 @@
 > - [baidu/san](https://github.com/baidu/san): 百度出品的响应式框架，兼容 IE6，回头在业务中试试？
 >
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
+>
+> - [framework7io/framework7](https://github.com/framework7io/framework7): 一套 HTML 框架，同时能开发 iOS 和 Android APP，有些厉害哦~
 
 ### UI for Vue
 
@@ -337,6 +339,8 @@
 
 - [retejs/rete](https://github.com/retejs/rete): 实现了可视化编程的 JavaScript 库，拖拖拽拽就能实现指定功能，很有意思，可以体验一下
 
+- [WebReflection/flatted](https://github.com/WebReflection/flatted): 实现了循环引用的 JSON 解析库
+
 </details>
 
 ## Snippet | 代码片段
@@ -380,6 +384,8 @@
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
+>
+> - [bokub/lyo](https://github.com/bokub/lyo): 把 Node.js 模块转换成浏览器中可用的库，听起来非常棒！
 >
 > - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
 >
@@ -571,6 +577,8 @@
 >
 > - [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
 >
+> - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX): 这个项目的价值非常高！对开发者来说
+>
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 >
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -638,6 +646,8 @@
 > - [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 分类整理了各种可供程序员练手的小项目、小作业
 >
 > - [umpox/TinyEditor](https://github.com/umpox/TinyEditor): 不到 400 字节的在线网页代码编辑器，帅呆了！
+>
+> - [neonious/lowjs](https://github.com/neonious/lowjs): 可用于超低配置硬件的 Node.js 的移植版本
 
 ## Architecture | 技术架构
 

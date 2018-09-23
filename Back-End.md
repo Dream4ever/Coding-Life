@@ -28,6 +28,10 @@
 
 ### C Sharp
 
+#### 入门教程
+
+[C# Tutorial - Tutlane](https://www.tutlane.com/tutorial/csharp/csharp-tutorial): 又一个 C# 入门教程，但是真的需要这么多教程么？
+
 #### 编码规范
 
 [C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)：MSDN官方的C#编程规范

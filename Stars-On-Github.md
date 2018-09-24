@@ -243,7 +243,11 @@
 >
 > - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持
 >
-> - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 汇总了各种用 JavaScript 实现 FFMpeg 相关操作的库 
+> - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 汇总了各种用 JavaScript 实现 FFMpeg 相关操作的库
+
+### Qrcode
+
+> - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner)
 
 ### Color Picker | 颜色选择器
 

@@ -185,6 +185,8 @@ ViewBag.Id = Id;
 
 [安居客 MySQL 使用规范](https://github.com/anjuke/coding-style/blob/master/mysql/mysql-guideline.md)
 
+[浅谈数据库用户表结构设计](http://wpceo.com/user-database-table-design/)
+
 ## 服务器
 
 [Windows Server 性能监控最佳实践](https://www.datadoghq.com/blog/monitoring-windows-server-2012/): 系列一共三篇文章，第一篇讲基础知识，第二篇讲如何用 Windows Server 自带的功能做性能监控，第三篇讲如何用软件做性能监控，值得一读。

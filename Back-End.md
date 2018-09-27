@@ -201,6 +201,8 @@ ViewBag.Id = Id;
 
 如何查看 IIS 并发？利用性能计数器即可
 
+[基于ELK实现Windows服务器系统日志监控](https://bbs.huaweicloud.com/blogs/e9dcf82bc39611e7b8317ca23e93a891)
+
 [Web开发者手边的一本CentOS小书](https://array-huang.gitbooks.io/centos-book/content/)
 
 [入门用户的网站服务器安全技巧](https://segmentfault.com/a/1190000004178690)

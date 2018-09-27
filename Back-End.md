@@ -1,5 +1,9 @@
 # 后端相关资源汇总
 
+## 技术选型
+
+[Choosing a (Language) Stack](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
+
 ## 运行时
 
 ### Node.JS

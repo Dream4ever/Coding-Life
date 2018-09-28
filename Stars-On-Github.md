@@ -260,6 +260,8 @@
 > - [jaredreich / pell](https://github.com/jaredreich/pell): 极其迷你的在线文本编辑器。不过把文本设置为代码段之后，就没办法再恢复成普通样式了
 >
 > - [nhnent / tui.editor](https://github.com/nhnent/tui.editor): 所见即所得的 Markdown 编辑器，可嵌入网页中使用
+>
+> - [basecamp/trix](https://github.com/basecamp/trix): 一款富文本编辑器，自称比其它同类产品更优秀
 
 ### Image Editor | 图片编辑器
 

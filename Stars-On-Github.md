@@ -435,6 +435,8 @@
 >
 > - [Tencent / vConsole](https://github.com/Tencent/vConsole): 和上面的 eruda 有些类似的调试工具，腾讯出品
 >
+> - [t7/trashy.css](https://github.com/t7/trashy.css/): 一个很好玩的项目，只需要引入一个 CSS，就能够看到当前页面的结构，甚至是代码中不符合规范的地方
+>
 > - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb): Google 出品的 Node.js 调试工具
 >
 > - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging): Node.js 调试指南，国人出品！

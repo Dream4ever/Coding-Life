@@ -232,6 +232,16 @@
 
 > - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
 
+### Web Crawling and Scraping
+
+> - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API
+>
+> - [GoogleChromeLabs/puppeteer-examples](https://github.com/GoogleChromeLabs/puppeteer-examples): Puppeteer 相关应用的示例
+>
+> - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder): Puppeteer 脚本录制工具，Chrome 扩展
+>
+> - [apifytech/apify-js](https://github.com/apifytech/apify-js): 可扩展的爬虫库，可实现对 Puppeteer 实例的批量管理
+
 ### Code Executing
 
 > - [netgusto/nodebook](https://github.com/netgusto/nodebook): 可在浏览器中运行各种语言，C，C++，Go，JAVA，应有尽有
@@ -409,12 +419,6 @@
 > - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
 >
 > - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): 命令行下的图形化 git，给不给力？
->
-> - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer): 无头（无 GUI）Chrome Node API
->
-> - [GoogleChromeLabs/puppeteer-examples](https://github.com/GoogleChromeLabs/puppeteer-examples): Puppeteer 相关应用的示例
->
-> - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder): Puppeteer 脚本录制工具，Chrome 扩展
 >
 > - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): 网页版的 Dash，试了一下，还挺好用
 >

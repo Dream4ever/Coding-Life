@@ -8,6 +8,7 @@
 
 - [Framework | 框架](#framework)
   - [UI for Vue | 用于 Vue 的 UI 框架及库](#ui-for-vue)
+- [WeApp | 小程序](#weapp)
 - Library | 库
   - UI
     - [UI Framework | UI 框架](#ui-framework)
@@ -35,10 +36,6 @@
 >
 > - [vuejs / vue](https://github.com/vuejs/vue): 易用、灵活、高效的渐进式 JavaScript 框架
 >
-> - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
->
-> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
->
 > - [baidu/san](https://github.com/baidu/san): 百度出品的响应式框架，兼容 IE6，回头在业务中试试？
 >
 > - [mochajs / mocha](https://github.com/mochajs/mocha): 专业级的 JavaScript 测试框架
@@ -55,8 +52,6 @@
 >
 > - [logoove / weui](https://github.com/logoove/weui): weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 >
-> - [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 据说是一套高质量的微信小程序 UI 组件库
->
 > - [bootstrap-vue / bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): 将 Bootstrap 和 Vue 集成到一起的框架，以组件化的方式使用
 >
 > - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin): 开源的后台管理系统的前端 UI 库
@@ -72,6 +67,16 @@
 > - [a-jie/clock-shop](https://github.com/a-jie/clock-shop): 各种样式的钟表
 >
 > - [declandewet/vue-meta](https://github.com/declandewet/vue-meta): 在组件中管理页面的 `meta` 信息
+
+## WeApp
+
+> - [dntzhang/westore](https://github.com/dntzhang/westore): 世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理和跨页通讯
+>
+> - [Tencent / wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+>
+> - [Meituan-Dianping / mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+>
+> - [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 据说是一套高质量的微信小程序 UI 组件库
 
 ## Library
 

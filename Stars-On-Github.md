@@ -391,6 +391,8 @@
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 >
+> - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): 基于 GPU 的终端模拟器，电脑性能足够的话，会非常流畅
+>
 > - [bokub/lyo](https://github.com/bokub/lyo): 把 Node.js 模块转换成浏览器中可用的库，听起来非常棒！
 >
 > - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图

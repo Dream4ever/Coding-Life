@@ -225,6 +225,10 @@
 
 > - [localForage/localForage](https://github.com/localForage/localForage): 一套 API 封装了各种前端浏览器中的存储功能
 
+### Code Executing
+
+> - [netgusto/nodebook](https://github.com/netgusto/nodebook): 可在浏览器中运行各种语言，C，C++，Go，JAVA，应有尽有
+
 ### Code Checking
 
 > - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect): 检查是否有相似的代码，便于重构

@@ -12,8 +12,6 @@
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831/answer/61429937)：文章超长，但是干货超级多，值得反复精读！
 
-[Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188#articleHeader42)
-
 [Growth: 全栈增长工程师指南](http://growth.phodal.com/#growth-全栈增长工程师指南)
 
 [全栈增长工程师实战](http://growth-in-action.phodal.com/#序如何成为全栈增长工程师)

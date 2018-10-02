@@ -14,7 +14,7 @@
 
 [Growth: 全栈增长工程师指南](http://growth.phodal.com/#growth-全栈增长工程师指南)
 
-[全栈增长工程师实战](http://growth-in-action.phodal.com/#序如何成为全栈增长工程师)
+[全栈增长工程师实战](http://growth-in-action.phodal.com/#序如何成为全栈增长工程师)：虽然是用 Django 作为示例，但是却完整地讲述了如何开发一个博客项目，涉及前后端、自动化测试、持续集成等内容。
 
 [程序员如何在技术浪潮的更迭中保持较高的成长速度 ？](https://halfrost.com/halfrost_2017/)
 

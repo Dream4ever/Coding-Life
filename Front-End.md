@@ -32,8 +32,6 @@
 
 [学习前端我推荐这5本书](http://www.jianshu.com/p/3cf51d3dbb73)
 
-[专治前端焦虑的学习方案](https://segmentfault.com/a/1190000007362890)
-
 [写给想成为前端工程师的同学们](https://www.h5jun.com/post/to-be-a-good-frontend-engineer.html)
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)

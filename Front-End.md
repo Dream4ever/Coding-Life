@@ -28,8 +28,6 @@
 
 ### 前端学习
 
-[前端开发者指南（2017）](https://github.com/xitu/front-end-handbook-2017)
-
 [前端网老姚浅谈：怎么学JavaScript？](https://zhuanlan.zhihu.com/p/23265155)
 
 [学习前端我推荐这5本书](http://www.jianshu.com/p/3cf51d3dbb73)

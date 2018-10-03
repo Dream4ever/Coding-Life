@@ -62,6 +62,8 @@
 
 [面向信仰编程](https://draveness.me/index)：博客文章很有价值。
 
+## 基础知识
+
 ### 网络原理
 
 [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)：深入到了最底层，可以算非常完善的讲解了，但是不太适合小白们阅读，估计会一脸懵。
@@ -73,8 +75,6 @@
 [DNS 原理入门 - 阮一峰](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
 [理解IP，子网和CIDR标记法](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
-
-## 语言基础
 
 ### HTML
 

@@ -30,6 +30,8 @@
 
 [学习前端我推荐这5本书](http://www.jianshu.com/p/3cf51d3dbb73)
 
+> 《Web 前端开发最佳实践》《编写可维护的 JavaScript》和《JavaScript 设计模式与开发实践》应该很有看头
+
 [写给想成为前端工程师的同学们](https://www.h5jun.com/post/to-be-a-good-frontend-engineer.html)
 
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)

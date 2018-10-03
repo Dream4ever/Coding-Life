@@ -31,6 +31,8 @@
 [学习前端我推荐这5本书](http://www.jianshu.com/p/3cf51d3dbb73)
 
 > 《Web 前端开发最佳实践》《编写可维护的 JavaScript》和《JavaScript 设计模式与开发实践》应该很有看头
+> 另外一本《图解 HTTP》是普遍推荐的
+> 最后一本《锋利的 jQuery》个人认为可以 pass 了
 
 [写给想成为前端工程师的同学们](https://www.h5jun.com/post/to-be-a-good-frontend-engineer.html)
 

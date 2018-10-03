@@ -18,7 +18,7 @@
 
 [程序员如何在技术浪潮的更迭中保持较高的成长速度 ？](https://halfrost.com/halfrost_2017/)
 
-[知乎上前端开发领域有哪些值得推荐的问答？](https://www.zhihu.com/question/20246142)
+[知乎上前端开发领域有哪些值得推荐的问答？](https://www.zhihu.com/question/20246142)：可以当做资源地图来用
 
 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
 

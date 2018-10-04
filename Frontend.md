@@ -36,6 +36,8 @@
 
 [写给想成为前端工程师的同学们](https://www.h5jun.com/post/to-be-a-good-frontend-engineer.html)
 
+> 文章后面关于思路和方法的指点非常棒
+
 [写给初学前端工程师的一封信](https://www.w3ctech.com/topic/983)
 
 [当你一个人想做一个web项目的时候你该怎么做](https://zhuanlan.zhihu.com/p/20575952)

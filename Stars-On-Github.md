@@ -758,6 +758,8 @@
 >
 > - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 >
+> - [ao/ktmm](https://github.com/ao/ktmm): 鼠标不能停！给我动起来！
+>
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 >
 > - [greatghoul/remote-working](https://github.com/greatghoul/remote-working): 收集整理国内远程工作相关的资源

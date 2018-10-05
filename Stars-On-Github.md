@@ -614,9 +614,11 @@
 >
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 >
+> - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑
+>
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 >
-> - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑
+> - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers): 收集整理了对开源项目维护者的访谈
 >
 > - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
 >
@@ -763,5 +765,3 @@
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 >
 > - [greatghoul/remote-working](https://github.com/greatghoul/remote-working): 收集整理国内远程工作相关的资源
->
-> - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers): 收集整理了对开源项目维护者的访谈

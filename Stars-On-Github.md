@@ -432,7 +432,7 @@
 >
 > - [allinurl/goaccess](https://github.com/allinurl/goaccess): 实时查看及分析 Web 日志的工具，免费，支持各种常见 Web 服务的日志
 
-### VSCode Extension | VSCode 扩展
+## VSCode Extension | VSCode 扩展
 
 > - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): 在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
 >

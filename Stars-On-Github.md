@@ -616,7 +616,11 @@
 >
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 >
-> - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑，
+> - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑
+>
+> - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
+>
+> - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 
 ## Tutorial | 教程
 
@@ -749,10 +753,6 @@
 > - [fateleak/openwebmonitor](https://github.com/fateleak/openwebmonitor): 网页内容变更监控工具，看起来很风骚啊！
 >
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
->
-> - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
->
-> - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 >
 > - [hzlzh/Best-App](https://github.com/hzlzh/Best-App): 收集&推荐优秀的 Apps/硬件/技巧/周边等
 >

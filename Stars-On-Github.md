@@ -728,6 +728,8 @@
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 >
+> - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): 大名鼎鼎的 gitmoji！
+>
 > - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
 >
 > - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures

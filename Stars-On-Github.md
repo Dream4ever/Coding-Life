@@ -404,10 +404,6 @@
 >
 > - [zswang/jdists](https://github.com/zswang/jdists): 代码块预处理器，还没太弄明白能起到什么作用
 >
-> - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
->
-> - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx): Nginx 配置指南
->
 > - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
 >
 > - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
@@ -476,9 +472,17 @@
 
 > - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): 自动化的 SQL 注入工具
 
-## Docker | 容器工具
+## Docker
 
 > - [portainer/portainer](https://github.com/portainer/portainer): 用于管理容器的 UI 库
+
+## Nginx
+
+> - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx): Nginx 配置指南
+>
+> - [taobao/nginx-book](https://github.com/taobao/nginx-book): Nginx开发从入门到精通
+>
+> - [alexazhou / VeryNginx](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 ## Envrionment | 环境配置
 

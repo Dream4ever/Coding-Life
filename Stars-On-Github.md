@@ -620,6 +620,8 @@
 >
 > - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack): 司徒正美整理的移动端开发遇到的各种坑
 >
+> - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): 在实际业务的开发和运营中，所用到的各类资源
+>
 > - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 >
 > - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers): 收集整理了对开源项目维护者的访谈

@@ -768,6 +768,8 @@
 >
 > - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
 >
+> - [danburzo/percollate](https://github.com/danburzo/percollate): 一键将网页转换成 PDF
+>
 > - [fateleak/openwebmonitor](https://github.com/fateleak/openwebmonitor): 网页内容变更监控工具，看起来很风骚啊！
 >
 > - [taxigps / xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese): Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.

@@ -560,6 +560,8 @@
 >
 > - [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript. @YDKJS on twitter.
 >
+> - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts): JavaScript 中必知必会的 33 个概念
+>
 > - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
 >
 > - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊

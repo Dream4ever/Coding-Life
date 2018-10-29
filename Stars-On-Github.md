@@ -324,6 +324,8 @@
 
 - [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 
+- [gridsome/gridsome](https://github.com/gridsome/gridsome): 用 Vue.js 和 GraphQL 极速生成网站
+
 - [isomorphic-git / isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers!
 
 - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar): 方便地操作 JS 中原生的对象

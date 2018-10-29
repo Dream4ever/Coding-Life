@@ -430,6 +430,8 @@
 
 ## VSCode Extension | VSCode 扩展
 
+> - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 整理汇总了 VSCode 一系列丰富的资源
+>
 > - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): 在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
 >
 > - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens): 在 VSCode 中充分发挥了 Git 的功能，应有尽有！

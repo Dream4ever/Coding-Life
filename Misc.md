@@ -134,6 +134,8 @@
 
 ## Docker
 
+[Docker 有什么优势？](https://www.zhihu.com/question/22871084)
+
 [Docker 中文指南](http://www.widuu.com/chinese_docker/examples/mongodb.html)
 
 [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)

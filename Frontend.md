@@ -490,6 +490,8 @@ Google 关键字：`medium image lazy load`，实现medium依次加载模糊图�
 
 ### 性能优化
 
+[Web Performance 101](https://3perf.com/talks/web-perf-101/)
+
 [前端妹子跟我抱怨她们的页面加载很慢的时候，如何在她面前优雅地装？](https://www.zhihu.com/question/27085552/answer/35194131)
 
 [淘宝首页性能优化实践](https://www.barretlee.com/blog/2016/04/01/optimization-in-taobao-homepage/)：小胡子哥的博文，讲了淘宝首页性能优化的几个关键点

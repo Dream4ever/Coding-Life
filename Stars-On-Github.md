@@ -754,6 +754,8 @@
 >
 > - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): 大名鼎鼎的 gitmoji！
 >
+> - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore): 跨平台的代码片段管理工具，作者13岁就开始学习Web和软件开发，厉害！
+>
 > - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
 >
 > - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures

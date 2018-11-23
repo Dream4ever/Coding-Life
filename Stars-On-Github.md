@@ -370,6 +370,8 @@
 
 - [WebReflection/flatted](https://github.com/WebReflection/flatted): 实现了循环引用的 JSON 解析库
 
+- [GoogleChromeLabs/page-lifecycle](GoogleChromeLabs/page-lifecycle): Google 出品，用于观察页面生命周期 API 的状态变化
+
 </details>
 
 ## Snippet | 代码片段

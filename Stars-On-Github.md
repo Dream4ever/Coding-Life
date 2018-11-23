@@ -787,3 +787,5 @@
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 >
 > - [greatghoul/remote-working](https://github.com/greatghoul/remote-working): 收集整理国内远程工作相关的资源
+>
+> - [resume/resume.github.com](https://github.com/resume/resume.github.com): 用 GitHub 公开信息生成你的个人简历

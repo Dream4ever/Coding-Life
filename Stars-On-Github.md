@@ -269,6 +269,8 @@
 ### Qrcode
 
 > - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner)
+>
+> - [cirocosta/qcode-decoder](https://github.com/cirocosta/qcode-decoder)
 
 ### Color Picker | 颜色选择器
 

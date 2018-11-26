@@ -108,6 +108,8 @@
 
 [Using HTTP Headers to Secure Your Site](https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0)
 
+[Web安全开发规范手册V1.0](https://segmentfault.com/a/1190000017090860)
+
 [关于 Web 安全，99% 的网站都忽略了这些](https://segmentfault.com/a/1190000003852910)
 
 [移动时代的前端加密](https://div.io/topic/1220)

@@ -86,6 +86,8 @@
 
 [书写良好的 commit message](https://loveky.github.io/2018/06/04/write-good-commit-message/)：与国际接轨的代码提交规范。
 
+[Top 10 GitHub Best Practices](https://datree.io/blog/top-10-github-best-practices/): 在 GitHub 上开发、管理代码的最佳实践。
+
 ## 正则表达式
 
 [regex101](https://regex101.com/): 可以在线测试 JS、PHP、Python、GO 这四种语言的正则表达式，并对表达式进行解释说明，网页右下角还有速查手册，非常方便！

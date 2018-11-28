@@ -66,7 +66,9 @@
 
 [DDFE-blog](https://github.com/DDFE/DDFE-blog)：滴滴平台技术部前端博客。
 
-[jawil/blog](https://github.com/jawil/blog)：似乎只有 2017 年的文章，但是却有高达 4K 的 Star，厉害了！另外 README 里还介绍了 [前端小密圈](http://qdxmq.com/)，貌似也是作者的个人博客。
+[jawil/blog](https://github.com/jawil/blog)：
+
+> ↑↑↑ 文章不多，但是却有高达 6K 的 Star，厉害了！另外 README 里还介绍了 [前端小密圈](http://qdxmq.com/)，貌似也是作者的个人博客。
 
 [张鑫技术男](https://zhuanlan.zhihu.com/zhangxin840)：（搬运自我介绍）关于互联网团队管理，项目管理，终端技术方面的思考。
 

@@ -66,11 +66,13 @@
 
 [DDFE-blog](https://github.com/DDFE/DDFE-blog)：滴滴平台技术部前端博客。
 
-[jawil/blog](https://github.com/jawil/blog)：
+[jawil/blog](https://github.com/jawil/blog)
 
 > ↑↑↑ 文章不多，但是却有高达 6K 的 Star，厉害了！另外 README 里还介绍了 [前端小密圈](http://qdxmq.com/)，貌似也是作者的个人博客。
 
-[张鑫技术男](https://zhuanlan.zhihu.com/zhangxin840)：（搬运自我介绍）关于互联网团队管理，项目管理，终端技术方面的思考。
+[张鑫技术男](https://zhuanlan.zhihu.com/zhangxin840)
+
+> ↑↑↑ 更多的是技术内核、管理层面的思考，即使很久没更新了，但文章也都极其有价值。
 
 [行思錄 | Travel Coder | Arch, Coding, Life Learning](https://liudanking.com/)：很多有价值的文章，不限于前端方面。
 

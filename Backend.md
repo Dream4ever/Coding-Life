@@ -18,6 +18,8 @@
 
 [高可用架构专用《全栈工程师之路-Node.js》](https://github.com/i5ting/nodejs-fullstack)
 
+[Best Node.js Blogs and YouTube Channels](https://stackify.com/node-js-blogs-youtube-channels/)
+
 #### 编码规范
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)

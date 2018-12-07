@@ -436,6 +436,8 @@
 >
 > - [allinurl/goaccess](https://github.com/allinurl/goaccess): 实时查看及分析 Web 日志的工具，免费，支持各种常见 Web 服务的日志
 
+> - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
+
 ## VSCode Extension | VSCode 扩展
 
 > - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 整理汇总了 VSCode 一系列丰富的资源
@@ -735,8 +737,6 @@
 > - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
 
 ## System Enhancement | 系统增强
-
-> - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 >
 > - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 在终端中查看当前主机硬件配置，Windows 需要用 MinGW/MSys 来编译
 >

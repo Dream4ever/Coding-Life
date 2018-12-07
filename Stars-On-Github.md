@@ -437,6 +437,8 @@
 > - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 >
 > - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
+>
+> - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo): 相当于 carbon 的进阶版，生成的是动态图片，模拟代码输入效果，还能够模拟代码执行效果，酷炫！
 
 ## VSCode Extension | VSCode 扩展
 

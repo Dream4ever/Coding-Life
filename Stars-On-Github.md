@@ -420,8 +420,6 @@
 >
 > - [bokub/lyo](https://github.com/bokub/lyo): 把 Node.js 模块转换成浏览器中可用的库，听起来非常棒！
 >
-> - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
->
 > - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): 命令行下的图形化 git，给不给力？
 >
 > - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): 网页版的 Dash，试了一下，还挺好用
@@ -435,8 +433,10 @@
 > - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 轻松架设私有 npm 服务
 >
 > - [allinurl/goaccess](https://github.com/allinurl/goaccess): 实时查看及分析 Web 日志的工具，免费，支持各种常见 Web 服务的日志
-
+>
 > - [asciinema / asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
+>
+> - [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 录制终端中的操作，生成 gif 图
 
 ## VSCode Extension | VSCode 扩展
 

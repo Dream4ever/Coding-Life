@@ -132,6 +132,8 @@
 >
 > - [dimsemenov / Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup): Light and responsive lightbox script with focus on performance.
 >
+> - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js): 又一个轻量的、无依赖的轮播图的库
+>
 > - [Popmotion / popmotion](https://github.com/Popmotion/popmotion): 各种各样的动画效果，旋转，缩放，移动，变色，等等等等
 >
 > - [IanLunn / Hover](https://github.com/IanLunn/Hover): 基于 CSS3 实现的各种酷炫的鼠标悬浮动画

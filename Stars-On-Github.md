@@ -160,6 +160,8 @@
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 >
+> - [tus/tus-js-client](https://github.com/tus/tus-js-client): 可断点续传的 JS 库，需对应的后端库 [tus/tus-node-server](https://github.com/tus/tus-node-server) 共同支持
+>
 > - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 >
 > - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS): 在浏览器内置的“文件系统”中模拟 Node.js 的 API，从各种各样的后端存储及读取文件

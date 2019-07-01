@@ -448,15 +448,9 @@
 
 > - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 整理汇总了 VSCode 一系列丰富的资源
 >
-> - [Grappus/Voyager-vscode](https://github.com/Grappus/Voyager-vscode): 在 VSCode 中即可查看、安装、管理当前项目的 npm 包，以及查看、执行 npm 指令
->
 > - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens): 在 VSCode 中充分发挥了 Git 的功能，应有尽有！
 >
 > - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github): 集成了 GitHub 及其各种工作流，看起来很强大
->
-> - [jschr/vscodethemes](https://github.com/jschr/vscodethemes): 在线预览各种 VSCode 的主题
->
-> - [stkb/Rewrap](https://github.com/stkb/Rewrap): 根据设定的行宽，对文字进行强制换行
 
 ## Debug Tool | 调试工具
 
@@ -605,10 +599,6 @@
 > - [wxyyxc1992 / ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 📚 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
 >
 > - [lin-xin/blog](https://github.com/lin-xin/blog): Vue、JavaScript、HTML5、Node、构建工具，各系列都有几篇文章
->
-> - [elevenbeans / elevenbeans.github.io](https://github.com/elevenbeans/elevenbeans.github.io): ✏️ Elevenbeans' blog powered by Hexo. Welcome to star! ⭐️🌟✨
->
-> - [Mybridge / learn-vue.js](https://github.com/Mybridge/learn-vue.js): Top 40 Vue.js Articles of 2017
 
 ## Awesome List | 奇妙清单
 
@@ -693,8 +683,6 @@
 > - [sindresorhus/to-milliseconds](https://github.com/sindresorhus/to-milliseconds): 收藏这个项目的目的，是通过这个项目来了解一个 JS 库的规范，需要包含哪些文件，各个文件应该如何配置，麻雀虽小，五脏俱全
 >
 > - [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 中文文案排版指北（简体中文版）
->
-> - [chsakell / mvcarchitecture](https://github.com/chsakell/mvcarchitecture): ASP.NET MVC Solution Architecture – Best Practices （项目源码结合 README.md 中提到的博客文章一起阅读，效果更佳）
 
 ## Project | 实际项目
 
@@ -709,8 +697,6 @@
 > - [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块
 >
 > - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
->
-> - [ymhou / WebAPIDemo-Vuejs](https://github.com/ymhou/WebAPIDemo-Vuejs): 构建基于ASP.NET Web API的REST风格的服务，ORM映射采用的是Entity Framework的Code First开发方式 ，Vue.js解析Wen API返回的数据
 >
 > - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): 想要了微服务、容器化在实际业务中该如何应用？看微软的这个示例项目就可以了，经典的 eshop 以微服务+容器化的形式重新焕发了活力
 >
@@ -797,8 +783,6 @@
 > - [hzlzh/Best-App](https://github.com/hzlzh/Best-App): 收集&推荐优秀的 Apps/硬件/技巧/周边等
 >
 > - [jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
->
-> - [ao/ktmm](https://github.com/ao/ktmm): 鼠标不能停！给我动起来！
 >
 > - [easychen / howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 >

@@ -572,6 +572,8 @@
 >
 > - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
 >
+> - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex): 轻松学会正则表达式
+>
 > - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
 >
 > - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.

@@ -696,7 +696,7 @@
 >
 > - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
 >
-> - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): 想要了微服务、容器化在实际业务中该如何应用？看微软的这个示例项目就可以了，经典的 eshop 以微服务+容器化的形式重新焕发了活力
+> - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): 想要了解微服务、容器化在实际业务中该如何应用？看微软的这个示例项目就可以了，经典的 eshop 以微服务+容器化的形式重新焕发了活力
 >
 > - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力.
 >

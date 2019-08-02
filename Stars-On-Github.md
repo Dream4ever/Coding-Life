@@ -160,8 +160,6 @@
 
 > - [transloadit / uppy](https://github.com/transloadit/uppy): 很棒的前端上传库，文档也很给力
 >
-> - [tus/tus-js-client](https://github.com/tus/tus-js-client): 可断点续传的 JS 库，需对应的后端库 [tus/tus-node-server](https://github.com/tus/tus-node-server) 共同支持
->
 > - [richardgirges / express-fileupload](https://github.com/richardgirges/express-fileupload): Express 的文件上传中间件
 >
 > - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS): 在浏览器内置的“文件系统”中模拟 Node.js 的 API，从各种各样的后端存储及读取文件
@@ -376,7 +374,7 @@
 
 - [WebReflection/flatted](https://github.com/WebReflection/flatted): 实现了循环引用的 JSON 解析库
 
-- [GoogleChromeLabs/page-lifecycle](GoogleChromeLabs/page-lifecycle): Google 出品，用于观察页面生命周期 API 的状态变化
+- [GoogleChromeLabs/page-lifecycle](https://github.com/GoogleChromeLabs/page-lifecycle): Google 出品，用于观察页面生命周期 API 的状态变化
 
 </details>
 
@@ -524,7 +522,7 @@
 >
 > - [stevemao / github-issue-templates](https://github.com/stevemao/github-issue-templates): 🔣 A collection of GitHub issue and pull request templates
 >
-> [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
+> - [rvagg / github-webhook-handler](https://github.com/rvagg/github-webhook-handler): Node.js web handler / middleware for processing GitHub Webhooks
 >
 > - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app): 生成 GitHub 账号和所拥有 repo 的可视化图表
 >

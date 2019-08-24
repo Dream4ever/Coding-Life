@@ -656,6 +656,8 @@
 >
 > - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero): React 简明教程
 >
+> - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)：JavaScript 测试最佳实践
+>
 > - [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices): Node.js 最佳实践
 >
 > - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
@@ -697,8 +699,6 @@
 > - [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块
 >
 > - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
->
-> - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): 想要了解微服务、容器化在实际业务中该如何应用？看微软的这个示例项目就可以了，经典的 eshop 以微服务+容器化的形式重新焕发了活力
 >
 > - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力.
 >

@@ -581,6 +581,8 @@
 > - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis): Vue.js 源码分析
 >
 > - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design): 又一个 Vue.js 的源码分析，并且用 VuePress 搭建了博客，更方便阅读
+>
+> - [DoubleLabyrinth/awesome-programming-books](https://github.com/DoubleLabyrinth/awesome-programming-books): 经典技术书籍 PDF 文件，持续更新
 
 ## Blog | 大牛博客
 

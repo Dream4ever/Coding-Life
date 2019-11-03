@@ -270,6 +270,8 @@
 
 ### Qrcode
 
+> - [soldair/node-qrcode](https://github.com/soldair/node-qrcode): 可在浏览器端/服务器端生成二维码，经对比，与[草料](https://cli.im/url)上生成的二维码相同。
+>
 > - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner)
 >
 > - [cirocosta/qcode-decoder](https://github.com/cirocosta/qcode-decoder)

@@ -692,6 +692,8 @@
 >
 > - [sindresorhus/to-milliseconds](https://github.com/sindresorhus/to-milliseconds): 收藏这个项目的目的，是通过这个项目来了解一个 JS 库的规范，需要包含哪些文件，各个文件应该如何配置，麻雀虽小，五脏俱全
 >
+> - [ittus/Refactoring-summary-2nd-javascript](https://github.com/ittus/Refactoring-summary-2nd-javascript): 一位网友阅读《重构》一书时，结合 JavaScript 这门语言，做的相关笔记
+>
 > - [mzlogin / chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines): 中文文案排版指北（简体中文版）
 
 ## Project | 实际项目

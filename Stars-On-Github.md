@@ -739,6 +739,8 @@
 ## General Education | 综合素养
 
 > - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
+>
+> - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books): 这里列出了25本最常被推荐的编程书籍
 
 ## System Enhancement | 系统增强
 >

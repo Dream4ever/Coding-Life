@@ -370,6 +370,8 @@
 
 - [hotoo/pinyin](https://github.com/hotoo/pinyin): 把汉字转换成拼音，可以用于汉字注音、排序、检索
 
+- [modood / Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China): 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 
 - [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集

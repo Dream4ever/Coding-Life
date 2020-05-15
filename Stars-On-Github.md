@@ -226,6 +226,8 @@
 >
 > - [hello-react/HoServer](https://github.com/hello-react/HoServer): 感觉类似于 Parse-Server，免费基础版的功能可能还没 Parse-Server 丰富，但是 Pro 版本的 QQ/微信/微博登录功能，以及微信/支付宝支付&流水查询功能，倒真是很实用。
 >
+> - [tporadowski / redis](https://github.com/tporadowski/redis): Redis 的 Windows 移植版，不知道和 Memurai 有什么区别。
+>
 > - [pubkey/rxdb](https://github.com/pubkey/rxdb): Web 时代的实时数据库
 >
 > - [typicode / lowdb](https://github.com/typicode/lowdb): 小巧的 JSON 数据库

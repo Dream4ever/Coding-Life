@@ -376,8 +376,6 @@
 
 - [mumuy / data_location](https://github.com/mumuy/data_location): 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 
-- [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集
-
 - [retejs/rete](https://github.com/retejs/rete): 实现了可视化编程的 JavaScript 库，拖拖拽拽就能实现指定功能，很有意思，可以体验一下
 
 - [WebReflection/flatted](https://github.com/WebReflection/flatted): 实现了循环引用的 JSON 解析库
@@ -772,6 +770,14 @@
 >
 > - [Micropoor/Micro8](https://github.com/Micropoor/Micro8): 从头学起的渗透攻击教程
 
+# Font | 字体
+
+> - [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集
+>
+> - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
+>
+> - [ecomfe / fontmin](https://github.com/ecomfe/fontmin): 字体压缩工具
+
 ## Misc
 
 > - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -781,8 +787,6 @@
 > - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore): 跨平台的代码片段管理工具，作者13岁就开始学习Web和软件开发，厉害！
 >
 > - [jbtronics / CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets): Webpage tracking only using CSS (and no JS)
->
-> - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
 >
 > - [RelaxedJS / ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 >

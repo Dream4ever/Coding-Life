@@ -144,8 +144,6 @@
 >
 > - [text-mask / text-mask](https://github.com/text-mask/text-mask): Input mask for React, Angular, Ember, Vue, & plain JavaScript
 >
-> - [fat / zoom.js](https://github.com/fat/zoom.js): Medium's Image Zoom for jQuery
->
 > - [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
 >
 > - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
@@ -205,10 +203,6 @@
 > - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
 >
 > - [tgriesser / knex](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
->
-> - [graphql / graphiql](https://github.com/graphql/graphiql): An in-browser IDE for exploring GraphQL.
->
-> - [graphql / graphql-js](https://github.com/graphql/graphql-js): GraphQL 的 JS 版本
 >
 > - [typicode / json-server](https://github.com/typicode/json-server): 极速生成虚拟的 Restful API
 >
@@ -397,8 +391,6 @@
 > - [you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/Dream4ever?tab=stars): 用原生 JS 代替 Lodash 及 Underscore
 >
 > - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): 哈哈，又是 You Dont Need 系列的，真是有意思
->
-> - [dunizb / CodeTest](https://github.com/dunizb/CodeTest): 🐷个人代码库，日常JS代码都在这里，防止电脑数据丢失。。。0.0。更新内容请关注README.md
 
 ## Algorithm | 算法实现
 
@@ -552,13 +544,9 @@
 
 ## Job | 面试宝典
 
-> - [h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
->
 > - [yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook): 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
 >
 > - [InterviewMap/InterviewMap](https://github.com/InterviewMap/InterviewMap): 又是一份中国人整理的面试宝典，目前以前端方向为主
->
-> - [alex / what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 >
 > - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): 整理了一系列常见的面试问题，以 JavaScript 为主，还有少量的 HTML、CSS、Node 和安全方面的问题（后面两方面的问题真的是很少，哈哈）
 >
@@ -576,8 +564,6 @@
 >
 > - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts): JavaScript 中必知必会的 33 个概念
 >
-> - [AllThingsSmitty / must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript): A useful list of must-watch talks about JavaScript
->
 > - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex): 轻松学会正则表达式
 >
 > - [dt-fe / weekly](https://github.com/dt-fe/weekly): 前端精读周刊
@@ -593,8 +579,6 @@
 ## Blog | 大牛博客
 
 > - [fouber / blog](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
->
-> - [jawil / blog](https://github.com/jawil/blog): Too young, too simple. Sometimes, naive & stupid 🐌
 >
 > - [DDFE / DDFE-blog](https://github.com/DDFE/DDFE-blog): 👏 welcome to DDFE's blog
 >
@@ -619,8 +603,6 @@
 > - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 >
 > - [andrew--r / frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
->
-> - [thedaviddias / Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner): 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 >
 > - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 >
@@ -674,8 +656,6 @@
 >
 > - [maxogden/art-of-node](https://github.com/maxogden/art-of-node): Node.js 入门级教程
 >
-> - [xugy0926 / learn-webapp-guideline](https://github.com/xugy0926/learn-webapp-guideline)
->
 > - [emadehsan/thal](https://github.com/emadehsan/thal): Puppeteer 爬虫教程
 >
 > - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack
@@ -709,8 +689,6 @@
 > - [gothinkster/realworld](https://github.com/gothinkster/realworld): 采用各种前端、后端技术，高仿实现 Medium.com
 >
 > - [Binaryify / vue-tetris](https://github.com/Binaryify/vue-tetris): Use Vue, Vuex, Immutable to code Tetris.使用 Vue, Vuex, Immutable 做俄罗斯方块
->
-> - [xugy0926 / community](https://github.com/xugy0926/community): a community based on Node.js
 >
 > - [tastejs/todomvc](https://github.com/tastejs/todomvc): 用各种前端框架实现的 Todo APP 大合集，为你选择合适的 MVC 助一臂之力.
 >

@@ -510,10 +510,6 @@
 
 ## Envrionment | 环境配置
 
-> - [nicolashery / mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on Mac OS X
->
-> - [donnemartin / dev-setup](https://github.com/donnemartin/dev-setup): Mac OS X development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
->
 > - [sharkdp / bat](https://github.com/sharkdp/bat): 终端指令 `cat` 和 `bat` 实现代码高亮功能
 >
 > - [klauscfhq / signale](https://github.com/klauscfhq/signale): 可自定义输出样式的日志工具

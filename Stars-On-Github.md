@@ -94,8 +94,6 @@
 >
 > - [Tencent/weui](https://github.com/Tencent/weui): 为微信内的网页和小程序量身定制的一套统一的 UI 界面
 >
-> - [peunzhang / pageResponse](https://github.com/peunzhang/pageResponse): 移动端响应式框架
->
 > - [Malvid/Malvid](https://github.com/Malvid/Malvid): 管理 UI 组件库的工具
 >
 > - [pedronauck/docz](https://github.com/pedronauck/docz): 迅速生成 Bootstrap 样式的文档页面，看起来很方便
@@ -147,8 +145,6 @@
 > - [lukechilds / merge-images](https://github.com/lukechilds/merge-images): Easily compose images together without messing around with canvas
 >
 > - [electerious / basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
->
-> - [photonstorm / phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 ### Form
 
@@ -200,8 +196,6 @@
 
 ### Restful API and ORM
 
-> - [sequelize / sequelize](https://github.com/sequelize/sequelize): An easy-to-use multi SQL dialect ORM for Node.js
->
 > - [tgriesser / knex](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 >
 > - [typicode / json-server](https://github.com/typicode/json-server): 极速生成虚拟的 Restful API
@@ -262,8 +256,6 @@
 >
 > - [MoePlayer / APlayer](https://github.com/MoePlayer/APlayer): 音乐播放器，支持常见的音频格式，可播放整个列表中的音频，可顺序播放、随机播放，还可以显示歌词
 >
-> - [jabbany / CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary): JS弹幕模块核心，提供从基本骨架到高级弹幕的支持
->
 > - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 汇总了各种用 JavaScript 实现 FFMpeg 相关操作的库
 
 ### Qrcode
@@ -299,10 +291,6 @@
 > - [typicode / hotel](https://github.com/typicode/hotel): 在浏览器中管理 Node.js 服务
 >
 > - [marklagendijk / node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup): Utility to make PM2 automatically resurrect on Windows startup
->
-> - [Tjatse / pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
->
-> - [yyx990803 / pod](https://github.com/yyx990803/pod): Git push deploy for Node.js
 
 ### Logging | 日志记录
 
@@ -324,8 +312,6 @@
 
 <details><summary>点击查看</summary>
 
-- [node-modules / utility](https://github.com/node-modules/utility): node-modules 出品，汇总了一些常用的小工具
-
 - [vuejs / vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 
 - [gridsome/gridsome](https://github.com/gridsome/gridsome): 用 Vue.js 和 GraphQL 极速生成网站
@@ -343,8 +329,6 @@
 - [kelektiv / node-uuid](https://github.com/kelektiv/node-uuid): 生成 UUID
 
 - [request / request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
-
-- [kennethreitz / requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
 
 - [terkelg / tiny-glob](https://github.com/terkelg/tiny-glob): 超级快的 glob 库
 
@@ -380,8 +364,6 @@
 
 ## Snippet | 代码片段
 
-> - [Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
->
 > - [atomiks / 30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css): A curated collection of useful CSS snippets.
 >
 > - [l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): CSS tricks web developers need to know
@@ -409,10 +391,6 @@
 > - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel): 据说可以替代 webpack，那就试一试它
 >
 > - [zswang/jdists](https://github.com/zswang/jdists): 代码块预处理器，还没太弄明白能起到什么作用
->
-> - [me115 / linuxtools_rst](https://github.com/me115/linuxtools_rst): Linux工具快速教程
->
-> - [sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli): 跨平台的进程管理工具
 >
 > - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): 基于 GPU 的终端模拟器，电脑性能足够的话，会非常流畅
 >
@@ -544,13 +522,9 @@
 
 ## Job | 面试宝典
 
-> - [yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook): 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
->
 > - [InterviewMap/InterviewMap](https://github.com/InterviewMap/InterviewMap): 又是一份中国人整理的面试宝典，目前以前端方向为主
 >
 > - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): 整理了一系列常见的面试问题，以 JavaScript 为主，还有少量的 HTML、CSS、Node 和安全方面的问题（后面两方面的问题真的是很少，哈哈）
->
-> - [arialdomartini / Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 >
 > - [CyC2018 / Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): 📚 技术面试需要掌握的基础知识，持续更新中~
 >
@@ -598,11 +572,7 @@
 >
 > - [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme): 各种 awesome 的 README，不来看一下嘛？
 >
-> - [mezod / awesome-indie](https://github.com/mezod/awesome-indie): 发家致富，迎娶白富美，走上人生巅峰，就靠它了！
->
 > - [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
->
-> - [andrew--r / frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 >
 > - [vuejs / awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 >
@@ -618,8 +588,6 @@
 >
 > - [sindresorhus / awesome](https://github.com/sindresorhus/awesome): 😎 Curated list of awesome lists
 >
-> - [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
->
 > - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX): 这个项目的价值非常高！对开发者来说
 >
 > - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
@@ -633,8 +601,6 @@
 > - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers): 收集整理了对开源项目维护者的访谈
 >
 > - [derimagia / awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows): A curated list of awesome alfred workflows
->
-> - [learn-anything / alfred-workflows](https://github.com/learn-anything/alfred-workflows): 🎩 Amazing Alfred workflows
 
 ## Tutorial | 教程
 
@@ -652,15 +618,9 @@
 >
 > - [alsotang / node-lessons](https://github.com/alsotang/node-lessons): 📕《Node.js 包教不包会》 by alsotang
 >
-> - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly): 如何正确的学习Node.js
->
 > - [maxogden/art-of-node](https://github.com/maxogden/art-of-node): Node.js 入门级教程
 >
 > - [emadehsan/thal](https://github.com/emadehsan/thal): Puppeteer 爬虫教程
->
-> - [ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos): a collection of simple demos of Webpack
->
-> - [GoogleChromeLabs / webpack-training-project](https://github.com/GoogleChromeLabs/webpack-training-project): A training project for learning Webpack optimizations
 >
 > - [yeasy / docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
@@ -716,21 +676,13 @@
 
 ## General Education | 综合素养
 
-> - [ahangchen / How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): [译]如何做好一枚程序员
->
 > - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books): 这里列出了25本最常被推荐的编程书籍
 
 ## System Enhancement | 系统增强
 >
 > - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 在终端中查看当前主机硬件配置，Windows 需要用 MinGW/MSys 来编译
 >
-> - [nikitavoloboev / my-mac-os](https://github.com/nikitavoloboev/my-mac-os): 作者收集整理了 macOS 上各种强大的软件
->
-> - [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS): mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除、通知快捷回复、表情包复制&导出、小助手更新提醒
->
 > - [soimort/you-get](https://github.com/soimort/you-get): 超级给力的下载工具，可以用它来下载 YouTube 视频
->
-> - [iikira / BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 >
 > - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): macOS 开源软件大合集，给力！
 >
@@ -746,16 +698,12 @@
 
 # Font | 字体
 
-> - [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts): 编程字体和字体图标大合集
->
 > - [tonsky / FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
 >
 > - [ecomfe / fontmin](https://github.com/ecomfe/fontmin): 字体压缩工具
 
 ## Misc
 
-> - [vitalets / github-trending-repos](https://github.com/vitalets/github-trending-repos): Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
->
 > - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): 大名鼎鼎的 gitmoji！
 >
 > - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore): 跨平台的代码片段管理工具，作者13岁就开始学习Web和软件开发，厉害！
@@ -771,8 +719,6 @@
 > - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音发错的英文单词，仔细看了看，自己也中招了好几个
 >
 > - [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 非常棒的一个英语进阶指南
->
-> - [Kenshin / simpread](https://github.com/Kenshin/simpread): 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
 >
 > - [fateleak/openwebmonitor](https://github.com/fateleak/openwebmonitor): 网页内容变更监控工具，看起来很风骚啊！
 >
